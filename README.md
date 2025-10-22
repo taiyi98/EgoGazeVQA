@@ -4,7 +4,7 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-2509.07447-b31b1b.svg)](https://arxiv.org/abs/2509.07447)
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://taiyi98.github.io/projects/EgoGazeVQA)
-[![Dataset](https://img.shields.io/badge/🤗-Dataset-yellow)](https://huggingface.co/datasets/taiyi98/EgoGazeVQA)
+[![Dataset](https://img.shields.io/badge/🤗-Dataset-yellow)](https://huggingface.co/datasets/taiyi09/EgoGazeVQA)
 
 > **Taiying Peng<sup>1</sup>, Jiacheng Hua<sup>2</sup>, Miao Liu<sup>2†</sup>, Feng Lu<sup>1†</sup>**  
 > <sup>1</sup>State Key Laboratory of VR Technology and Systems, School of CSE, Beihang University  
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-Download from [🤗 Hugging Face](https://huggingface.co/datasets/taiyi98/EgoGazeVQA):
+Download from [🤗 Hugging Face](https://huggingface.co/datasets/taiyi09/EgoGazeVQA):
 
 ```bash
 huggingface-cli download taiyi98/EgoGazeVQA --repo-type dataset --local-dir ./data
