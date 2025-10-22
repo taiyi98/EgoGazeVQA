@@ -1,0 +1,5724 @@
+{
+  "0aed7ffd-224d-4f50-94eb-9d54fd4a1521": [
+    {
+      "clip_name": "548_3118.mp4",
+      "clip_path": "548_3118.mp4",
+      "frames": [
+        "548.jpg",
+        "728.jpg",
+        "949.jpg",
+        "1102.jpg",
+        "1346.jpg",
+        "2214.jpg",
+        "2588.jpg",
+        "2736.jpg",
+        "3118.jpg"
+      ],
+      "question": "What did I look at immediately after getting the mixing bowl from the kitchen cabinet?",
+      "answer_options": [
+        "A: The recipe on the kitchen counter.",
+        "B: The carrot in the bowl on the counter.",
+        "C: The sink to wash the mixing bowl.",
+        "D: The knife in the drawer.",
+        "E: The cutting board."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "17057_19436.mp4",
+      "clip_path": "17057_19436.mp4",
+      "frames": [
+        "17057.jpg",
+        "17319.jpg",
+        "18080.jpg",
+        "18297.jpg",
+        "18474.jpg",
+        "18520.jpg",
+        "18814.jpg",
+        "19306.jpg",
+        "19436.jpg"
+      ],
+      "question": "What did I look at after checking the recipe on the kitchen counter in Frame 7?",
+      "answer_options": [
+        "A: The mixing bowls on the counter.",
+        "B: The olive oil bottle.",
+        "C: The lemon juice bottle.",
+        "D: The paper towel roll.",
+        "E: The cutting board with chopped vegetables."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "b008edb1-b0ab-4d8a-a303-5c09a6ecc790": [
+    {
+      "clip_name": "171_2130.mp4",
+      "clip_path": "171_2130.mp4",
+      "frames": [
+        "171.jpg",
+        "358.jpg",
+        "497.jpg",
+        "833.jpg",
+        "881.jpg",
+        "1441.jpg",
+        "1572.jpg",
+        "1668.jpg",
+        "2130.jpg"
+      ],
+      "question": "What did I look at after placing the saucepan on the stove?",
+      "answer_options": [
+        "A: The coffee cup on the countertop.",
+        "B: The milk pack near the sink.",
+        "C: The water level in the saucepan.",
+        "D: The gas stove controls.",
+        "E: The utensils on the counter."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "260afb8c-0cac-4f5e-8b07-02e85fc17d6f": [
+    {
+      "clip_name": "405_3421.mp4",
+      "clip_path": "405_3421.mp4",
+      "frames": [
+        "405.jpg",
+        "529.jpg",
+        "680.jpg",
+        "1507.jpg",
+        "1950.jpg",
+        "2468.jpg",
+        "2894.jpg",
+        "3333.jpg",
+        "3421.jpg"
+      ],
+      "question": "What did I look at after positioning the wheel into the fork?",
+      "answer_options": [
+        "A: The brake noodle",
+        "B: The bike repair stand",
+        "C: The derailleur",
+        "D: The level and axle",
+        "E: The floor"
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "c0049eef-6fb3-4383-9ab3-5e6b892cd843": [
+    {
+      "clip_name": "303_3483.mp4",
+      "clip_path": "303_3483.mp4",
+      "frames": [
+        "303.jpg",
+        "1334.jpg",
+        "1574.jpg",
+        "1875.jpg",
+        "1973.jpg",
+        "2663.jpg",
+        "2681.jpg",
+        "3248.jpg",
+        "3483.jpg"
+      ],
+      "question": "What did I look at after removing the COVID test swab from its package?",
+      "answer_options": [
+        "A: The COVID test vial",
+        "B: The instruction manual",
+        "C: The COVID test indicator",
+        "D: The table",
+        "E: The camera setup"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "ca360201-f003-44c5-ab2b-2487cdec5e1a": [
+    {
+      "clip_name": "240_4095.mp4",
+      "clip_path": "240_4095.mp4",
+      "frames": [
+        "240.jpg",
+        "307.jpg",
+        "843.jpg",
+        "960.jpg",
+        "4095.jpg"
+      ],
+      "question": "What did I look at before getting the chain lube from the table?",
+      "answer_options": [
+        "A: The bicycle's pedals.",
+        "B: The tools on the table.",
+        "C: The floor beneath me.",
+        "D: The chain rollers.",
+        "E: The cloth for drying."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "7afe02e8-fbde-42fe-9d1b-1663cb6e0f7d": [
+    {
+      "clip_name": "193_4115.mp4",
+      "clip_path": "193_4115.mp4",
+      "frames": [
+        "193.jpg",
+        "389.jpg",
+        "2377.jpg",
+        "4115.jpg"
+      ],
+      "question": "What did I look at before tightening both axle nuts with both hands?",
+      "answer_options": [
+        "A: The bike wheel on the table.",
+        "B: The wrench on the floor.",
+        "C: The fork of the bicycle.",
+        "D: The water bottle on the table.",
+        "E: The glove on the floor."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "919b7ecf-b37e-4dd2-9fac-4f04b80fbeb8": [
+    {
+      "clip_name": "294_3078.mp4",
+      "clip_path": "294_3078.mp4",
+      "frames": [
+        "294.jpg",
+        "381.jpg",
+        "493.jpg",
+        "633.jpg",
+        "1039.jpg",
+        "2417.jpg",
+        "2536.jpg",
+        "2948.jpg",
+        "3078.jpg"
+      ],
+      "question": "What did I look at after positioning the wheel into the bike fork?",
+      "answer_options": [
+        "A: The wrench on the shelf.",
+        "B: The tools scattered on the floor.",
+        "C: The derailleur.",
+        "D: The bike seat.",
+        "E: The bicycle handlebars."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "e353042a-42b6-44fc-b825-3017f274de96": [
+    {
+      "clip_name": "278_3191.mp4",
+      "clip_path": "278_3191.mp4",
+      "frames": [
+        "278.jpg",
+        "323.jpg",
+        "1045.jpg",
+        "1208.jpg",
+        "1245.jpg",
+        "1332.jpg",
+        "1433.jpg",
+        "2613.jpg",
+        "3191.jpg"
+      ],
+      "question": "What did I look at after engaging the tire lever on the rim?",
+      "answer_options": [
+        "A: The floor to get another tire lever.",
+        "B: The valve area of the wheel.",
+        "C: The tube inside the wheel.",
+        "D: The tools on the workbench.",
+        "E: The bicycle frame."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "bb0cce4d-4433-4e2b-9d73-be77918f2069": [
+    {
+      "clip_name": "3024_6082.mp4",
+      "clip_path": "3024_6082.mp4",
+      "frames": [
+        "3024.jpg",
+        "3769.jpg",
+        "3895.jpg",
+        "3937.jpg",
+        "4054.jpg",
+        "5395.jpg",
+        "5533.jpg",
+        "5879.jpg",
+        "6082.jpg"
+      ],
+      "question": "What did I look at immediately after cleaning the skillet with a towel?",
+      "answer_options": [
+        "A: The trash bin",
+        "B: The stove",
+        "C: The refrigerator",
+        "D: The cutting board",
+        "E: The sink"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "11643_15310.mp4",
+      "clip_path": "11643_15310.mp4",
+      "frames": [
+        "11643.jpg",
+        "11782.jpg",
+        "11868.jpg",
+        "12810.jpg",
+        "13033.jpg",
+        "13221.jpg",
+        "14256.jpg",
+        "14452.jpg",
+        "15310.jpg"
+      ],
+      "question": "What did I look at after slicing the beef on the cutting board?",
+      "answer_options": [
+        "A: The skillet on the stove.",
+        "B: The refrigerator.",
+        "C: The trash bin.",
+        "D: The sink.",
+        "E: The black pepper container."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "979fd973-086f-420e-b3af-9718eb171258": [
+    {
+      "clip_name": "754_4712.mp4",
+      "clip_path": "754_4712.mp4",
+      "frames": [
+        "754.jpg",
+        "1089.jpg",
+        "1517.jpg",
+        "1736.jpg",
+        "1889.jpg",
+        "2035.jpg",
+        "3177.jpg",
+        "3649.jpg",
+        "4712.jpg"
+      ],
+      "question": "What did the viewer look at immediately after unwrapping the COVID test indicator?",
+      "answer_options": [
+        "A: The scissors on the table.",
+        "B: The COVID test swab package.",
+        "C: The ziplock bag for disposal.",
+        "D: The camera setup in the background.",
+        "E: The COVID test vial."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "754_4712.mp4",
+      "clip_path": "754_4712.mp4",
+      "frames": [
+        "754.jpg",
+        "1089.jpg",
+        "1517.jpg",
+        "1736.jpg",
+        "1889.jpg",
+        "2035.jpg",
+        "3177.jpg",
+        "3649.jpg",
+        "4712.jpg"
+      ],
+      "question": "What did I look at after unwrapping the COVID test indicator?",
+      "answer_options": [
+        "A: The scissors on the table.",
+        "B: The ziplock bag for disposal.",
+        "C: The COVID test swab package.",
+        "D: The camera setup in the room.",
+        "E: The person standing in the background."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "754_4712.mp4",
+      "clip_path": "754_4712.mp4",
+      "frames": [
+        "754.jpg",
+        "1089.jpg",
+        "1517.jpg",
+        "1736.jpg",
+        "1889.jpg",
+        "2035.jpg",
+        "3177.jpg",
+        "3649.jpg",
+        "4712.jpg"
+      ],
+      "question": "What did I look at after unwrapping the COVID test indicator?",
+      "answer_options": [
+        "A: The scissors on the table.",
+        "B: The ziplock bag for disposal.",
+        "C: The COVID test swab package.",
+        "D: The camera setup in the room.",
+        "E: The person standing in the background."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "e1475f87-0c9d-4884-b932-140c2a0de3c3": [
+    {
+      "clip_name": "30_1404.mp4",
+      "clip_path": "30_1404.mp4",
+      "frames": [
+        "30.jpg",
+        "101.jpg",
+        "135.jpg",
+        "819.jpg",
+        "1078.jpg",
+        "1204.jpg",
+        "1404.jpg"
+      ],
+      "question": "What did I look at immediately after slicing the cucumber on the countertop?",
+      "answer_options": [
+        "A: The bowl with tomato slices.",
+        "B: The stove and frying pan.",
+        "C: The dining table in the background.",
+        "D: The knife and chopping board.",
+        "E: The refrigerator."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "98c6b563-61dd-46fd-a66e-351664092e4c": [
+    {
+      "clip_name": "299_3507.mp4",
+      "clip_path": "299_3507.mp4",
+      "frames": [
+        "299.jpg",
+        "1030.jpg",
+        "1909.jpg",
+        "1958.jpg",
+        "2135.jpg",
+        "2189.jpg",
+        "2471.jpg",
+        "3298.jpg",
+        "3507.jpg"
+      ],
+      "question": "What did I look at after pulling the tire and the inner tube out of the rim?",
+      "answer_options": [
+        "A: The valve stem on the rim.",
+        "B: The tools on the workbench.",
+        "C: The inner tube for any damage or splits.",
+        "D: The person standing in the background.",
+        "E: The floor to ensure no parts were dropped."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "410ccf87-4217-4d87-836b-4af20b355d87": [
+    {
+      "clip_name": "101_1815.mp4",
+      "clip_path": "101_1815.mp4",
+      "frames": [
+        "101.jpg",
+        "675.jpg",
+        "722.jpg",
+        "787.jpg",
+        "900.jpg",
+        "1018.jpg",
+        "1525.jpg",
+        "1668.jpg",
+        "1815.jpg"
+      ],
+      "question": "What did I look at immediately after reading the recipe manual?",
+      "answer_options": [
+        "A: The noodles pack on the table.",
+        "B: The gas cooker controls.",
+        "C: The measuring spoon on the countertop.",
+        "D: The faucet in the sink.",
+        "E: The saucepan on the gas cooker."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "7034_9028.mp4",
+      "clip_path": "7034_9028.mp4",
+      "frames": [
+        "7034.jpg",
+        "7249.jpg",
+        "7390.jpg",
+        "7952.jpg",
+        "8492.jpg",
+        "8659.jpg",
+        "8771.jpg",
+        "8950.jpg",
+        "9028.jpg"
+      ],
+      "question": "What did I look at after getting the soy sauce from the countertop?",
+      "answer_options": [
+        "A: The recipe manual.",
+        "B: The chopping board.",
+        "C: The sink.",
+        "D: The white ceramic bowl.",
+        "E: The measuring spoon."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "b7c782b1-9688-4b19-8f88-003fed1d0e61": [
+    {
+      "clip_name": "268_2849.mp4",
+      "clip_path": "268_2849.mp4",
+      "frames": [
+        "268.jpg",
+        "331.jpg",
+        "850.jpg",
+        "1330.jpg",
+        "1508.jpg",
+        "1997.jpg",
+        "2524.jpg",
+        "2576.jpg",
+        "2849.jpg"
+      ],
+      "question": "What did I look at after tightening the axle nuts using a wrench in Frame 6?",
+      "answer_options": [
+        "A: The brake noodle",
+        "B: The pedal",
+        "C: The derailleur",
+        "D: The wheel",
+        "E: The fork"
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "6f0c6cb0-bd86-4636-9ab0-20c78b1f351f": [
+    {
+      "clip_name": "485_4498.mp4",
+      "clip_path": "485_4498.mp4",
+      "frames": [
+        "485.jpg",
+        "813.jpg",
+        "1160.jpg",
+        "1493.jpg",
+        "2283.jpg",
+        "3071.jpg",
+        "3688.jpg",
+        "3800.jpg",
+        "4498.jpg"
+      ],
+      "question": "What did I look at after I squeezed out any air inside the tube with the screwdriver?",
+      "answer_options": [
+        "A: The tire lever on the table.",
+        "B: The wheel where I removed the dust cap.",
+        "C: The new inner tube's packaging.",
+        "D: The inflated new inner tube.",
+        "E: The tools on the shelf."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "c30c1104-b238-4dcf-891b-1160ede92723": [
+    {
+      "clip_name": "712_2556.mp4",
+      "clip_path": "712_2556.mp4",
+      "frames": [
+        "712.jpg",
+        "1738.jpg",
+        "2162.jpg",
+        "2409.jpg",
+        "2480.jpg",
+        "2556.jpg"
+      ],
+      "question": "What did I look at after tightening the speed shifter with the hexagonal trident tool?",
+      "answer_options": [
+        "A: The brake noodle and caliper.",
+        "B: The wheel to ensure it was properly aligned.",
+        "C: The toolbox for another tool.",
+        "D: The brake handle to test its functionality.",
+        "E: The floor to check for dropped parts."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "7130970c-73d9-413d-964e-167696280422": [
+    {
+      "clip_name": "157_2505.mp4",
+      "clip_path": "157_2505.mp4",
+      "frames": [
+        "157.jpg",
+        "488.jpg",
+        "883.jpg",
+        "993.jpg",
+        "1465.jpg",
+        "1985.jpg",
+        "2094.jpg",
+        "2220.jpg",
+        "2505.jpg"
+      ],
+      "question": "What did I look at after adding coffee grounds to the French press?",
+      "answer_options": [
+        "A: The pot of water on the stove.",
+        "B: The mug on the counter.",
+        "C: The kitchen sink.",
+        "D: The lighter for turning on the stove.",
+        "E: The napkin on the counter."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "7784_9965.mp4",
+      "clip_path": "7784_9965.mp4",
+      "frames": [
+        "7784.jpg",
+        "8434.jpg",
+        "8570.jpg",
+        "8766.jpg",
+        "9143.jpg",
+        "9577.jpg",
+        "9965.jpg"
+      ],
+      "question": "What did I look at after turning off the steam wand of the espresso machine and removing the pot of milk?",
+      "answer_options": [
+        "A: The napkin on the counter.",
+        "B: The French press.",
+        "C: The coffee mug.",
+        "D: The stove.",
+        "E: The frothed milk in the pot."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "a2fc6bb5-ad56-460e-a8ae-64db8080d5ae": [
+    {
+      "clip_name": "473_3242.mp4",
+      "clip_path": "473_3242.mp4",
+      "frames": [
+        "473.jpg",
+        "684.jpg",
+        "937.jpg",
+        "1194.jpg",
+        "1475.jpg",
+        "1705.jpg",
+        "1967.jpg",
+        "2844.jpg",
+        "3242.jpg"
+      ],
+      "question": "What did I look at immediately after picking up the mesh strainer from the saucepan on the countertop?",
+      "answer_options": [
+        "A: The spoons in the saucepan",
+        "B: The milk carton on the countertop",
+        "C: The sugar container on the countertop",
+        "D: The hot plate on the stove",
+        "E: The ginger on the countertop"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "10587_16098.mp4",
+      "clip_path": "10587_16098.mp4",
+      "frames": [
+        "10587.jpg",
+        "11010.jpg",
+        "11189.jpg",
+        "11917.jpg",
+        "12062.jpg",
+        "13060.jpg",
+        "14135.jpg",
+        "15003.jpg",
+        "16098.jpg"
+      ],
+      "question": "What did I look at immediately after adding sugar to the milk in the saucepan?",
+      "answer_options": [
+        "A: The cardamom container on the countertop.",
+        "B: The hot plate controls.",
+        "C: The cinnamon container in the basket.",
+        "D: The spoon for stirring the mixture.",
+        "E: The tea leaves container."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "10114022-4de6-43cd-af19-b3bc5cbeae31": [
+    {
+      "clip_name": "132_1783.mp4",
+      "clip_path": "132_1783.mp4",
+      "frames": [
+        "132.jpg",
+        "204.jpg",
+        "1135.jpg",
+        "1294.jpg",
+        "1551.jpg",
+        "1613.jpg",
+        "1642.jpg",
+        "1731.jpg",
+        "1783.jpg"
+      ],
+      "question": "What did I look at after slicing the scallion on the counter top with a knife?",
+      "answer_options": [
+        "A: The tray on the counter top where the scallions are stored.",
+        "B: The electric kettle to check if the water has boiled.",
+        "C: The saucepan on the cooker.",
+        "D: The sink to wash more ingredients.",
+        "E: The refrigerator to get additional ingredients."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "3525_5686.mp4",
+      "clip_path": "3525_5686.mp4",
+      "frames": [
+        "3525.jpg",
+        "3795.jpg",
+        "4024.jpg",
+        "5141.jpg",
+        "5217.jpg",
+        "5316.jpg",
+        "5414.jpg",
+        "5499.jpg",
+        "5686.jpg"
+      ],
+      "question": "What did I look at after slicing the spring onion on the counter top with a knife?",
+      "answer_options": [
+        "A: The tray on the countertop where the spring onions were placed.",
+        "B: The sink to wash more ingredients.",
+        "C: The stove to check the noodles.",
+        "D: The refrigerator to get additional ingredients.",
+        "E: The cutting board for more vegetables."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "dc8cdafd-9424-49b5-a78c-a88ae6d2cd54": [
+    {
+      "clip_name": "144_1717.mp4",
+      "clip_path": "144_1717.mp4",
+      "frames": [
+        "144.jpg",
+        "660.jpg",
+        "702.jpg",
+        "768.jpg",
+        "1129.jpg",
+        "1195.jpg",
+        "1228.jpg",
+        "1627.jpg",
+        "1717.jpg"
+      ],
+      "question": "What did I look at immediately after adding black tea to the saucepan?",
+      "answer_options": [
+        "A: The cardamom jar in the cabinet.",
+        "B: The stove knobs.",
+        "C: The water tap.",
+        "D: The countertop where the saucepan was initially placed.",
+        "E: The cloves container in the cabinet."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "4166_7832.mp4",
+      "clip_path": "4166_7832.mp4",
+      "frames": [
+        "4166.jpg",
+        "4271.jpg",
+        "6298.jpg",
+        "6578.jpg",
+        "7072.jpg",
+        "7212.jpg",
+        "7394.jpg",
+        "7697.jpg",
+        "7832.jpg"
+      ],
+      "question": "What did I look at before adjusting the stove heat with the knob?",
+      "answer_options": [
+        "A: The milk gallon in the refrigerator.",
+        "B: The saucepan on the stove.",
+        "C: The sink area.",
+        "D: The spice rack above the stove.",
+        "E: The kitchen counter."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "1831d594-72a4-42ba-9828-177bfb8b6e21": [
+    {
+      "clip_name": "2878_8087.mp4",
+      "clip_path": "2878_8087.mp4",
+      "frames": [
+        "2878.jpg",
+        "3625.jpg",
+        "4035.jpg",
+        "4289.jpg",
+        "5036.jpg",
+        "5915.jpg",
+        "6247.jpg",
+        "6725.jpg",
+        "8087.jpg"
+      ],
+      "question": "What did I look at after removing the swab from the foil pack?",
+      "answer_options": [
+        "A: The test tube on the holder",
+        "B: The instructions for the test",
+        "C: The scissors on the table",
+        "D: The testing plate in the foil pack",
+        "E: The window"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "e246e05c-cc49-4d05-98ba-de2542e42c3f": [
+    {
+      "clip_name": "197_1660.mp4",
+      "clip_path": "197_1660.mp4",
+      "frames": [
+        "197.jpg",
+        "778.jpg",
+        "916.jpg",
+        "1072.jpg",
+        "1183.jpg",
+        "1280.jpg",
+        "1342.jpg",
+        "1485.jpg",
+        "1660.jpg"
+      ],
+      "question": "What did I look at after tightening the right axle nut with my right hand?",
+      "answer_options": [
+        "A: The left axle nut",
+        "B: The floor",
+        "C: The bicycle handlebars",
+        "D: The toolbox on the right",
+        "E: The wall"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "7d33f6b7-46c0-4087-97e5-100c369ffe45": [
+    {
+      "clip_name": "338_2782.mp4",
+      "clip_path": "338_2782.mp4",
+      "frames": [
+        "338.jpg",
+        "799.jpg",
+        "859.jpg",
+        "1048.jpg",
+        "1342.jpg",
+        "1448.jpg",
+        "1525.jpg",
+        "2320.jpg",
+        "2782.jpg"
+      ],
+      "question": "What did I look at immediately after placing the bowl on the stove?",
+      "answer_options": [
+        "A: The gas lighter on the countertop.",
+        "B: The jar of milk on the countertop.",
+        "C: The trash can in the corner.",
+        "D: The stove knob to adjust the heat.",
+        "E: The cutting board next to the stove."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "5628_7702.mp4",
+      "clip_path": "5628_7702.mp4",
+      "frames": [
+        "5628.jpg",
+        "5751.jpg",
+        "6332.jpg",
+        "6445.jpg",
+        "6599.jpg",
+        "7141.jpg",
+        "7212.jpg",
+        "7300.jpg",
+        "7702.jpg"
+      ],
+      "question": "What did I look at immediately after adjusting the stove heat in Frame 4?",
+      "answer_options": [
+        "A: The big bowl on the sink",
+        "B: The milk in the pot",
+        "C: The nutmeg pack on the countertop",
+        "D: The spoon on the countertop",
+        "E: The tap for washing hands"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "eaa6d996-c634-4488-9f7b-fe5487202f63": [
+    {
+      "clip_name": "1266_3505.mp4",
+      "clip_path": "1266_3505.mp4",
+      "frames": [
+        "1266.jpg",
+        "2535.jpg",
+        "3289.jpg",
+        "3505.jpg"
+      ],
+      "question": "What did I look at after fitting the tire to the bike rim?",
+      "answer_options": [
+        "A: The air pump on the floor.",
+        "B: The valve stem of the tire.",
+        "C: The dust cap on the workbench.",
+        "D: The inner tube in my hand.",
+        "E: The bicycle wheel already assembled."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "cb33cc35-bebf-4bef-b9d8-13b5126726e0": [
+    {
+      "clip_name": "520_1762.mp4",
+      "clip_path": "520_1762.mp4",
+      "frames": [
+        "520.jpg",
+        "547.jpg",
+        "998.jpg",
+        "1092.jpg",
+        "1130.jpg",
+        "1669.jpg",
+        "1762.jpg"
+      ],
+      "question": "What did I look at immediately after tapping the mannequin on the head to check consciousness in Frame 7?",
+      "answer_options": [
+        "A: The tripod in the background.",
+        "B: The chest of the mannequin.",
+        "C: The instructor standing nearby.",
+        "D: The sky and trees in the distance.",
+        "E: The ground near the mannequin."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "9105418d-9a1b-445b-a77e-108d22530a8c": [
+    {
+      "clip_name": "828_4192.mp4",
+      "clip_path": "828_4192.mp4",
+      "frames": [
+        "828.jpg",
+        "1184.jpg",
+        "2721.jpg",
+        "2959.jpg",
+        "3549.jpg",
+        "3785.jpg",
+        "3868.jpg",
+        "4192.jpg"
+      ],
+      "question": "What did I look at after attaching the brake cable to the wheel?",
+      "answer_options": [
+        "A: The tool shelf for another wrench.",
+        "B: The rear axle to ensure the brake cable was properly connected.",
+        "C: The chain to check its alignment.",
+        "D: The pedal to rotate it again.",
+        "E: The front fork of the bicycle."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "ff468baf-2313-4b39-8dc3-a1d1b6f71a5d": [
+    {
+      "clip_name": "99_1325.mp4",
+      "clip_path": "99_1325.mp4",
+      "frames": [
+        "99.jpg",
+        "230.jpg",
+        "348.jpg",
+        "525.jpg",
+        "1325.jpg"
+      ],
+      "question": "What did I look at before lifting the wheel into the fork?",
+      "answer_options": [
+        "A: The tool box to find the appropriate wrench.",
+        "B: The bicycle frame to ensure it was stable.",
+        "C: The floor to check for any obstacles.",
+        "D: The wall-mounted tools to select a different tool.",
+        "E: The workbench to gather additional parts."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "df58f8e9-7300-4bf5-a7b6-1452b4ce4fc1": [
+    {
+      "clip_name": "171_1388.mp4",
+      "clip_path": "171_1388.mp4",
+      "frames": [
+        "171.jpg",
+        "352.jpg",
+        "378.jpg",
+        "626.jpg",
+        "717.jpg",
+        "867.jpg",
+        "944.jpg",
+        "1163.jpg",
+        "1388.jpg"
+      ],
+      "question": "What did I look at immediately after getting onions from the bowl?",
+      "answer_options": [
+        "A: The knife on the counter top.",
+        "B: The plate with other ingredients.",
+        "C: The cutting board and the knife.",
+        "D: The basket of plates.",
+        "E: The camera setup in the background."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "3097_4589.mp4",
+      "clip_path": "3097_4589.mp4",
+      "frames": [
+        "3097.jpg",
+        "3135.jpg",
+        "3328.jpg",
+        "3462.jpg",
+        "3624.jpg",
+        "3717.jpg",
+        "4145.jpg",
+        "4589.jpg"
+      ],
+      "question": "What did I look at immediately after cutting the tomato with the knife?",
+      "answer_options": [
+        "A: The plate where I added the tomato.",
+        "B: The oil bottle on the counter.",
+        "C: The spoon on the counter.",
+        "D: The camera setup in the background.",
+        "E: The bag of bread."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "57dee964-b77f-430b-8f37-fa4e5ba5c6a3": [
+    {
+      "clip_name": "422_4324.mp4",
+      "clip_path": "422_4324.mp4",
+      "frames": [
+        "422.jpg",
+        "646.jpg",
+        "2092.jpg",
+        "2279.jpg",
+        "2435.jpg",
+        "2740.jpg",
+        "3647.jpg",
+        "3917.jpg",
+        "4324.jpg"
+      ],
+      "question": "What did I look at immediately after adding butter into the skillet on low heat?",
+      "answer_options": [
+        "A: The electric cooker's control panel",
+        "B: The spatula on the countertop",
+        "C: The white bowl with eggs",
+        "D: The sink",
+        "E: The refrigerator"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "6766_8055.mp4",
+      "clip_path": "6766_8055.mp4",
+      "frames": [
+        "6766.jpg",
+        "6836.jpg",
+        "7565.jpg",
+        "7736.jpg",
+        "8055.jpg"
+      ],
+      "question": "What did I look at immediately after adding black pepper to the eggs in the skillet?",
+      "answer_options": [
+        "A: The countertop where I put away the black pepper container.",
+        "B: The electric cooker's heat control.",
+        "C: The plate where I served the scrambled eggs.",
+        "D: The sink area.",
+        "E: The refrigerator."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "ea5d4f8b-050f-4652-a83a-498f97586d8d": [
+    {
+      "clip_name": "248_9135.mp4",
+      "clip_path": "248_9135.mp4",
+      "frames": [
+        "248.jpg",
+        "577.jpg",
+        "4183.jpg",
+        "4422.jpg",
+        "4671.jpg",
+        "6784.jpg",
+        "6980.jpg",
+        "7326.jpg",
+        "9135.jpg"
+      ],
+      "question": "What did I look at immediately after getting the onions from the countertop?",
+      "answer_options": [
+        "A: The chopping board on the bottom shelf.",
+        "B: The tomato on the countertop.",
+        "C: The sink to wash the onions.",
+        "D: The stove to turn it on.",
+        "E: The knife on the counter."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "13038_14947.mp4",
+      "clip_path": "13038_14947.mp4",
+      "frames": [
+        "13038.jpg",
+        "13201.jpg",
+        "13404.jpg",
+        "13824.jpg",
+        "13961.jpg",
+        "14105.jpg",
+        "14722.jpg",
+        "14892.jpg",
+        "14947.jpg"
+      ],
+      "question": "What did I look at before getting the wide skillet from the countertop?",
+      "answer_options": [
+        "A: The stove heat controls.",
+        "B: The bowl on the counter.",
+        "C: The salt container.",
+        "D: The egg crate.",
+        "E: The onions in the skillet."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "2bb5ab9f-0fa9-4eeb-b550-9b7a9bffe3ee": [
+    {
+      "clip_name": "136_1684.mp4",
+      "clip_path": "136_1684.mp4",
+      "frames": [
+        "136.jpg",
+        "329.jpg",
+        "371.jpg",
+        "431.jpg",
+        "475.jpg",
+        "698.jpg",
+        "738.jpg",
+        "1374.jpg",
+        "1684.jpg"
+      ],
+      "question": "What did I look at immediately after unboxing the test tube holder in the COVID test pack?",
+      "answer_options": [
+        "A: The instruction sheet",
+        "B: The extra test tubes",
+        "C: The scissors on the table",
+        "D: The swab packaging",
+        "E: The test tube inside its packaging"
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "clip_name": "5033_6629.mp4",
+      "clip_path": "5033_6629.mp4",
+      "frames": [
+        "5033.jpg",
+        "5282.jpg",
+        "5311.jpg",
+        "5586.jpg",
+        "5715.jpg",
+        "6177.jpg",
+        "6253.jpg",
+        "6471.jpg",
+        "6629.jpg"
+      ],
+      "question": "What did I look at immediately after positioning the testing tube in the test tube holder?",
+      "answer_options": [
+        "A: The buffer solution container",
+        "B: The testing plate",
+        "C: The swab packaging",
+        "D: The instruction manual",
+        "E: The tripod setup"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "b918c9ce-f1ad-4fb2-9569-3726685517ee": [
+    {
+      "clip_name": "979_3192.mp4",
+      "clip_path": "979_3192.mp4",
+      "frames": [
+        "979.jpg",
+        "1219.jpg",
+        "1468.jpg",
+        "1545.jpg",
+        "1681.jpg",
+        "2153.jpg",
+        "2433.jpg",
+        "2550.jpg",
+        "3192.jpg"
+      ],
+      "question": "What did I look at immediately after getting the plate from the kitchen cabinet?",
+      "answer_options": [
+        "A: The recipe on my phone",
+        "B: The can of fish on the counter",
+        "C: The sink and faucet",
+        "D: The chopsticks in the drawer",
+        "E: The tamari jar in the refrigerator"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "9533_14756.mp4",
+      "clip_path": "9533_14756.mp4",
+      "frames": [
+        "9533.jpg",
+        "10233.jpg",
+        "12115.jpg",
+        "12328.jpg",
+        "14618.jpg",
+        "14756.jpg"
+      ],
+      "question": "What did I look at immediately after rolling up the sushi using the rolling mat?",
+      "answer_options": [
+        "A: The recipe on the phone",
+        "B: The kitchen tap",
+        "C: The cutting board",
+        "D: The plate in the cabinet",
+        "E: The knife"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "554bdf0b-2239-4c83-ae2c-38907ca0bfc3": [
+    {
+      "clip_name": "1227_7555.mp4",
+      "clip_path": "1227_7555.mp4",
+      "frames": [
+        "1227.jpg",
+        "1499.jpg",
+        "2052.jpg",
+        "6170.jpg",
+        "6266.jpg",
+        "6951.jpg",
+        "7124.jpg",
+        "7255.jpg",
+        "7555.jpg"
+      ],
+      "question": "What did I look at immediately after arranging the chopping board on the table?",
+      "answer_options": [
+        "A: The carrot in the bowl on the countertop.",
+        "B: The trash can near the sink.",
+        "C: The grater on the chopping board.",
+        "D: The celery in the bowl.",
+        "E: The onion slices in the bowl."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "15535_20045.mp4",
+      "clip_path": "15535_20045.mp4",
+      "frames": [
+        "15535.jpg",
+        "15719.jpg",
+        "15954.jpg",
+        "16982.jpg",
+        "17127.jpg",
+        "18006.jpg",
+        "18152.jpg",
+        "19069.jpg",
+        "20045.jpg"
+      ],
+      "question": "What did I look at immediately after getting the tamari bottle from the bottom shelf?",
+      "answer_options": [
+        "A: The small container on the countertop.",
+        "B: The honey bottle on the shelf.",
+        "C: The lemon juice bottle in the bowl.",
+        "D: The toasted sesame oil bottle on the shelf.",
+        "E: The kitchen towel on the counter."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "05db9b5f-6904-43d2-99f8-62e6d3353afb": [
+    {
+      "clip_name": "1087_6911.mp4",
+      "clip_path": "1087_6911.mp4",
+      "frames": [
+        "1087.jpg",
+        "1471.jpg",
+        "2067.jpg",
+        "2964.jpg",
+        "3966.jpg",
+        "4193.jpg",
+        "4472.jpg",
+        "5835.jpg",
+        "6911.jpg"
+      ],
+      "question": "What did I look at immediately after washing my hands in the sink?",
+      "answer_options": [
+        "A: The electric kettle on the table",
+        "B: The cabinet where the tea bag is stored",
+        "C: The cup that needs to be washed",
+        "D: The faucet while filling the electric kettle with water",
+        "E: The camera setup in the room"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "14169_16985.mp4",
+      "clip_path": "14169_16985.mp4",
+      "frames": [
+        "14169.jpg",
+        "14573.jpg",
+        "14646.jpg",
+        "14835.jpg",
+        "15509.jpg",
+        "15813.jpg",
+        "16450.jpg",
+        "16663.jpg",
+        "16985.jpg"
+      ],
+      "question": "What did I look at after disposing of the tea bag wrap in the trash?",
+      "answer_options": [
+        "A: The countertop where the sugar is located.",
+        "B: The sink to wash my hands.",
+        "C: The cup with hot water on the counter.",
+        "D: The fridge to get milk.",
+        "E: The tea bag wrap still in my hand."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "8623740d-86a1-4b83-82a0-c99923ce6bdb": [
+    {
+      "clip_name": "2695_3354.mp4",
+      "clip_path": "2695_3354.mp4",
+      "frames": [
+        "2695.jpg",
+        "2871.jpg",
+        "2933.jpg",
+        "3105.jpg",
+        "3206.jpg",
+        "3261.jpg",
+        "3281.jpg",
+        "3327.jpg",
+        "3354.jpg"
+      ],
+      "question": "What did I look at immediately after washing the celery under the tap?",
+      "answer_options": [
+        "A: The napkin on the countertop.",
+        "B: The bell pepper in the stainless steel bowl.",
+        "C: The carrots on the tray.",
+        "D: The knife on the countertop.",
+        "E: The cutting board."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "7260_9047.mp4",
+      "clip_path": "7260_9047.mp4",
+      "frames": [
+        "7260.jpg",
+        "7683.jpg",
+        "7712.jpg",
+        "7940.jpg",
+        "8026.jpg",
+        "8320.jpg",
+        "8843.jpg",
+        "8961.jpg",
+        "9047.jpg"
+      ],
+      "question": "What did I look at after cutting the bell pepper with the knife on the chopping board?",
+      "answer_options": [
+        "A: The tray with the uncut bell pepper",
+        "B: The fresh cilantro on the tray",
+        "C: The bowl where the cut vegetables are being placed",
+        "D: The sesame seeds container",
+        "E: The salt shaker"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "8db188af-c56c-4cd0-aa45-6aa187881f08": [
+    {
+      "clip_name": "908_2302.mp4",
+      "clip_path": "908_2302.mp4",
+      "frames": [
+        "908.jpg",
+        "1006.jpg",
+        "1203.jpg",
+        "1264.jpg",
+        "1447.jpg",
+        "1510.jpg",
+        "1665.jpg",
+        "1717.jpg",
+        "2302.jpg"
+      ],
+      "question": "What did I look at after arranging the test materials on the table?",
+      "answer_options": [
+        "A: The scissors",
+        "B: The cover of the COVID test package",
+        "C: The instruction manual",
+        "D: The test tube",
+        "E: The test swab"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "3590_5041.mp4",
+      "clip_path": "3590_5041.mp4",
+      "frames": [
+        "3590.jpg",
+        "3928.jpg",
+        "4184.jpg",
+        "5041.jpg"
+      ],
+      "question": "What did I look at after unwrapping the test device from its pack?",
+      "answer_options": [
+        "A: The ziploc bag for disposal.",
+        "B: The test tube with the solution.",
+        "C: The scissors on the table.",
+        "D: The used test packs.",
+        "E: The instructions on the COVID test package."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "2f61dd27-2ad2-4029-b36d-19a02ae8feec": [
+    {
+      "clip_name": "1868_4000.mp4",
+      "clip_path": "1868_4000.mp4",
+      "frames": [
+        "1868.jpg",
+        "2623.jpg",
+        "3093.jpg",
+        "3206.jpg",
+        "3343.jpg",
+        "3476.jpg",
+        "3591.jpg",
+        "3728.jpg",
+        "4000.jpg"
+      ],
+      "question": "What did I look at after adding water to the pot from the bowl for the second time?",
+      "answer_options": [
+        "A: The recipe paper on the counter.",
+        "B: The kitchen sink.",
+        "C: The stove controls.",
+        "D: The cabinet above the sink.",
+        "E: The utensils on the counter."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "11718_16472.mp4",
+      "clip_path": "11718_16472.mp4",
+      "frames": [
+        "11718.jpg",
+        "12390.jpg",
+        "12546.jpg",
+        "12718.jpg",
+        "12870.jpg",
+        "12992.jpg",
+        "15631.jpg",
+        "16319.jpg",
+        "16472.jpg"
+      ],
+      "question": "What did I look at immediately after dicing the scallion with the knife?",
+      "answer_options": [
+        "A: The stove knob to regulate the heat.",
+        "B: The paper recipe on the countertop.",
+        "C: The pot of noodles on the stove.",
+        "D: The cutting board with diced garlic.",
+        "E: The sink area."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "5f153be3-ed11-470c-b032-e779d7a88180": [
+    {
+      "clip_name": "281_3428.mp4",
+      "clip_path": "281_3428.mp4",
+      "frames": [
+        "281.jpg",
+        "663.jpg",
+        "833.jpg",
+        "1088.jpg",
+        "1393.jpg",
+        "2007.jpg",
+        "2213.jpg",
+        "2343.jpg",
+        "3428.jpg"
+      ],
+      "question": "What did I look at after cracking the eggs into the mixing bowl?",
+      "answer_options": [
+        "A: The crate of eggs",
+        "B: The spoon on the rack",
+        "C: The green chilies on the counter",
+        "D: The sliced onions in the bowl",
+        "E: The camera setup in the background"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "6134_9308.mp4",
+      "clip_path": "6134_9308.mp4",
+      "frames": [
+        "6134.jpg",
+        "6901.jpg",
+        "7045.jpg",
+        "7639.jpg",
+        "7926.jpg",
+        "8442.jpg",
+        "8757.jpg",
+        "9040.jpg",
+        "9308.jpg"
+      ],
+      "question": "What did I look at after adding black pepper to the mixing bowl?",
+      "answer_options": [
+        "A: The whisk and spoon on the counter.",
+        "B: The sink where I washed my hands.",
+        "C: The skillet with oil on the stove.",
+        "D: The compartment where ginger is stored.",
+        "E: The spatula that was used for stirring."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "98869610-d638-4475-8f9a-73f5f878e54e": [
+    {
+      "clip_name": "331_1499.mp4",
+      "clip_path": "331_1499.mp4",
+      "frames": [
+        "331.jpg",
+        "494.jpg",
+        "579.jpg",
+        "992.jpg",
+        "1051.jpg",
+        "1449.jpg",
+        "1499.jpg"
+      ],
+      "question": "What did I look at immediately after checking for breath in Frame 3?",
+      "answer_options": [
+        "A: The mannequin's chest",
+        "B: The people standing nearby",
+        "C: My hands as I interlaced my fingers",
+        "D: The floor near the mannequin",
+        "E: The ceiling"
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "6b90b173-de80-4a88-b52c-7eec42fd372b": [
+    {
+      "clip_name": "812_3140.mp4",
+      "clip_path": "812_3140.mp4",
+      "frames": [
+        "812.jpg",
+        "944.jpg",
+        "1051.jpg",
+        "1131.jpg",
+        "2028.jpg",
+        "2098.jpg",
+        "3060.jpg",
+        "3140.jpg"
+      ],
+      "question": "What did I look at immediately after checking the patient's breathing to confirm their consciousness?",
+      "answer_options": [
+        "A: The patient's chest",
+        "B: The floor",
+        "C: The wall in front of me",
+        "D: The door on my left",
+        "E: The ceiling"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "6a3376a7-949e-4385-b16e-076dfb8c3f5a": [
+    {
+      "clip_name": "386_1578.mp4",
+      "clip_path": "386_1578.mp4",
+      "frames": [
+        "386.jpg",
+        "601.jpg",
+        "829.jpg",
+        "1005.jpg",
+        "1086.jpg",
+        "1264.jpg",
+        "1316.jpg",
+        "1554.jpg",
+        "1578.jpg"
+      ],
+      "question": "What did I look at immediately after unfolding and placing the COVID-19 test instruction manual on the table?",
+      "answer_options": [
+        "A: The extra test materials in the box",
+        "B: The digital timer on the table",
+        "C: The COVID-19 testing tube seal",
+        "D: The camera setup in the room",
+        "E: The COVID-19 collection swab packaging"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "58004f8a-fd60-4db6-8145-5125a4cd346f": [
+    {
+      "clip_name": "422_3220.mp4",
+      "clip_path": "422_3220.mp4",
+      "frames": [
+        "422.jpg",
+        "662.jpg",
+        "735.jpg",
+        "1916.jpg",
+        "1967.jpg",
+        "3173.jpg",
+        "3220.jpg"
+      ],
+      "question": "What did I look at immediately after placing both palms on the chest of the CPR manikin?",
+      "answer_options": [
+        "A: The tripod in the background",
+        "B: The face of the CPR manikin",
+        "C: The floor beneath the manikin",
+        "D: The ceiling lights",
+        "E: The wall behind the manikin"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "6fee2c75-fded-4e56-850f-0c29c809c1ee": [
+    {
+      "clip_name": "517_2571.mp4",
+      "clip_path": "517_2571.mp4",
+      "frames": [
+        "517.jpg",
+        "611.jpg",
+        "690.jpg",
+        "945.jpg",
+        "1431.jpg",
+        "2040.jpg",
+        "2186.jpg",
+        "2471.jpg",
+        "2571.jpg"
+      ],
+      "question": "What did I look at before getting the lemon juice jar from the white bowl?",
+      "answer_options": [
+        "A: The recipe paper on the countertop.",
+        "B: The grater on the counter.",
+        "C: The napkin used to clean the countertop.",
+        "D: The black tea in the cabinet.",
+        "E: The pepper jar in the cabinet."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "4947_6446.mp4",
+      "clip_path": "4947_6446.mp4",
+      "frames": [
+        "4947.jpg",
+        "5034.jpg",
+        "5343.jpg",
+        "5668.jpg",
+        "5711.jpg",
+        "5769.jpg",
+        "5925.jpg",
+        "6260.jpg",
+        "6446.jpg"
+      ],
+      "question": "What did I look at immediately after getting the salt jar from the countertop?",
+      "answer_options": [
+        "A: The recipe paper on the counter.",
+        "B: The soy sauce in the cabinet.",
+        "C: The sesame oil bottle.",
+        "D: The white pepper container.",
+        "E: The honey jar."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "46018fc1-21a0-4c62-b009-ad420b731686": [
+    {
+      "clip_name": "117_1071.mp4",
+      "clip_path": "117_1071.mp4",
+      "frames": [
+        "117.jpg",
+        "171.jpg",
+        "206.jpg",
+        "262.jpg",
+        "379.jpg",
+        "897.jpg",
+        "974.jpg",
+        "1027.jpg",
+        "1071.jpg"
+      ],
+      "question": "What did I look at immediately after checking the patient's breathing by putting my ear close to their nose?",
+      "answer_options": [
+        "A: The patient's chest",
+        "B: The patient's shoulder",
+        "C: The patient's face",
+        "D: The floor",
+        "E: The ceiling"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "c529c120-c1fb-4504-97c7-52912c2aa3c0": [
+    {
+      "clip_name": "179_1309.mp4",
+      "clip_path": "179_1309.mp4",
+      "frames": [
+        "179.jpg",
+        "309.jpg",
+        "338.jpg",
+        "433.jpg",
+        "590.jpg",
+        "680.jpg",
+        "723.jpg",
+        "1126.jpg",
+        "1309.jpg"
+      ],
+      "question": "What did I look at immediately after getting the spring onion from the countertop?",
+      "answer_options": [
+        "A: The trash bin to dispose of the root.",
+        "B: The knife on the countertop.",
+        "C: The chopping board in the cabinet.",
+        "D: The sink to wash the spring onion.",
+        "E: The cutting board to prepare for slicing."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "7218_8556.mp4",
+      "clip_path": "7218_8556.mp4",
+      "frames": [
+        "7218.jpg",
+        "7277.jpg",
+        "7428.jpg",
+        "7459.jpg",
+        "7497.jpg",
+        "8051.jpg",
+        "8198.jpg",
+        "8486.jpg",
+        "8556.jpg"
+      ],
+      "question": "What did I look at immediately after cracking the egg into the mixing bowl?",
+      "answer_options": [
+        "A: The trash bin",
+        "B: The fork on the countertop",
+        "C: The salt container",
+        "D: The egg crate",
+        "E: The mixing bowl"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "e846fd07-a298-4313-a591-04292b5c5097": [
+    {
+      "clip_name": "373_3177.mp4",
+      "clip_path": "373_3177.mp4",
+      "frames": [
+        "373.jpg",
+        "618.jpg",
+        "718.jpg",
+        "1084.jpg",
+        "2000.jpg",
+        "2279.jpg",
+        "2399.jpg",
+        "2792.jpg",
+        "3177.jpg"
+      ],
+      "question": "What did I look at immediately after adding olive oil to the cup with a measuring spoon for the second time?",
+      "answer_options": [
+        "A: The recipe sheet",
+        "B: The kitchen island",
+        "C: The sink",
+        "D: The measuring spoon",
+        "E: The olive oil bottle"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "10291_17350.mp4",
+      "clip_path": "10291_17350.mp4",
+      "frames": [
+        "10291.jpg",
+        "10835.jpg",
+        "11099.jpg",
+        "13514.jpg",
+        "13630.jpg",
+        "13888.jpg",
+        "14136.jpg",
+        "16594.jpg",
+        "17350.jpg"
+      ],
+      "question": "What did I look at immediately after reading the recipe sheet?",
+      "answer_options": [
+        "A: The carrot pack on the kitchen island",
+        "B: The sink",
+        "C: The waste bin",
+        "D: The red bell pepper",
+        "E: The chopping board"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "83d9f439-642d-47b8-bc95-1a9442a0f4f6": [
+    {
+      "clip_name": "162_2305.mp4",
+      "clip_path": "162_2305.mp4",
+      "frames": [
+        "162.jpg",
+        "606.jpg",
+        "664.jpg",
+        "769.jpg",
+        "1102.jpg",
+        "1441.jpg",
+        "1631.jpg",
+        "2151.jpg",
+        "2305.jpg"
+      ],
+      "question": "What did I look at immediately after adding water into the pot?",
+      "answer_options": [
+        "A: The black tea container in the cabinet.",
+        "B: The measuring spoon on the countertop.",
+        "C: The mug on the countertop.",
+        "D: The stove controls.",
+        "E: The pot on the stove."
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "clip_name": "4828_8345.mp4",
+      "clip_path": "4828_8345.mp4",
+      "frames": [
+        "4828.jpg",
+        "4885.jpg",
+        "5782.jpg",
+        "6010.jpg",
+        "6694.jpg",
+        "7868.jpg",
+        "7915.jpg",
+        "7960.jpg",
+        "8345.jpg"
+      ],
+      "question": "What did I look at immediately after adding milk to the tea in the pot?",
+      "answer_options": [
+        "A: The sugar container on the countertop.",
+        "B: The stove controls to regulate heat.",
+        "C: The carton of milk on the countertop.",
+        "D: The spoon on the countertop.",
+        "E: The recipe book on the counter."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "be266e24-9627-4b79-84cb-1606b5743f0b": [
+    {
+      "clip_name": "938_9545.mp4",
+      "clip_path": "938_9545.mp4",
+      "frames": [
+        "938.jpg",
+        "1570.jpg",
+        "2239.jpg",
+        "4168.jpg",
+        "5170.jpg",
+        "6347.jpg",
+        "7489.jpg",
+        "9136.jpg",
+        "9545.jpg"
+      ],
+      "question": "What did I look at after slicing the beef tomatoes on the chopping board with a knife?",
+      "answer_options": [
+        "A: The skillet heating on the stove.",
+        "B: The bowl of whisked eggs.",
+        "C: The refrigerator to get more ingredients.",
+        "D: The kitchen sink to wash my hands.",
+        "E: The microwave to heat something."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "15144_23113.mp4",
+      "clip_path": "15144_23113.mp4",
+      "frames": [
+        "15144.jpg",
+        "19313.jpg",
+        "19611.jpg",
+        "19918.jpg",
+        "20191.jpg",
+        "21127.jpg",
+        "21360.jpg",
+        "21707.jpg",
+        "23113.jpg"
+      ],
+      "question": "What did I look at before rinsing the bowl under the kitchen tap?",
+      "answer_options": [
+        "A: The jar of oil on the countertop.",
+        "B: The skillet with scrambled eggs and tomatoes.",
+        "C: The fork that was just used.",
+        "D: The cutting board with remaining ingredients.",
+        "E: The ladle used for stirring."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "1215d140-b34c-43f3-82dc-c3f102bbf1e4": [
+    {
+      "clip_name": "292_2802.mp4",
+      "clip_path": "292_2802.mp4",
+      "frames": [
+        "292.jpg",
+        "446.jpg",
+        "633.jpg",
+        "961.jpg",
+        "1232.jpg",
+        "1394.jpg",
+        "1880.jpg",
+        "2407.jpg",
+        "2802.jpg"
+      ],
+      "question": "What did I look at after adding butter to the skillet?",
+      "answer_options": [
+        "A: The eggs on the countertop.",
+        "B: The stove knob to regulate heat.",
+        "C: The tomato near the sink.",
+        "D: The salt container on the counter.",
+        "E: The spatula in the plate dryer."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "6297_7446.mp4",
+      "clip_path": "6297_7446.mp4",
+      "frames": [
+        "6297.jpg",
+        "6428.jpg",
+        "6604.jpg",
+        "7188.jpg",
+        "7376.jpg",
+        "7446.jpg"
+      ],
+      "question": "What did I look at immediately after switching off the socket on the wall?",
+      "answer_options": [
+        "A: The skillet on the countertop.",
+        "B: The plate with food.",
+        "C: The sink area.",
+        "D: The stove and cooking ingredients.",
+        "E: The cabinet above the counter."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "fb626925-969e-48ea-aeda-ef99300fb8f7": [
+    {
+      "clip_name": "1135_7904.mp4",
+      "clip_path": "1135_7904.mp4",
+      "frames": [
+        "1135.jpg",
+        "1183.jpg",
+        "1591.jpg",
+        "2216.jpg",
+        "3854.jpg",
+        "5490.jpg",
+        "6256.jpg",
+        "7195.jpg",
+        "7904.jpg"
+      ],
+      "question": "What did I look at immediately after turning on the heat of the electric kettle?",
+      "answer_options": [
+        "A: The cup in the cabinet.",
+        "B: The tea bag in the cabinet.",
+        "C: The sugar on the countertop.",
+        "D: The spoon in the drawer.",
+        "E: The kettle as it started to boil."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "4535b913-a861-4a1a-b75f-5718ad3a5361": [
+    {
+      "clip_name": "271_7984.mp4",
+      "clip_path": "271_7984.mp4",
+      "frames": [
+        "271.jpg",
+        "981.jpg",
+        "3203.jpg",
+        "4010.jpg",
+        "4458.jpg",
+        "5553.jpg",
+        "5950.jpg",
+        "6729.jpg",
+        "7984.jpg"
+      ],
+      "question": "What did I look at immediately after adding water and degreaser to the brushes in Frame 2?",
+      "answer_options": [
+        "A: The chain on the bicycle.",
+        "B: The paper towel on the table.",
+        "C: The tripod in the background.",
+        "D: The person standing near the door.",
+        "E: The tools on the workbench."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "9759968e-f72c-43b4-950e-3f715fdcd4ee": [
+    {
+      "clip_name": "476_4009.mp4",
+      "clip_path": "476_4009.mp4",
+      "frames": [
+        "476.jpg",
+        "1029.jpg",
+        "1580.jpg",
+        "1764.jpg",
+        "2441.jpg",
+        "2549.jpg",
+        "3206.jpg",
+        "3353.jpg",
+        "4009.jpg"
+      ],
+      "question": "What did I look at after I cleaned the chain while it remained stationary with the two brushes?",
+      "answer_options": [
+        "A: The soapy water where I dipped the brushes.",
+        "B: The tripod setup in the corner of the room.",
+        "C: The window to check the lighting.",
+        "D: The tools on the table.",
+        "E: The bicycle's handlebars."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "3540ae4e-89f8-4f61-8606-3492031c35fe": [
+    {
+      "clip_name": "53_6519.mp4",
+      "clip_path": "53_6519.mp4",
+      "frames": [
+        "53.jpg",
+        "245.jpg",
+        "356.jpg",
+        "489.jpg",
+        "610.jpg",
+        "690.jpg",
+        "2245.jpg",
+        "6483.jpg",
+        "6519.jpg"
+      ],
+      "question": "What did I look at immediately after getting the electric kettle from the countertop?",
+      "answer_options": [
+        "A: The sink",
+        "B: The water faucet",
+        "C: The coffee maker",
+        "D: The stove",
+        "E: The refrigerator"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "ab4b4145-563f-42f9-bfb6-97b48bdaa2c7": [
+    {
+      "clip_name": "730_2776.mp4",
+      "clip_path": "730_2776.mp4",
+      "frames": [
+        "730.jpg",
+        "1147.jpg",
+        "1383.jpg",
+        "1479.jpg",
+        "1900.jpg",
+        "2043.jpg",
+        "2188.jpg",
+        "2592.jpg",
+        "2776.jpg"
+      ],
+      "question": "What did I look at immediately after reducing the water in the pot?",
+      "answer_options": [
+        "A: The ground coffee container on the countertop.",
+        "B: The spoon on the kitchen countertop.",
+        "C: The napkin on the kitchen countertop.",
+        "D: The mug on the kitchen countertop.",
+        "E: The gas burner."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "6439_7699.mp4",
+      "clip_path": "6439_7699.mp4",
+      "frames": [
+        "6439.jpg",
+        "6659.jpg",
+        "6732.jpg",
+        "6765.jpg",
+        "7029.jpg",
+        "7523.jpg",
+        "7586.jpg",
+        "7699.jpg"
+      ],
+      "question": "What did I look at after pouring the hot water into the mug?",
+      "answer_options": [
+        "A: The gas burner",
+        "B: The kitchen sink",
+        "C: The pot on the stove",
+        "D: The ground coffee container",
+        "E: The spoon"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "51fc36b3-e769-4617-b087-3826b280cad3": [
+    {
+      "clip_name": "298_2588.mp4",
+      "clip_path": "298_2588.mp4",
+      "frames": [
+        "298.jpg",
+        "400.jpg",
+        "657.jpg",
+        "684.jpg",
+        "1903.jpg",
+        "2171.jpg",
+        "2343.jpg",
+        "2413.jpg",
+        "2588.jpg"
+      ],
+      "question": "What did I look at immediately after cutting the tomato on the chopping board?",
+      "answer_options": [
+        "A: The paper recipe",
+        "B: The egg on the countertop",
+        "C: The mixing bowl",
+        "D: The sink",
+        "E: The knife"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "5752_7817.mp4",
+      "clip_path": "5752_7817.mp4",
+      "frames": [
+        "5752.jpg",
+        "5837.jpg",
+        "6230.jpg",
+        "6724.jpg",
+        "6851.jpg",
+        "7282.jpg",
+        "7426.jpg",
+        "7512.jpg",
+        "7817.jpg"
+      ],
+      "question": "What did I look at immediately after checking the paper recipe for the second time?",
+      "answer_options": [
+        "A: The spatula on the countertop.",
+        "B: The oil bottle on the countertop.",
+        "C: The skillet on the stove.",
+        "D: The egg mixture in the bowl.",
+        "E: The scoop on the countertop."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "60475f06-2613-4496-939a-5381e7807349": [
+    {
+      "clip_name": "188_1710.mp4",
+      "clip_path": "188_1710.mp4",
+      "frames": [
+        "188.jpg",
+        "439.jpg",
+        "845.jpg",
+        "863.jpg",
+        "991.jpg",
+        "1009.jpg",
+        "1234.jpg",
+        "1529.jpg",
+        "1710.jpg"
+      ],
+      "question": "What did I look at after slicing the cucumber and before getting the tomato from the countertop?",
+      "answer_options": [
+        "A: The bowl on the countertop.",
+        "B: The other portion of the cucumber on the chopping board.",
+        "C: The knife in my hand.",
+        "D: The stove.",
+        "E: The dining table."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "a57a2fd6-18dd-446e-b11c-fe8b127ebb5b": [
+    {
+      "clip_name": "281_2211.mp4",
+      "clip_path": "281_2211.mp4",
+      "frames": [
+        "281.jpg",
+        "365.jpg",
+        "468.jpg",
+        "680.jpg",
+        "1222.jpg",
+        "1376.jpg",
+        "1638.jpg",
+        "2022.jpg",
+        "2211.jpg"
+      ],
+      "question": "What did I look at immediately after getting the flour container from the kitchen cabinet?",
+      "answer_options": [
+        "A: The salt container in the cabinet.",
+        "B: The recipe instructions on my phone.",
+        "C: The egg crate in the refrigerator.",
+        "D: The measuring spoon in the drawer.",
+        "E: The wooden rolling pin on the counter."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "5634_8574.mp4",
+      "clip_path": "5634_8574.mp4",
+      "frames": [
+        "5634.jpg",
+        "5841.jpg",
+        "5937.jpg",
+        "6192.jpg",
+        "6274.jpg",
+        "7224.jpg",
+        "8169.jpg",
+        "8323.jpg",
+        "8574.jpg"
+      ],
+      "question": "What did I look at immediately after cracking the egg into the small bowl?",
+      "answer_options": [
+        "A: The trash can to dispose of the eggshell.",
+        "B: The faucet to wash my hands.",
+        "C: The kitchen hand towel to wipe my hands.",
+        "D: The phone to check the recipe instructions.",
+        "E: The mixing bowl to create a hole in the flour."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "ba2086b2-f43f-4096-8b84-e9a3bfc0020b": [
+    {
+      "clip_name": "755_3945.mp4",
+      "clip_path": "755_3945.mp4",
+      "frames": [
+        "755.jpg",
+        "977.jpg",
+        "1456.jpg",
+        "1559.jpg",
+        "1626.jpg",
+        "1818.jpg",
+        "1907.jpg",
+        "3582.jpg",
+        "3945.jpg"
+      ],
+      "question": "What did I look at immediately after cracking the eggs into the mixing bowl?",
+      "answer_options": [
+        "A: The waste bin to throw out the eggshells.",
+        "B: The countertop to get salt.",
+        "C: The sink to wash my hands.",
+        "D: The stove to turn it on.",
+        "E: The fork to start whisking."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "6025_7950.mp4",
+      "clip_path": "6025_7950.mp4",
+      "frames": [
+        "6025.jpg",
+        "6554.jpg",
+        "6663.jpg",
+        "6898.jpg",
+        "7081.jpg",
+        "7222.jpg",
+        "7668.jpg",
+        "7742.jpg",
+        "7950.jpg"
+      ],
+      "question": "What did I look at immediately after cutting the tomato on the cutting board?",
+      "answer_options": [
+        "A: The stove to check if it was turned on.",
+        "B: The skillet to ensure oil was evenly spread.",
+        "C: The sink to wash my hands.",
+        "D: The countertop to get more ingredients.",
+        "E: The dining area to see if anyone needed help."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "d1888843-9fb6-4a0b-a732-978d03786ae6": [
+    {
+      "clip_name": "238_2025.mp4",
+      "clip_path": "238_2025.mp4",
+      "frames": [
+        "238.jpg",
+        "623.jpg",
+        "702.jpg",
+        "1394.jpg",
+        "1658.jpg",
+        "2025.jpg"
+      ],
+      "question": "What did I look at immediately after adding the tea bag to the teacup?",
+      "answer_options": [
+        "A: The electric kettle",
+        "B: The sugar container",
+        "C: The milk carton",
+        "D: The sink",
+        "E: The stove"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "c0a72173-8842-426c-a9ed-2b438af173f3": [
+    {
+      "clip_name": "2567_4248.mp4",
+      "clip_path": "2567_4248.mp4",
+      "frames": [
+        "2567.jpg",
+        "2647.jpg",
+        "2929.jpg",
+        "3026.jpg",
+        "3127.jpg",
+        "3339.jpg",
+        "3700.jpg",
+        "3863.jpg",
+        "4248.jpg"
+      ],
+      "question": "What did I look at before getting the tea bags from the kitchen island?",
+      "answer_options": [
+        "A: The stove knob",
+        "B: The refrigerator",
+        "C: The mug on the counter",
+        "D: The saucepan on the stovetop",
+        "E: The sugar in the cabinet"
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "clip_name": "11117_15306.mp4",
+      "clip_path": "11117_15306.mp4",
+      "frames": [
+        "11117.jpg",
+        "11299.jpg",
+        "13635.jpg",
+        "13900.jpg",
+        "14585.jpg",
+        "14787.jpg",
+        "14985.jpg",
+        "15233.jpg",
+        "15306.jpg"
+      ],
+      "question": "What did I look at immediately after removing the saucepan from the stovetop?",
+      "answer_options": [
+        "A: The stove controls to turn it off.",
+        "B: The kitchen sink to clean the saucepan.",
+        "C: The sugar container on the counter.",
+        "D: The tea bags in the waste bin.",
+        "E: The cabinet where I stored the sugar."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "dcfbcea7-821d-4f06-9ecd-95f4b99a9b4b": [
+    {
+      "clip_name": "438_3301.mp4",
+      "clip_path": "438_3301.mp4",
+      "frames": [
+        "438.jpg",
+        "746.jpg",
+        "926.jpg",
+        "1096.jpg",
+        "1426.jpg",
+        "1692.jpg",
+        "1885.jpg",
+        "2267.jpg",
+        "3301.jpg"
+      ],
+      "question": "What did I look at after using the tire lever to loosen the bike tire from the wheel rim?",
+      "answer_options": [
+        "A: The new inner tube on the table.",
+        "B: The valve stem hole on the wheel rim.",
+        "C: The tools in the toolbox.",
+        "D: The floor for any dropped parts.",
+        "E: The bicycle frame."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "343a1a5a-5141-4427-9362-989a767143ef": [
+    {
+      "clip_name": "397_4259.mp4",
+      "clip_path": "397_4259.mp4",
+      "frames": [
+        "397.jpg",
+        "426.jpg",
+        "781.jpg",
+        "1228.jpg",
+        "1412.jpg",
+        "2095.jpg",
+        "3304.jpg",
+        "4171.jpg",
+        "4259.jpg"
+      ],
+      "question": "What did I look at after removing the stem nut from the wheel with a wrench?",
+      "answer_options": [
+        "A: The tire lever on the table.",
+        "B: The bicycle's frame.",
+        "C: The floor near the workbench.",
+        "D: The inner tube on the ground.",
+        "E: The pump on the wall."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "e3160bd8-6829-4c41-9db5-bfc750728405": [
+    {
+      "clip_name": "1509_4295.mp4",
+      "clip_path": "1509_4295.mp4",
+      "frames": [
+        "1509.jpg",
+        "3089.jpg",
+        "3454.jpg",
+        "4295.jpg"
+      ],
+      "question": "What did I look at before I started applying the chain lube to the rollers?",
+      "answer_options": [
+        "A: The toothbrushes on the floor.",
+        "B: The bicycle's handlebars.",
+        "C: The toolbox on the floor.",
+        "D: The chain lube bottle on the floor.",
+        "E: The pedals of the bicycle."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "de9efe94-a548-4e07-8a37-7a60abb40dac": [
+    {
+      "clip_name": "224_5082.mp4",
+      "clip_path": "224_5082.mp4",
+      "frames": [
+        "224.jpg",
+        "466.jpg",
+        "789.jpg",
+        "1178.jpg",
+        "1705.jpg",
+        "2683.jpg",
+        "2779.jpg",
+        "4902.jpg",
+        "5082.jpg"
+      ],
+      "question": "What did I look at after slicing the tomatoes on the cutting board in Frame 8?",
+      "answer_options": [
+        "A: The paper recipe on the counter top.",
+        "B: The tissue paper on the counter top.",
+        "C: The saucepan from the drawer.",
+        "D: The knife on the counter top.",
+        "E: The tomato pack."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "7472_9157.mp4",
+      "clip_path": "7472_9157.mp4",
+      "frames": [
+        "7472.jpg",
+        "7523.jpg",
+        "7643.jpg",
+        "7745.jpg",
+        "8112.jpg",
+        "8284.jpg",
+        "8476.jpg",
+        "8611.jpg",
+        "9157.jpg"
+      ],
+      "question": "What did I look at immediately after adding a little water into the egg in the bowl for the second time?",
+      "answer_options": [
+        "A: The paper recipe on the countertop.",
+        "B: The drawer to get a fork.",
+        "C: The sink area.",
+        "D: The whisking motion of the egg.",
+        "E: The shelf with ingredients."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "783c918b-1473-4b72-b106-cb2718c46af8": [
+    {
+      "clip_name": "951_2694.mp4",
+      "clip_path": "951_2694.mp4",
+      "frames": [
+        "951.jpg",
+        "1133.jpg",
+        "1269.jpg",
+        "1640.jpg",
+        "1801.jpg",
+        "1883.jpg",
+        "2085.jpg",
+        "2518.jpg",
+        "2694.jpg"
+      ],
+      "question": "What did I look at immediately after filling the pot with water?",
+      "answer_options": [
+        "A: The stove",
+        "B: The countertop",
+        "C: The sink",
+        "D: The cabinet",
+        "E: The faucet"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "4897_7176.mp4",
+      "clip_path": "4897_7176.mp4",
+      "frames": [
+        "4897.jpg",
+        "5628.jpg",
+        "6110.jpg",
+        "6216.jpg",
+        "6563.jpg",
+        "6674.jpg",
+        "6750.jpg",
+        "7046.jpg",
+        "7176.jpg"
+      ],
+      "question": "What did I look at after getting the coffee filter from the cabinet?",
+      "answer_options": [
+        "A: The coffee grounds in the cabinet.",
+        "B: The chocolate water boiling on the stove.",
+        "C: The spoon on the rack.",
+        "D: The milk in the cabinet.",
+        "E: The steam wand on the counter."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "d6ab4bdc-52c8-4398-ac3a-aff30f66260c": [
+    {
+      "clip_name": "583_5026.mp4",
+      "clip_path": "583_5026.mp4",
+      "frames": [
+        "583.jpg",
+        "819.jpg",
+        "1002.jpg",
+        "1441.jpg",
+        "4179.jpg",
+        "4576.jpg",
+        "4620.jpg",
+        "4933.jpg",
+        "5026.jpg"
+      ],
+      "question": "What did I look at after I unpacked the new tube?",
+      "answer_options": [
+        "A: The valve cap on the new tube.",
+        "B: The partially inflated old tube.",
+        "C: The tire and wheel for deformation.",
+        "D: The workbench for tools.",
+        "E: The inner tube hole on the rim."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "53ee9e25-ba9b-429e-9cad-70c223a2f881": [
+    {
+      "clip_name": "101_1983.mp4",
+      "clip_path": "101_1983.mp4",
+      "frames": [
+        "101.jpg",
+        "220.jpg",
+        "754.jpg",
+        "818.jpg",
+        "980.jpg",
+        "1109.jpg",
+        "1772.jpg",
+        "1810.jpg",
+        "1983.jpg"
+      ],
+      "question": "What did I look at before stirring the noodles in the boiling pan with the spoon?",
+      "answer_options": [
+        "A: The gas burner to regulate the heat.",
+        "B: The kitchen countertop to get a spoon.",
+        "C: The noodles to check their doneness.",
+        "D: The sink to wash my hands.",
+        "E: The refrigerator to take out ingredients."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "4601_5893.mp4",
+      "clip_path": "4601_5893.mp4",
+      "frames": [
+        "4601.jpg",
+        "4638.jpg",
+        "4662.jpg",
+        "4858.jpg",
+        "4934.jpg",
+        "4980.jpg",
+        "5129.jpg",
+        "5194.jpg",
+        "5893.jpg"
+      ],
+      "question": "What did I look at immediately after placing the oil container on the kitchen countertop?",
+      "answer_options": [
+        "A: The gas burner",
+        "B: The cutting board",
+        "C: The garlic cloves",
+        "D: The spoons",
+        "E: The skillet"
+      ],
+      "correct_answer": "E"
+    }
+  ],
+  "1f22e560-2372-43b2-83c4-e452c3287fc1": [
+    {
+      "clip_name": "700_7135.mp4",
+      "clip_path": "700_7135.mp4",
+      "frames": [
+        "700.jpg",
+        "931.jpg",
+        "1979.jpg",
+        "2042.jpg",
+        "2498.jpg",
+        "2771.jpg",
+        "2995.jpg",
+        "5617.jpg",
+        "7135.jpg"
+      ],
+      "question": "What did I look at after engaging the tire lever on the rim of the wheel?",
+      "answer_options": [
+        "A: The dust cap on the valve.",
+        "B: The inner tube inside the wheel.",
+        "C: The new inner tube on the table.",
+        "D: The tools scattered on the floor.",
+        "E: The unpacked new inner tube."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "2d146c0f-88df-483d-8a26-efb052b9a8ac": [
+    {
+      "clip_name": "405_2666.mp4",
+      "clip_path": "405_2666.mp4",
+      "frames": [
+        "405.jpg",
+        "543.jpg",
+        "819.jpg",
+        "1148.jpg",
+        "1281.jpg",
+        "1674.jpg",
+        "1867.jpg",
+        "2137.jpg",
+        "2666.jpg"
+      ],
+      "question": "What did I look at immediately after turning on the electric kettle?",
+      "answer_options": [
+        "A: The mug on the kitchen counter.",
+        "B: The trash can in the corner.",
+        "C: The cinnamon powder container.",
+        "D: The refrigerator handle.",
+        "E: The sink area."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "9abb07b4-f708-4571-8a82-d5baf748980d": [
+    {
+      "clip_name": "259_6973.mp4",
+      "clip_path": "259_6973.mp4",
+      "frames": [
+        "259.jpg",
+        "879.jpg",
+        "995.jpg",
+        "1370.jpg",
+        "2014.jpg",
+        "2166.jpg",
+        "2565.jpg",
+        "3388.jpg",
+        "6973.jpg"
+      ],
+      "question": "What did I look at after filling the electric kettle with water?",
+      "answer_options": [
+        "A: The cabinet where the teabags are stored.",
+        "B: The refrigerator to get a milk jar.",
+        "C: The sink area to rinse my hands.",
+        "D: The countertop where the mug and saucer are placed.",
+        "E: The sugar container in the cabinet."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "f7b3e85b-7681-48b3-97cb-6b0a5705022e": [
+    {
+      "clip_name": "218_2319.mp4",
+      "clip_path": "218_2319.mp4",
+      "frames": [
+        "218.jpg",
+        "468.jpg",
+        "747.jpg",
+        "813.jpg",
+        "1027.jpg",
+        "1317.jpg",
+        "1667.jpg",
+        "1779.jpg",
+        "2319.jpg"
+      ],
+      "question": "What did I look at after adding some butter to the skillet for the second time?",
+      "answer_options": [
+        "A: The stove knob",
+        "B: The cutlery holder on the countertop",
+        "C: The spatula in the skillet",
+        "D: The electric stove",
+        "E: The butter container"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "4924_6045.mp4",
+      "clip_path": "4924_6045.mp4",
+      "frames": [
+        "4924.jpg",
+        "5002.jpg",
+        "5111.jpg",
+        "5235.jpg",
+        "5297.jpg",
+        "5732.jpg",
+        "5833.jpg",
+        "5992.jpg",
+        "6045.jpg"
+      ],
+      "question": "What did I look at immediately after adjusting the stove heat?",
+      "answer_options": [
+        "A: The container of black pepper on the countertop.",
+        "B: The eggs in the skillet.",
+        "C: The salt packet on the countertop.",
+        "D: The microwave above the stove.",
+        "E: The tripod near the wall."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "19912997-45b4-4c43-8209-7599079d8eed": [
+    {
+      "clip_name": "176_1915.mp4",
+      "clip_path": "176_1915.mp4",
+      "frames": [
+        "176.jpg",
+        "298.jpg",
+        "477.jpg",
+        "537.jpg",
+        "1114.jpg",
+        "1259.jpg",
+        "1622.jpg",
+        "1711.jpg",
+        "1915.jpg"
+      ],
+      "question": "What did I look at immediately after cracking the egg into the mixing bowl?",
+      "answer_options": [
+        "A: The crate of eggs",
+        "B: The sink",
+        "C: The stove knob",
+        "D: The whisk",
+        "E: The salt container"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "dcca4382-3494-4bb2-b79a-0e514513895e": [
+    {
+      "clip_name": "566_4726.mp4",
+      "clip_path": "566_4726.mp4",
+      "frames": [
+        "566.jpg",
+        "917.jpg",
+        "1190.jpg",
+        "1207.jpg",
+        "2834.jpg",
+        "2944.jpg",
+        "3884.jpg",
+        "4252.jpg",
+        "4726.jpg"
+      ],
+      "question": "What did I look at before getting the spring onions from the bowl?",
+      "answer_options": [
+        "A: The electric stove",
+        "B: The skillet on the countertop",
+        "C: The sink",
+        "D: The knife in the bowl",
+        "E: The celeries in the bowl"
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "clip_name": "7758_10097.mp4",
+      "clip_path": "7758_10097.mp4",
+      "frames": [
+        "7758.jpg",
+        "7933.jpg",
+        "8330.jpg",
+        "8493.jpg",
+        "8669.jpg",
+        "9067.jpg",
+        "9702.jpg",
+        "9929.jpg",
+        "10097.jpg"
+      ],
+      "question": "What did I look at immediately after adding cooking oil to the skillet?",
+      "answer_options": [
+        "A: The countertop where the soy sauce is located.",
+        "B: The electric stove controls.",
+        "C: The noodles in the skillet.",
+        "D: The bottle of cooking oil on the countertop.",
+        "E: The mix of ingredients on the counter."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "fb733912-4a66-4821-9313-344628fd1154": [
+    {
+      "clip_name": "568_2755.mp4",
+      "clip_path": "568_2755.mp4",
+      "frames": [
+        "568.jpg",
+        "648.jpg",
+        "968.jpg",
+        "1622.jpg",
+        "1872.jpg",
+        "2355.jpg",
+        "2755.jpg"
+      ],
+      "question": "What did I look at immediately after pouring milk into the tea bags in the cup?",
+      "answer_options": [
+        "A: The sugar bag on the countertop.",
+        "B: The kettle to pour hot water.",
+        "C: The stirrer for steeping the tea.",
+        "D: The plate of food on the counter.",
+        "E: The milk container."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "8671219e-79fe-487b-b62e-0bc080088127": [
+    {
+      "clip_name": "315_3159.mp4",
+      "clip_path": "315_3159.mp4",
+      "frames": [
+        "315.jpg",
+        "645.jpg",
+        "957.jpg",
+        "1772.jpg",
+        "1952.jpg",
+        "2331.jpg",
+        "2579.jpg",
+        "2970.jpg",
+        "3159.jpg"
+      ],
+      "question": "What did I look at immediately after adding milk to the measuring cup?",
+      "answer_options": [
+        "A: The recipe paper on the counter.",
+        "B: The water in the saucepan.",
+        "C: The milk carton.",
+        "D: The cooker's heat settings.",
+        "E: The measuring cup."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "6197_13581.mp4",
+      "clip_path": "6197_13581.mp4",
+      "frames": [
+        "6197.jpg",
+        "6300.jpg",
+        "7522.jpg",
+        "7926.jpg",
+        "10720.jpg",
+        "12397.jpg",
+        "12806.jpg",
+        "12890.jpg",
+        "13581.jpg"
+      ],
+      "question": "What did I look at after adding tea leaves to the tea?",
+      "answer_options": [
+        "A: The sieve on the counter.",
+        "B: The milk in the pot.",
+        "C: The cooker's heat settings.",
+        "D: The spoon for stirring.",
+        "E: The recipe paper."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "109db476-2edd-4968-b2da-6abec1a199da": [
+    {
+      "clip_name": "120_1795.mp4",
+      "clip_path": "120_1795.mp4",
+      "frames": [
+        "120.jpg",
+        "567.jpg",
+        "890.jpg",
+        "1064.jpg",
+        "1259.jpg",
+        "1394.jpg",
+        "1568.jpg",
+        "1623.jpg",
+        "1795.jpg"
+      ],
+      "question": "What did I look at immediately after placing the bowl on the stove?",
+      "answer_options": [
+        "A: The cup on the countertop.",
+        "B: The sugar packet on the countertop.",
+        "C: The spoon in the cabinet.",
+        "D: The milk carton on the countertop.",
+        "E: The gas lighter on the stove."
+      ],
+      "correct_answer": "E"
+    }
+  ],
+  "e7192f4a-1559-409e-9628-34fde0504bee": [
+    {
+      "clip_name": "661_1593.mp4",
+      "clip_path": "661_1593.mp4",
+      "frames": [
+        "661.jpg",
+        "723.jpg",
+        "813.jpg",
+        "1593.jpg"
+      ],
+      "question": "What did I look at after releasing the caliper rim brake pads?",
+      "answer_options": [
+        "A: The wrench on the floor.",
+        "B: The removed wheel lying beside me.",
+        "C: The axle nuts on the bicycle frame.",
+        "D: The tools in the background.",
+        "E: The handlebars of the bike."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "6bc7a29f-3397-4549-9ee2-d98fa93da873": [
+    {
+      "clip_name": "262_2032.mp4",
+      "clip_path": "262_2032.mp4",
+      "frames": [
+        "262.jpg",
+        "375.jpg",
+        "615.jpg",
+        "740.jpg",
+        "773.jpg",
+        "861.jpg",
+        "927.jpg",
+        "1899.jpg",
+        "2032.jpg"
+      ],
+      "question": "What did I look at immediately after disposing the ginger peel?",
+      "answer_options": [
+        "A: The trash can",
+        "B: The pot of boiling water",
+        "C: The skillet on the stove",
+        "D: The chopping board",
+        "E: The sink"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "4790_6563.mp4",
+      "clip_path": "4790_6563.mp4",
+      "frames": [
+        "4790.jpg",
+        "4871.jpg",
+        "4952.jpg",
+        "5253.jpg",
+        "5580.jpg",
+        "5898.jpg",
+        "5954.jpg",
+        "6393.jpg",
+        "6563.jpg"
+      ],
+      "question": "What did I look at immediately after adding oil into the skillet?",
+      "answer_options": [
+        "A: The stove to regulate the heat",
+        "B: The cutting board with chopped ingredients",
+        "C: The pot of boiling noodles",
+        "D: The faucet for rinsing",
+        "E: The spoon on the counter"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "3c7e6b2f-75c5-46d6-b0c0-880429a93e10": [
+    {
+      "clip_name": "274_2194.mp4",
+      "clip_path": "274_2194.mp4",
+      "frames": [
+        "274.jpg",
+        "621.jpg",
+        "978.jpg",
+        "1083.jpg",
+        "1278.jpg",
+        "1533.jpg",
+        "1694.jpg",
+        "1819.jpg",
+        "2194.jpg"
+      ],
+      "question": "What did I look at immediately after cracking the egg with a fork?",
+      "answer_options": [
+        "A: The mug on the counter.",
+        "B: The sink.",
+        "C: The stove.",
+        "D: The crate of eggs.",
+        "E: The salt shaker."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "7fb68600-a998-46ae-b2b0-72fd1978b8fd": [
+    {
+      "clip_name": "382_2918.mp4",
+      "clip_path": "382_2918.mp4",
+      "frames": [
+        "382.jpg",
+        "678.jpg",
+        "1064.jpg",
+        "1543.jpg",
+        "2224.jpg",
+        "2455.jpg",
+        "2503.jpg",
+        "2583.jpg",
+        "2918.jpg"
+      ],
+      "question": "What did I look at before getting the timer from the countertop?",
+      "answer_options": [
+        "A: The recipe on the counter.",
+        "B: The boiling pot on the stove.",
+        "C: The bowl containing ginger and milk.",
+        "D: The cabinet with cinnamon sticks.",
+        "E: The sink area."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "5125_6292.mp4",
+      "clip_path": "5125_6292.mp4",
+      "frames": [
+        "5125.jpg",
+        "5404.jpg",
+        "5506.jpg",
+        "5692.jpg",
+        "5758.jpg",
+        "5835.jpg",
+        "6057.jpg",
+        "6093.jpg",
+        "6292.jpg"
+      ],
+      "question": "What did I look at immediately after adding the cinnamon stick to the boiling pot?",
+      "answer_options": [
+        "A: The recipe on the countertop.",
+        "B: The fennel seeds container.",
+        "C: The ginger in my hand.",
+        "D: The sugar container on the counter.",
+        "E: The stove controls."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "c8749317-8f4c-443a-9f82-6b18edbcac23": [
+    {
+      "clip_name": "176_2479.mp4",
+      "clip_path": "176_2479.mp4",
+      "frames": [
+        "176.jpg",
+        "351.jpg",
+        "442.jpg",
+        "822.jpg",
+        "1228.jpg",
+        "1545.jpg",
+        "1632.jpg",
+        "2371.jpg",
+        "2479.jpg"
+      ],
+      "question": "What did I look at immediately after turning off the cooker?",
+      "answer_options": [
+        "A: The glass cup on the countertop.",
+        "B: The saucepan on the counter.",
+        "C: The running tap in the sink.",
+        "D: The recipe card on the table.",
+        "E: The empty contents of the saucepan."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "4352_6862.mp4",
+      "clip_path": "4352_6862.mp4",
+      "frames": [
+        "4352.jpg",
+        "4715.jpg",
+        "4766.jpg",
+        "4883.jpg",
+        "5324.jpg",
+        "5737.jpg",
+        "6003.jpg",
+        "6321.jpg",
+        "6862.jpg"
+      ],
+      "question": "What did I look at immediately after checking the heat of the saucepan with my right hand?",
+      "answer_options": [
+        "A: The measuring spoon on the countertop.",
+        "B: The recipe card next to the cutting board.",
+        "C: The peeled ginger in the small bowl.",
+        "D: The cinnamon sticks on the counter.",
+        "E: The digital clock on the cooker."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "9d7d1acd-671f-4662-9c30-6ec10abd219a": [
+    {
+      "clip_name": "178_13656.mp4",
+      "clip_path": "178_13656.mp4",
+      "frames": [
+        "178.jpg",
+        "488.jpg",
+        "6709.jpg",
+        "8585.jpg",
+        "10497.jpg",
+        "11602.jpg",
+        "12077.jpg",
+        "13066.jpg",
+        "13656.jpg"
+      ],
+      "question": "What did I look at after I diced the bell pepper with the knife?",
+      "answer_options": [
+        "A: The paper recipe",
+        "B: The bowl of cilantro",
+        "C: The grater and carrot",
+        "D: The mixing bowl with oil",
+        "E: The cutting board with celery"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "20812_24581.mp4",
+      "clip_path": "20812_24581.mp4",
+      "frames": [
+        "20812.jpg",
+        "21084.jpg",
+        "21436.jpg",
+        "21586.jpg",
+        "22231.jpg",
+        "22555.jpg",
+        "23324.jpg",
+        "24072.jpg",
+        "24581.jpg"
+      ],
+      "question": "What did I look at immediately after adding diced garlic to the mixing bowl?",
+      "answer_options": [
+        "A: The recipe paper",
+        "B: The salt container",
+        "C: The tissue paper",
+        "D: The salad dressing ingredients",
+        "E: The cardamom powder"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "581e8371-9aae-4a33-ae80-2ed2628f5038": [
+    {
+      "clip_name": "1436_4740.mp4",
+      "clip_path": "1436_4740.mp4",
+      "frames": [
+        "1436.jpg",
+        "2325.jpg",
+        "2637.jpg",
+        "2788.jpg",
+        "3109.jpg",
+        "4146.jpg",
+        "4596.jpg",
+        "4621.jpg",
+        "4740.jpg"
+      ],
+      "question": "What did I look at immediately after arranging the COVID-19 test materials on the table?",
+      "answer_options": [
+        "A: The instruction manual",
+        "B: The testing tube",
+        "C: The collection swab bag",
+        "D: The tripod camera setup",
+        "E: The scissors"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "f9dbdf83-0135-4fdd-973a-f207c79b3453": [
+    {
+      "clip_name": "527_2508.mp4",
+      "clip_path": "527_2508.mp4",
+      "frames": [
+        "527.jpg",
+        "732.jpg",
+        "894.jpg",
+        "951.jpg",
+        "1338.jpg",
+        "1517.jpg",
+        "2249.jpg",
+        "2454.jpg",
+        "2508.jpg"
+      ],
+      "question": "What did I look at immediately after cracking the eggs into the bowl?",
+      "answer_options": [
+        "A: The kitchen sink",
+        "B: The whisking spoon in my hand",
+        "C: The black pepper package on the counter",
+        "D: The measuring spoons in the dish rack",
+        "E: The cutting board with vegetables"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "5228_8435.mp4",
+      "clip_path": "5228_8435.mp4",
+      "frames": [
+        "5228.jpg",
+        "5502.jpg",
+        "5624.jpg",
+        "5776.jpg",
+        "5810.jpg",
+        "6293.jpg",
+        "6649.jpg",
+        "7134.jpg",
+        "8435.jpg"
+      ],
+      "question": "What did I look at immediately after adding oil to the skillet?",
+      "answer_options": [
+        "A: The gas burner controls",
+        "B: The egg mixture in the bowl",
+        "C: The kitchen cabinet",
+        "D: The sink area",
+        "E: The spice rack"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "dcf60f14-5b6e-4550-b1ed-0befd0849074": [
+    {
+      "clip_name": "496_8673.mp4",
+      "clip_path": "496_8673.mp4",
+      "frames": [
+        "496.jpg",
+        "851.jpg",
+        "943.jpg",
+        "3868.jpg",
+        "4275.jpg",
+        "5309.jpg",
+        "6004.jpg",
+        "7111.jpg",
+        "8673.jpg"
+      ],
+      "question": "What did I look at immediately after pouring water into the bowl?",
+      "answer_options": [
+        "A: The gas stove",
+        "B: The pot on the counter",
+        "C: The milk carton",
+        "D: The coffee grounds",
+        "E: The lighter"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "642c0099-f952-4be6-83b8-cb8bfd94f7bb": [
+    {
+      "clip_name": "701_2637.mp4",
+      "clip_path": "701_2637.mp4",
+      "frames": [
+        "701.jpg",
+        "755.jpg",
+        "1012.jpg",
+        "1187.jpg",
+        "1284.jpg",
+        "1499.jpg",
+        "2026.jpg",
+        "2440.jpg",
+        "2637.jpg"
+      ],
+      "question": "What did I look at after getting the red bell pepper from the refrigerator?",
+      "answer_options": [
+        "A: The pack of sesame seeds",
+        "B: The celery in the fridge",
+        "C: The carrot pack",
+        "D: The tomato pack",
+        "E: The onion"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "7703_12518.mp4",
+      "clip_path": "7703_12518.mp4",
+      "frames": [
+        "7703.jpg",
+        "8790.jpg",
+        "9357.jpg",
+        "9379.jpg",
+        "9584.jpg",
+        "9700.jpg",
+        "10421.jpg",
+        "10854.jpg",
+        "12518.jpg"
+      ],
+      "question": "What did I look at after slicing the onion on the chopping board?",
+      "answer_options": [
+        "A: The plate in the cabinet.",
+        "B: The sink to dispose of the paper towel.",
+        "C: The red bell pepper on the counter.",
+        "D: The celery near the cutting board.",
+        "E: The stove and cooking pots."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "5e7458ef-3f06-42ce-a9a9-0c79b557c3bd": [
+    {
+      "clip_name": "390_7643.mp4",
+      "clip_path": "390_7643.mp4",
+      "frames": [
+        "390.jpg",
+        "577.jpg",
+        "1892.jpg",
+        "2075.jpg",
+        "2605.jpg",
+        "4153.jpg",
+        "4189.jpg",
+        "7491.jpg",
+        "7643.jpg"
+      ],
+      "question": "What did I look at after I removed dirt from the chain with a toothbrush?",
+      "answer_options": [
+        "A: The brake of the wheel.",
+        "B: The tool box on the floor.",
+        "C: The bicycle seat.",
+        "D: The tripod in the background.",
+        "E: The chain lube on the floor."
+      ],
+      "correct_answer": "E"
+    }
+  ],
+  "cc27440d-408b-4280-9436-e844ad5e7d6f": [
+    {
+      "clip_name": "4089_18121.mp4",
+      "clip_path": "4089_18121.mp4",
+      "frames": [
+        "4089.jpg",
+        "7146.jpg",
+        "9030.jpg",
+        "9088.jpg",
+        "14736.jpg",
+        "17371.jpg",
+        "17478.jpg",
+        "18073.jpg",
+        "18121.jpg"
+      ],
+      "question": "What did I look at after cutting the tomato on the cutting board?",
+      "answer_options": [
+        "A: The recipe on the kitchen counter.",
+        "B: The spring onions on the counter.",
+        "C: The garlic cloves on the cutting board.",
+        "D: The egg crate on the counter.",
+        "E: The bowl in the cabinet."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "19980_25878.mp4",
+      "clip_path": "19980_25878.mp4",
+      "frames": [
+        "19980.jpg",
+        "20122.jpg",
+        "24028.jpg",
+        "24257.jpg",
+        "24372.jpg",
+        "24521.jpg",
+        "24674.jpg",
+        "25685.jpg",
+        "25878.jpg"
+      ],
+      "question": "What did I look at immediately after checking the recipe on the kitchen counter?",
+      "answer_options": [
+        "A: The utensil bowl to get a fork",
+        "B: The stove to turn it on",
+        "C: The measuring spoon for adding ingredients",
+        "D: The skillet on the utensil rack",
+        "E: The bottle of oil on the counter"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "22f0fe6e-c298-4478-a15a-1541ba2434b4": [
+    {
+      "clip_name": "355_3390.mp4",
+      "clip_path": "355_3390.mp4",
+      "frames": [
+        "355.jpg",
+        "820.jpg",
+        "959.jpg",
+        "1464.jpg",
+        "1512.jpg",
+        "2254.jpg",
+        "2902.jpg",
+        "3028.jpg",
+        "3390.jpg"
+      ],
+      "question": "What did I look at immediately after adding milk to the bowl?",
+      "answer_options": [
+        "A: The boiling pot of water on the stove.",
+        "B: The chocolate pack on the countertop.",
+        "C: The lighter next to the stove.",
+        "D: The sink in the background.",
+        "E: The milk container on the countertop."
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "clip_name": "7578_11018.mp4",
+      "clip_path": "7578_11018.mp4",
+      "frames": [
+        "7578.jpg",
+        "8449.jpg",
+        "8574.jpg",
+        "8748.jpg",
+        "8805.jpg",
+        "8919.jpg",
+        "9865.jpg",
+        "10008.jpg",
+        "11018.jpg"
+      ],
+      "question": "What did I look at after placing the coffee filter on the countertop?",
+      "answer_options": [
+        "A: The boiling bowl of water.",
+        "B: The ceramic bowl on the counter.",
+        "C: The kitchen towel on the counter.",
+        "D: The coffee grounds container.",
+        "E: The sink."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "864227f5-9937-4e42-894e-b96e59ad5e31": [
+    {
+      "clip_name": "416_2162.mp4",
+      "clip_path": "416_2162.mp4",
+      "frames": [
+        "416.jpg",
+        "543.jpg",
+        "700.jpg",
+        "1163.jpg",
+        "2162.jpg"
+      ],
+      "question": "What did I look at after pulling the release lever on the bike outwards for the second time?",
+      "answer_options": [
+        "A: The gear shifter",
+        "B: The bike air pump",
+        "C: The wrench and axle nuts",
+        "D: The smallest cog on the rear wheel",
+        "E: The handlebars"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "eac4b49b-cf4f-4925-bdbe-5ab98d0bae74": [
+    {
+      "clip_name": "678_4550.mp4",
+      "clip_path": "678_4550.mp4",
+      "frames": [
+        "678.jpg",
+        "892.jpg",
+        "1046.jpg",
+        "1512.jpg",
+        "2922.jpg",
+        "3340.jpg",
+        "4165.jpg",
+        "4347.jpg",
+        "4550.jpg"
+      ],
+      "question": "What did I look at immediately after cracking the eggs into the mixing bowl?",
+      "answer_options": [
+        "A: The trash can to dispose of the eggshells.",
+        "B: The refrigerator to get more ingredients.",
+        "C: The sink to wash my hands.",
+        "D: The countertop to find a spoon.",
+        "E: The stove to start cooking."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "7328_10122.mp4",
+      "clip_path": "7328_10122.mp4",
+      "frames": [
+        "7328.jpg",
+        "7501.jpg",
+        "7847.jpg",
+        "7943.jpg",
+        "9222.jpg",
+        "9307.jpg",
+        "9680.jpg",
+        "9752.jpg",
+        "10122.jpg"
+      ],
+      "question": "What did I look at immediately after peeling the garlic cloves?",
+      "answer_options": [
+        "A: The knife on the countertop.",
+        "B: The sink to wash my hands.",
+        "C: The stove to check if it was hot.",
+        "D: The cutting board to prepare for chopping.",
+        "E: The refrigerator to get more ingredients."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "b2db39d4-cc06-4821-8545-e22c3ab67eab": [
+    {
+      "clip_name": "366_1059.mp4",
+      "clip_path": "366_1059.mp4",
+      "frames": [
+        "366.jpg",
+        "411.jpg",
+        "828.jpg",
+        "1059.jpg"
+      ],
+      "question": "What did I look at after slicing the cucumber on the chopping board?",
+      "answer_options": [
+        "A: The bowl where the sliced cucumber was added.",
+        "B: The stove to check if it was turned on.",
+        "C: The tomato that needed to be diced next.",
+        "D: The sink to wash my hands.",
+        "E: The refrigerator to get more ingredients."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "ad14de7c-ea6f-4811-a590-1ee8a65275e4": [
+    {
+      "clip_name": "210_2256.mp4",
+      "clip_path": "210_2256.mp4",
+      "frames": [
+        "210.jpg",
+        "300.jpg",
+        "700.jpg",
+        "1282.jpg",
+        "1439.jpg",
+        "1585.jpg",
+        "1685.jpg",
+        "2039.jpg",
+        "2256.jpg"
+      ],
+      "question": "What did I look at immediately after getting the crate of eggs from the refrigerator?",
+      "answer_options": [
+        "A: The carton of milk in the refrigerator",
+        "B: The cheese in the refrigerator",
+        "C: The mixing bowl in the kitchen cabinet",
+        "D: The whisk in the kitchen drawer",
+        "E: The black pepper in the kitchen cupboard"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "5310_7384.mp4",
+      "clip_path": "5310_7384.mp4",
+      "frames": [
+        "5310.jpg",
+        "5439.jpg",
+        "5527.jpg",
+        "5742.jpg",
+        "5983.jpg",
+        "6620.jpg",
+        "6785.jpg",
+        "6915.jpg",
+        "7384.jpg"
+      ],
+      "question": "What did I look at immediately after adding the red chili powder to the egg mixture?",
+      "answer_options": [
+        "A: The stove",
+        "B: The whisk in the mixing bowl",
+        "C: The kitchen sink",
+        "D: The plate from the cupboard",
+        "E: The trash can"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "a261cc1d-7a45-479f-81a9-7c73eb379e6c": [
+    {
+      "clip_name": "123_2404.mp4",
+      "clip_path": "123_2404.mp4",
+      "frames": [
+        "123.jpg",
+        "249.jpg",
+        "301.jpg",
+        "363.jpg",
+        "872.jpg",
+        "1053.jpg",
+        "1271.jpg",
+        "2151.jpg",
+        "2404.jpg"
+      ],
+      "question": "What did I look at immediately after adding salt to the noodles in the saucepan?",
+      "answer_options": [
+        "A: The stove's heat control",
+        "B: The skillet on the counter",
+        "C: The bowl of cabbage",
+        "D: The sink",
+        "E: The spice rack"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "5485_9545.mp4",
+      "clip_path": "5485_9545.mp4",
+      "frames": [
+        "5485.jpg",
+        "5988.jpg",
+        "7513.jpg",
+        "7791.jpg",
+        "8435.jpg",
+        "8614.jpg",
+        "9160.jpg",
+        "9425.jpg",
+        "9545.jpg"
+      ],
+      "question": "What did I look at immediately after peeling the skin of a spring onion?",
+      "answer_options": [
+        "A: The trash can where I threw the peeled skin.",
+        "B: The cutting board to continue chopping vegetables.",
+        "C: The bowl of spring onions to select another one.",
+        "D: The stove to check if the noodles were ready.",
+        "E: The kitchen counter for a bottle of oil."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "4af687ac-9602-48b9-acaf-c0085bc2fe53": [
+    {
+      "clip_name": "3067_4843.mp4",
+      "clip_path": "3067_4843.mp4",
+      "frames": [
+        "3067.jpg",
+        "3191.jpg",
+        "3252.jpg",
+        "3641.jpg",
+        "3848.jpg",
+        "4010.jpg",
+        "4099.jpg",
+        "4650.jpg",
+        "4843.jpg"
+      ],
+      "question": "What did I look at immediately after checking the recipe instruction paper?",
+      "answer_options": [
+        "A: The cutting board with the tomato waste.",
+        "B: The sink to get a bowl.",
+        "C: The crate of eggs on the countertop.",
+        "D: The running water in the sink.",
+        "E: The kitchen towel."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "7204_9858.mp4",
+      "clip_path": "7204_9858.mp4",
+      "frames": [
+        "7204.jpg",
+        "7421.jpg",
+        "8080.jpg",
+        "8232.jpg",
+        "8536.jpg",
+        "9411.jpg",
+        "9540.jpg",
+        "9793.jpg",
+        "9858.jpg"
+      ],
+      "question": "What did I look at after checking the recipe instruction paper?",
+      "answer_options": [
+        "A: The garlic cloves on the countertop.",
+        "B: The spices on the shelf.",
+        "C: The cutting board with the knife.",
+        "D: The sink area.",
+        "E: The skillet on the stove."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "8ee798db-d02b-46ab-86f9-2091da1fb85e": [
+    {
+      "clip_name": "219_2036.mp4",
+      "clip_path": "219_2036.mp4",
+      "frames": [
+        "219.jpg",
+        "553.jpg",
+        "1133.jpg",
+        "1249.jpg",
+        "1457.jpg",
+        "1737.jpg",
+        "1947.jpg",
+        "1972.jpg",
+        "2036.jpg"
+      ],
+      "question": "What did I look at after tightening the brake cable to the rear axle on the wheel?",
+      "answer_options": [
+        "A: The brake pads",
+        "B: The pedal of the bike",
+        "C: The wrench on the toolbench",
+        "D: The front handlebars",
+        "E: The seat of the bike"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "3059469a-03fc-4ae0-bbf7-b08187d1b290": [
+    {
+      "clip_name": "1386_3559.mp4",
+      "clip_path": "1386_3559.mp4",
+      "frames": [
+        "1386.jpg",
+        "2097.jpg",
+        "2379.jpg",
+        "2490.jpg",
+        "2549.jpg",
+        "2927.jpg",
+        "3439.jpg",
+        "3489.jpg",
+        "3559.jpg"
+      ],
+      "question": "What did I look at immediately after checking the temperature of the skillet for the first time?",
+      "answer_options": [
+        "A: The oil bottle on the stove top.",
+        "B: The sink to wash my hands.",
+        "C: The kitchen towel hanging nearby.",
+        "D: The control panel of the stove.",
+        "E: The countertop near the sink."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "60a5958c-4530-4eba-886a-a3474ab1fc7a": [
+    {
+      "clip_name": "687_5963.mp4",
+      "clip_path": "687_5963.mp4",
+      "frames": [
+        "687.jpg",
+        "995.jpg",
+        "1233.jpg",
+        "1687.jpg",
+        "1743.jpg",
+        "2677.jpg",
+        "4958.jpg",
+        "5356.jpg",
+        "5963.jpg"
+      ],
+      "question": "What did I look at immediately after getting the cucumber from the refrigerator?",
+      "answer_options": [
+        "A: The bowl on the counter.",
+        "B: The sink faucet.",
+        "C: The cabinet where I got the bowl.",
+        "D: The chopping board.",
+        "E: The knife on the counter."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "11168_12194.mp4",
+      "clip_path": "11168_12194.mp4",
+      "frames": [
+        "11168.jpg",
+        "11264.jpg",
+        "11529.jpg",
+        "12194.jpg"
+      ],
+      "question": "What did I look at before getting the salt container from the counter top?",
+      "answer_options": [
+        "A: The salad mixture in the bowl.",
+        "B: The sink area.",
+        "C: The spice rack.",
+        "D: The refrigerator.",
+        "E: The stove."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "d8f1f126-5984-43c3-8774-45c6d6ac447c": [
+    {
+      "clip_name": "645_2312.mp4",
+      "clip_path": "645_2312.mp4",
+      "frames": [
+        "645.jpg",
+        "757.jpg",
+        "892.jpg",
+        "1504.jpg",
+        "1590.jpg",
+        "1601.jpg",
+        "1638.jpg",
+        "2200.jpg",
+        "2312.jpg"
+      ],
+      "question": "What did I look at immediately after signaling for help with my right hand?",
+      "answer_options": [
+        "A: The patient's chest",
+        "B: The ceiling lights",
+        "C: The people in the room",
+        "D: The tripod setup",
+        "E: The floor"
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "8634c58a-95ee-4aed-aa80-9392073815cf": [
+    {
+      "clip_name": "549_7647.mp4",
+      "clip_path": "549_7647.mp4",
+      "frames": [
+        "549.jpg",
+        "680.jpg",
+        "1270.jpg",
+        "1789.jpg",
+        "3196.jpg",
+        "3429.jpg",
+        "4477.jpg",
+        "7459.jpg",
+        "7647.jpg"
+      ],
+      "question": "What did I look at after slicing the onions on the chopping board?",
+      "answer_options": [
+        "A: The stove to turn on the heat.",
+        "B: The ground beef in the fridge.",
+        "C: The sink to wash my hands.",
+        "D: The eggs in the egg crate.",
+        "E: The refrigerator to get more ingredients."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "11805_13443.mp4",
+      "clip_path": "11805_13443.mp4",
+      "frames": [
+        "11805.jpg",
+        "11964.jpg",
+        "12097.jpg",
+        "12149.jpg",
+        "12337.jpg",
+        "12623.jpg",
+        "12688.jpg",
+        "12928.jpg",
+        "13443.jpg"
+      ],
+      "question": "What did I look at immediately after adding salt to the mix of ingredients in the skillet?",
+      "answer_options": [
+        "A: The pepper container on the countertop.",
+        "B: The white pepper container on the countertop.",
+        "C: The cutting board with vegetables.",
+        "D: The sink area.",
+        "E: The stove controls."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "d6646c16-5307-4488-b7a0-4f7fa0a6f3f8": [
+    {
+      "clip_name": "383_5207.mp4",
+      "clip_path": "383_5207.mp4",
+      "frames": [
+        "383.jpg",
+        "527.jpg",
+        "1132.jpg",
+        "1223.jpg",
+        "1267.jpg",
+        "1441.jpg",
+        "5207.jpg"
+      ],
+      "question": "What did I look at immediately after getting the degreaser from the table?",
+      "answer_options": [
+        "A: The cleaning cloth on the table.",
+        "B: The bicycle chain.",
+        "C: The tools on the workbench.",
+        "D: The storage bins in the background.",
+        "E: The tripod near the entrance."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "11b8d7e3-9c5e-4652-84ef-91504a07f332": [
+    {
+      "clip_name": "169_3314.mp4",
+      "clip_path": "169_3314.mp4",
+      "frames": [
+        "169.jpg",
+        "197.jpg",
+        "245.jpg",
+        "2549.jpg",
+        "2691.jpg",
+        "2962.jpg",
+        "3071.jpg",
+        "3231.jpg",
+        "3314.jpg"
+      ],
+      "question": "What did I look at immediately after placing the skillet on the stove?",
+      "answer_options": [
+        "A: The bowl in the cabinet.",
+        "B: The eggs in the tray.",
+        "C: The countertop where the tomato was cut.",
+        "D: The chopping board on the counter.",
+        "E: The sink area."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "4724_6123.mp4",
+      "clip_path": "4724_6123.mp4",
+      "frames": [
+        "4724.jpg",
+        "4772.jpg",
+        "4872.jpg",
+        "5296.jpg",
+        "5480.jpg",
+        "5802.jpg",
+        "5883.jpg",
+        "6024.jpg",
+        "6123.jpg"
+      ],
+      "question": "What did I look at before adding salt to the mixing bowl?",
+      "answer_options": [
+        "A: The skillet with butter",
+        "B: The countertop where the salt is located",
+        "C: The egg mixture in the bowl",
+        "D: The cabinet for tomatoes",
+        "E: The cutting board with ingredients"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "952ca52f-91d7-40a8-b254-affcc831112a": [
+    {
+      "clip_name": "251_3570.mp4",
+      "clip_path": "251_3570.mp4",
+      "frames": [
+        "251.jpg",
+        "445.jpg",
+        "1000.jpg",
+        "1226.jpg",
+        "1644.jpg",
+        "1798.jpg",
+        "2421.jpg",
+        "3357.jpg",
+        "3570.jpg"
+      ],
+      "question": "What did I look at after adding the noodles to the boiling water?",
+      "answer_options": [
+        "A: The celery on the counter top.",
+        "B: The stove controls.",
+        "C: The garlic cloves.",
+        "D: The skillet with the boiling water.",
+        "E: The sink."
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "clip_name": "7255_9927.mp4",
+      "clip_path": "7255_9927.mp4",
+      "frames": [
+        "7255.jpg",
+        "7657.jpg",
+        "7940.jpg",
+        "8352.jpg",
+        "9196.jpg",
+        "9359.jpg",
+        "9927.jpg"
+      ],
+      "question": "What did I look at immediately after adding the tomato sauce to the skillet?",
+      "answer_options": [
+        "A: The bottle of oyster sauce",
+        "B: The stove controls",
+        "C: The bottle of olive oil",
+        "D: The spatula on the counter",
+        "E: The plate for serving"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "8efe9efd-58b9-4c95-be38-0f238bdba4ee": [
+    {
+      "clip_name": "103_2930.mp4",
+      "clip_path": "103_2930.mp4",
+      "frames": [
+        "103.jpg",
+        "738.jpg",
+        "923.jpg",
+        "1543.jpg",
+        "2461.jpg",
+        "2522.jpg",
+        "2566.jpg",
+        "2723.jpg",
+        "2930.jpg"
+      ],
+      "question": "What did I look at immediately after filling the bowl with water?",
+      "answer_options": [
+        "A: The stove",
+        "B: The countertop",
+        "C: The cabinet",
+        "D: The sink",
+        "E: The cup"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "a993f2d4-bed8-47aa-8ce2-7a08b9785b24": [
+    {
+      "clip_name": "552_6616.mp4",
+      "clip_path": "552_6616.mp4",
+      "frames": [
+        "552.jpg",
+        "1058.jpg",
+        "3310.jpg",
+        "4051.jpg",
+        "4791.jpg",
+        "4975.jpg",
+        "5268.jpg",
+        "6180.jpg",
+        "6616.jpg"
+      ],
+      "question": "What did I look at immediately after cutting the cucumber with a knife?",
+      "answer_options": [
+        "A: The mixing bowl on the counter.",
+        "B: The sink to wash my hands.",
+        "C: The refrigerator for more ingredients.",
+        "D: The stove to start cooking.",
+        "E: The bottle of vinegar."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "23d1dc00-55f7-454e-b388-264ee6240527": [
+    {
+      "clip_name": "386_3361.mp4",
+      "clip_path": "386_3361.mp4",
+      "frames": [
+        "386.jpg",
+        "708.jpg",
+        "2436.jpg",
+        "2626.jpg",
+        "3166.jpg",
+        "3361.jpg"
+      ],
+      "question": "What did I look at immediately after pressing the CPR chest with her hands in Frame 5?",
+      "answer_options": [
+        "A: The AED machine on the floor.",
+        "B: The CPR dummy's face to check for response.",
+        "C: The tripod setup in the background.",
+        "D: The instruction sheet on the floor.",
+        "E: The door to ensure privacy."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "b24dbfff-1a6f-4649-b60b-35ae8c7aec80": [
+    {
+      "clip_name": "368_3122.mp4",
+      "clip_path": "368_3122.mp4",
+      "frames": [
+        "368.jpg",
+        "542.jpg",
+        "831.jpg",
+        "1123.jpg",
+        "2040.jpg",
+        "2312.jpg",
+        "2635.jpg",
+        "2962.jpg",
+        "3122.jpg"
+      ],
+      "question": "What did I look at after removing the onion skin with my hand?",
+      "answer_options": [
+        "A: The cutting board where the onion skin was placed.",
+        "B: The refrigerator to get another ingredient.",
+        "C: The kitchen tap to rinse the onion.",
+        "D: The knife on the counter.",
+        "E: The stove to check if it was preheated."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "6854_8279.mp4",
+      "clip_path": "6854_8279.mp4",
+      "frames": [
+        "6854.jpg",
+        "7370.jpg",
+        "7460.jpg",
+        "7750.jpg",
+        "8279.jpg"
+      ],
+      "question": "What did I look at before adding toasted sesame oil to the salad in the mixing bowl?",
+      "answer_options": [
+        "A: The chopping board with the knife.",
+        "B: The toasted sesame oil gallon on the shelf.",
+        "C: The mixing bowl containing the salad mixture.",
+        "D: The microwave on the counter.",
+        "E: The plate of food next to the bowl."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "07630ac3-a2a2-45e6-8b50-4fbeb063729d": [
+    {
+      "clip_name": "247_6260.mp4",
+      "clip_path": "247_6260.mp4",
+      "frames": [
+        "247.jpg",
+        "327.jpg",
+        "697.jpg",
+        "2505.jpg",
+        "2762.jpg",
+        "3679.jpg",
+        "3902.jpg",
+        "5171.jpg",
+        "6260.jpg"
+      ],
+      "question": "What did I look at immediately after squeezing out any air inside the tube with the tire lever?",
+      "answer_options": [
+        "A: The new inner tube on the table.",
+        "B: The wheel to ensure the tube was properly lifted off.",
+        "C: The floor for another tire lever.",
+        "D: The valve cap to replace it.",
+        "E: The tools on the shelf."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "aaea78b8-f839-42af-af65-0cc3f7fb2897": [
+    {
+      "clip_name": "146_3679.mp4",
+      "clip_path": "146_3679.mp4",
+      "frames": [
+        "146.jpg",
+        "191.jpg",
+        "422.jpg",
+        "736.jpg",
+        "974.jpg",
+        "1618.jpg",
+        "3151.jpg",
+        "3552.jpg",
+        "3679.jpg"
+      ],
+      "question": "What did I look at after checking the tire for any damage in Frame 1?",
+      "answer_options": [
+        "A: The tool shelf to get a tire lever.",
+        "B: The inner tube on the table.",
+        "C: The air compressor.",
+        "D: The bicycle wheel.",
+        "E: The floor."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "d80d1976-8a10-4af0-a9fb-d36264d3a074": [
+    {
+      "clip_name": "126_4493.mp4",
+      "clip_path": "126_4493.mp4",
+      "frames": [
+        "126.jpg",
+        "185.jpg",
+        "373.jpg",
+        "973.jpg",
+        "1418.jpg",
+        "4493.jpg"
+      ],
+      "question": "What did I look at after I added degreaser to the chain?",
+      "answer_options": [
+        "A: The cloth on the table.",
+        "B: The bicycle wheel.",
+        "C: The tools on the workbench.",
+        "D: The shelf with supplies.",
+        "E: The floor near the bicycle."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "fce858fe-d30b-4a72-822d-79c92d29971e": [
+    {
+      "clip_name": "915_8094.mp4",
+      "clip_path": "915_8094.mp4",
+      "frames": [
+        "915.jpg",
+        "1665.jpg",
+        "3635.jpg",
+        "4562.jpg",
+        "5432.jpg",
+        "6345.jpg",
+        "7716.jpg",
+        "7934.jpg",
+        "8094.jpg"
+      ],
+      "question": "What did I look at immediately after washing the chopstick under the kitchen tap?",
+      "answer_options": [
+        "A: The skillet in the sink",
+        "B: The plate rack",
+        "C: The spatula holder",
+        "D: The mixing bowl on the table",
+        "E: The stovetop"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "be3ba254-9db0-4fa9-91ed-c9e7117f8d83": [
+    {
+      "clip_name": "103_2741.mp4",
+      "clip_path": "103_2741.mp4",
+      "frames": [
+        "103.jpg",
+        "273.jpg",
+        "840.jpg",
+        "1241.jpg",
+        "1272.jpg",
+        "1687.jpg",
+        "2055.jpg",
+        "2372.jpg",
+        "2741.jpg"
+      ],
+      "question": "What did I look at after removing the inner tube from the tire of the wheel?",
+      "answer_options": [
+        "A: The valve of the wheel.",
+        "B: The tools on the workbench.",
+        "C: The inner tube.",
+        "D: The person standing in the background.",
+        "E: The tire pump."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "68c657c5-24e9-4a8a-80a4-3f1fa7bf0ae3": [
+    {
+      "clip_name": "664_5143.mp4",
+      "clip_path": "664_5143.mp4",
+      "frames": [
+        "664.jpg",
+        "2640.jpg",
+        "3238.jpg",
+        "3288.jpg",
+        "3703.jpg",
+        "3838.jpg",
+        "4396.jpg",
+        "4450.jpg",
+        "5143.jpg"
+      ],
+      "question": "What did I look at immediately after arranging the test materials on the table?",
+      "answer_options": [
+        "A: The instruction manual on the table.",
+        "B: The collection swab in its packaging.",
+        "C: The test plate that needed to be unwrapped.",
+        "D: The phone placed on the table.",
+        "E: The tripod setup in the background."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "07433534-77d9-452d-a1b6-f33ed24f67c6": [
+    {
+      "clip_name": "365_2499.mp4",
+      "clip_path": "365_2499.mp4",
+      "frames": [
+        "365.jpg",
+        "427.jpg",
+        "1037.jpg",
+        "1126.jpg",
+        "1234.jpg",
+        "1596.jpg",
+        "1906.jpg",
+        "2052.jpg",
+        "2499.jpg"
+      ],
+      "question": "What did I look at before pouring sesame oil on the scoop?",
+      "answer_options": [
+        "A: The recipe paper",
+        "B: The stove",
+        "C: The faucet",
+        "D: The saucepan",
+        "E: The cabinet"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "6273_9378.mp4",
+      "clip_path": "6273_9378.mp4",
+      "frames": [
+        "6273.jpg",
+        "6364.jpg",
+        "6749.jpg",
+        "7206.jpg",
+        "8221.jpg",
+        "8572.jpg",
+        "8630.jpg",
+        "9320.jpg",
+        "9378.jpg"
+      ],
+      "question": "What did I look at immediately after pouring honey into the scoop?",
+      "answer_options": [
+        "A: The tomato sauce on the countertop.",
+        "B: The recipe paper on the table.",
+        "C: The bowl where ingredients are being mixed.",
+        "D: The fork in the cabinet.",
+        "E: The garlic cloves on the countertop."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "1bd5a43c-9476-4491-b82e-6b02aeee2231": [
+    {
+      "clip_name": "732_2937.mp4",
+      "clip_path": "732_2937.mp4",
+      "frames": [
+        "732.jpg",
+        "1037.jpg",
+        "1382.jpg",
+        "1514.jpg",
+        "1770.jpg",
+        "2170.jpg",
+        "2657.jpg",
+        "2845.jpg",
+        "2937.jpg"
+      ],
+      "question": "What did I look at immediately after arranging the test material on the table?",
+      "answer_options": [
+        "A: The testing tube pack",
+        "B: The collection swab",
+        "C: The test manual on the table",
+        "D: The tripod camera setup",
+        "E: The ceiling lights"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "5289_6982.mp4",
+      "clip_path": "5289_6982.mp4",
+      "frames": [
+        "5289.jpg",
+        "5520.jpg",
+        "5826.jpg",
+        "5951.jpg",
+        "6405.jpg",
+        "6491.jpg",
+        "6694.jpg",
+        "6802.jpg",
+        "6982.jpg"
+      ],
+      "question": "What did I look at immediately after stopping the timer on the table?",
+      "answer_options": [
+        "A: The collection swab in the test tube",
+        "B: The test manual on the table",
+        "C: The bin for disposing of waste",
+        "D: The test tube cap on the table",
+        "E: The tripod setup in the room"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "23ad5c7b-7413-4614-846a-976c120d8bcd": [
+    {
+      "clip_name": "404_1586.mp4",
+      "clip_path": "404_1586.mp4",
+      "frames": [
+        "404.jpg",
+        "728.jpg",
+        "787.jpg",
+        "867.jpg",
+        "1127.jpg",
+        "1366.jpg",
+        "1454.jpg",
+        "1491.jpg",
+        "1586.jpg"
+      ],
+      "question": "What did I look at after rinsing the pot in the kitchen sink?",
+      "answer_options": [
+        "A: The stove",
+        "B: The measuring cup on the countertop",
+        "C: The faucet",
+        "D: The microwave",
+        "E: The paper towel dispenser"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "3926_5955.mp4",
+      "clip_path": "3926_5955.mp4",
+      "frames": [
+        "3926.jpg",
+        "4438.jpg",
+        "4778.jpg",
+        "5076.jpg",
+        "5158.jpg",
+        "5362.jpg",
+        "5419.jpg",
+        "5788.jpg",
+        "5955.jpg"
+      ],
+      "question": "What did I look at immediately after getting the black tea container from the cabinet?",
+      "answer_options": [
+        "A: The paper recipe in the kitchen sink.",
+        "B: The mug on the countertop.",
+        "C: The cinnamon stick container in the cabinet.",
+        "D: The stove where the milk is boiling.",
+        "E: The spoon on the countertop."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "6bf869e6-32ac-4558-ac54-f78a5ad1e918": [
+    {
+      "clip_name": "1141_3315.mp4",
+      "clip_path": "1141_3315.mp4",
+      "frames": [
+        "1141.jpg",
+        "1238.jpg",
+        "1356.jpg",
+        "2276.jpg",
+        "2447.jpg",
+        "2745.jpg",
+        "2918.jpg",
+        "3083.jpg",
+        "3315.jpg"
+      ],
+      "question": "What did I look at immediately after placing the pot on the stove top in Frame 3?",
+      "answer_options": [
+        "A: The electric kettle",
+        "B: The trash can",
+        "C: The cabinet where the tea bag pack is stored",
+        "D: The sink",
+        "E: The countertop with various bottles and containers"
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "clip_name": "10023_13901.mp4",
+      "clip_path": "10023_13901.mp4",
+      "frames": [
+        "10023.jpg",
+        "10161.jpg",
+        "11251.jpg",
+        "11437.jpg",
+        "12886.jpg",
+        "13067.jpg",
+        "13377.jpg",
+        "13525.jpg",
+        "13901.jpg"
+      ],
+      "question": "What did I look at immediately after pouring the boiled water from the electric kettle into the pot?",
+      "answer_options": [
+        "A: The tea bag in the hot water pot.",
+        "B: The stove controls to adjust the heat.",
+        "C: The countertop for additional ingredients.",
+        "D: The sink area.",
+        "E: The cabinet above the stove."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "15dcfdff-0f28-4e3f-8902-e00227c377a2": [
+    {
+      "clip_name": "242_1131.mp4",
+      "clip_path": "242_1131.mp4",
+      "frames": [
+        "242.jpg",
+        "315.jpg",
+        "397.jpg",
+        "536.jpg",
+        "553.jpg",
+        "561.jpg",
+        "962.jpg",
+        "1119.jpg",
+        "1131.jpg"
+      ],
+      "question": "What did I look at after checking if the patient was breathing for the second time?",
+      "answer_options": [
+        "A: The bystanders to ask for help",
+        "B: The center of the patient's chest",
+        "C: My hands as I interlaced my fingers",
+        "D: The patient's neck and shoulders",
+        "E: The floor near the patient"
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "084fe4d0-b55d-4de4-a26d-32d7735e9621": [
+    {
+      "clip_name": "2130_5025.mp4",
+      "clip_path": "2130_5025.mp4",
+      "frames": [
+        "2130.jpg",
+        "2529.jpg",
+        "2869.jpg",
+        "3288.jpg",
+        "3769.jpg",
+        "4028.jpg",
+        "4614.jpg",
+        "4944.jpg",
+        "5025.jpg"
+      ],
+      "question": "What did I look at immediately after cracking the egg into the bowl?",
+      "answer_options": [
+        "A: The chopsticks in the drawer",
+        "B: The ground red pepper container",
+        "C: The salt shaker on the countertop",
+        "D: The stove to turn on the heat",
+        "E: The oil bottle on the countertop"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "8808_10352.mp4",
+      "clip_path": "8808_10352.mp4",
+      "frames": [
+        "8808.jpg",
+        "9319.jpg",
+        "9654.jpg",
+        "10142.jpg",
+        "10352.jpg"
+      ],
+      "question": "What did I look at immediately after spreading the omelet with chopsticks?",
+      "answer_options": [
+        "A: The plate in the cabinet.",
+        "B: The stove heat controls.",
+        "C: The sink area.",
+        "D: The countertop near the cutting board.",
+        "E: The refrigerator."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "44e3a281-953f-439b-aa58-01a5a362a31f": [
+    {
+      "clip_name": "411_2483.mp4",
+      "clip_path": "411_2483.mp4",
+      "frames": [
+        "411.jpg",
+        "604.jpg",
+        "1269.jpg",
+        "1584.jpg",
+        "2217.jpg",
+        "2387.jpg",
+        "2483.jpg"
+      ],
+      "question": "What did I look at after I finished dicing the tomatoes on the chopping board?",
+      "answer_options": [
+        "A: The salad bowl to add the diced tomatoes.",
+        "B: The faucet to rinse my hands.",
+        "C: The cucumber on the counter.",
+        "D: The camera setup in the background.",
+        "E: The person sitting at the table."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "d19b9b06-2156-4bda-b96f-b6c50e48e0da": [
+    {
+      "clip_name": "217_2187.mp4",
+      "clip_path": "217_2187.mp4",
+      "frames": [
+        "217.jpg",
+        "400.jpg",
+        "918.jpg",
+        "948.jpg",
+        "977.jpg",
+        "1518.jpg",
+        "1643.jpg",
+        "1670.jpg",
+        "2187.jpg"
+      ],
+      "question": "What did I look at after placing both hands on the patient's chest for the first time?",
+      "answer_options": [
+        "A: The patient's face to check if they are breathing.",
+        "B: The tripod setup in the room.",
+        "C: The manual lying next to the patient.",
+        "D: My own hands to ensure proper placement.",
+        "E: The floor to maintain balance."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "db85dc4c-72a3-45a0-8f33-c239fe955f42": [
+    {
+      "clip_name": "162_8015.mp4",
+      "clip_path": "162_8015.mp4",
+      "frames": [
+        "162.jpg",
+        "326.jpg",
+        "923.jpg",
+        "3593.jpg",
+        "4021.jpg",
+        "6082.jpg",
+        "8015.jpg"
+      ],
+      "question": "What did I look at after squeezing out any air inside the tube?",
+      "answer_options": [
+        "A: The tire lever on the floor.",
+        "B: The wheel's bead seat line for irregularities.",
+        "C: The inner tube as it was being pulled out.",
+        "D: The dust cap that was removed from the wheel.",
+        "E: The area around the rim where the tire lever is used."
+      ],
+      "correct_answer": "E"
+    }
+  ],
+  "c4dbfed6-f922-4213-a574-da37c7afd61c": [
+    {
+      "clip_name": "137_4925.mp4",
+      "clip_path": "137_4925.mp4",
+      "frames": [
+        "137.jpg",
+        "379.jpg",
+        "496.jpg",
+        "803.jpg",
+        "1332.jpg",
+        "1506.jpg",
+        "1711.jpg",
+        "4415.jpg",
+        "4925.jpg"
+      ],
+      "question": "What did I look at after adding water to the electric kettle?",
+      "answer_options": [
+        "A: The stove where the kettle is placed.",
+        "B: The cabinet to get a cup.",
+        "C: The sink area.",
+        "D: The tea bags in the cabinet.",
+        "E: The waste bin."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "12311_13409.mp4",
+      "clip_path": "12311_13409.mp4",
+      "frames": [
+        "12311.jpg",
+        "12489.jpg",
+        "12668.jpg",
+        "12875.jpg",
+        "13085.jpg",
+        "13218.jpg",
+        "13409.jpg"
+      ],
+      "question": "What did I look at after disposing of the tea bag in the trash can?",
+      "answer_options": [
+        "A: The bottle of milk on the counter.",
+        "B: The refrigerator door.",
+        "C: The sink area.",
+        "D: The tissue paper roll.",
+        "E: The table with food items."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "ffe64b82-6751-400a-9d64-5f4952017234": [
+    {
+      "clip_name": "720_1672.mp4",
+      "clip_path": "720_1672.mp4",
+      "frames": [
+        "720.jpg",
+        "1184.jpg",
+        "1222.jpg",
+        "1672.jpg"
+      ],
+      "question": "What did I look at immediately after tapping the patient to check their response?",
+      "answer_options": [
+        "A: The patient's chest",
+        "B: The surrounding area for help",
+        "C: The patient's face",
+        "D: The medical bag on the ground",
+        "E: The bystanders in the background"
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "2ef42b62-0ad8-442f-b868-7df6b5d54714": [
+    {
+      "clip_name": "129_5584.mp4",
+      "clip_path": "129_5584.mp4",
+      "frames": [
+        "129.jpg",
+        "247.jpg",
+        "394.jpg",
+        "750.jpg",
+        "928.jpg",
+        "2787.jpg",
+        "2842.jpg",
+        "5584.jpg"
+      ],
+      "question": "What did I look at after applying lube to the chain rollers?",
+      "answer_options": [
+        "A: The degreaser on the table.",
+        "B: The brake cable.",
+        "C: A cloth on the table.",
+        "D: The pedals of the bicycle.",
+        "E: The tools in the background."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "587eca14-1115-4a97-aff1-664de9e3415f": [
+    {
+      "clip_name": "252_1482.mp4",
+      "clip_path": "252_1482.mp4",
+      "frames": [
+        "252.jpg",
+        "375.jpg",
+        "482.jpg",
+        "516.jpg",
+        "1081.jpg",
+        "1168.jpg",
+        "1271.jpg",
+        "1406.jpg",
+        "1482.jpg"
+      ],
+      "question": "What did I look at immediately after spreading butter in the skillet with a spatula for the first time?",
+      "answer_options": [
+        "A: The egg on the counter top.",
+        "B: The knob to regulate the heat of the cooker.",
+        "C: The butter on the counter top.",
+        "D: The sink.",
+        "E: The plate with vegetables."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "3229_5492.mp4",
+      "clip_path": "3229_5492.mp4",
+      "frames": [
+        "3229.jpg",
+        "3397.jpg",
+        "3501.jpg",
+        "3552.jpg",
+        "4802.jpg",
+        "4842.jpg",
+        "5279.jpg",
+        "5492.jpg"
+      ],
+      "question": "What did I look at immediately after adding black pepper into the egg in the skillet?",
+      "answer_options": [
+        "A: The salt container on the counter top.",
+        "B: The knob to regulate the heat of the cooker.",
+        "C: The plate where the scrambled eggs will be served.",
+        "D: The spatula used for stirring the egg mixture.",
+        "E: The black pepper container before returning it to the counter top."
+      ],
+      "correct_answer": "E"
+    }
+  ],
+  "0507c7ee-073c-4c37-baa0-ad079aa59027": [
+    {
+      "clip_name": "815_4050.mp4",
+      "clip_path": "815_4050.mp4",
+      "frames": [
+        "815.jpg",
+        "1018.jpg",
+        "1581.jpg",
+        "2146.jpg",
+        "2329.jpg",
+        "2685.jpg",
+        "3230.jpg",
+        "3812.jpg",
+        "4050.jpg"
+      ],
+      "question": "What did I look at after engaging the tire lever to the rim of the wheel?",
+      "answer_options": [
+        "A: The new inner tube on the table.",
+        "B: The valve cap of the inner tube.",
+        "C: The tools on the wall.",
+        "D: The tire lever in my hand.",
+        "E: The floor near the workbench."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "e26a1515-2609-42c3-a2d2-68b37cc0b4d6": [
+    {
+      "clip_name": "197_2693.mp4",
+      "clip_path": "197_2693.mp4",
+      "frames": [
+        "197.jpg",
+        "387.jpg",
+        "727.jpg",
+        "790.jpg",
+        "1267.jpg",
+        "1565.jpg",
+        "2097.jpg",
+        "2235.jpg",
+        "2693.jpg"
+      ],
+      "question": "What did I look at immediately after getting the pack of tomatoes from the refrigerator?",
+      "answer_options": [
+        "A: The Ziploc bag containing cucumber",
+        "B: The kitchen sink",
+        "C: The cabinet",
+        "D: The cutting board",
+        "E: The mixing bowl"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "3421_5268.mp4",
+      "clip_path": "3421_5268.mp4",
+      "frames": [
+        "3421.jpg",
+        "3487.jpg",
+        "3702.jpg",
+        "4041.jpg",
+        "4426.jpg",
+        "4549.jpg",
+        "4874.jpg",
+        "4960.jpg",
+        "5268.jpg"
+      ],
+      "question": "What did I look at immediately after slicing the tomato in half?",
+      "answer_options": [
+        "A: The mixing bowl where the sliced tomato was added.",
+        "B: The container of salt and pepper on the countertop.",
+        "C: The bottle of rice vinegar on the countertop.",
+        "D: The sink area to clean the knife.",
+        "E: The honey bottle on the countertop."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "4a10d608-6712-4f08-aa69-1cfd4541dd6c": [
+    {
+      "clip_name": "351_2590.mp4",
+      "clip_path": "351_2590.mp4",
+      "frames": [
+        "351.jpg",
+        "411.jpg",
+        "904.jpg",
+        "1268.jpg",
+        "1465.jpg",
+        "1763.jpg",
+        "2041.jpg",
+        "2214.jpg",
+        "2590.jpg"
+      ],
+      "question": "What did I look at immediately after rinsing the kitchen towel?",
+      "answer_options": [
+        "A: The pack of noodles on the counter.",
+        "B: The sink where I just washed my hands.",
+        "C: The stove to check if it was turned on.",
+        "D: The microwave for heating instructions.",
+        "E: The saucepan on the stove."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "6519_7817.mp4",
+      "clip_path": "6519_7817.mp4",
+      "frames": [
+        "6519.jpg",
+        "6556.jpg",
+        "6604.jpg",
+        "6838.jpg",
+        "7188.jpg",
+        "7363.jpg",
+        "7547.jpg",
+        "7635.jpg",
+        "7817.jpg"
+      ],
+      "question": "What did I look at after slicing the spring onions on the counter top with a knife?",
+      "answer_options": [
+        "A: The bowl containing garlic",
+        "B: The saucepan on the cooker",
+        "C: The sink",
+        "D: The tripod-mounted camera",
+        "E: The kitchen cabinet"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "6023b80a-a1af-405b-ae86-6613452a1512": [
+    {
+      "clip_name": "1990_3567.mp4",
+      "clip_path": "1990_3567.mp4",
+      "frames": [
+        "1990.jpg",
+        "2083.jpg",
+        "2153.jpg",
+        "2507.jpg",
+        "2558.jpg",
+        "2930.jpg",
+        "3135.jpg",
+        "3326.jpg",
+        "3567.jpg"
+      ],
+      "question": "What did I look at after placing the plate in the sink?",
+      "answer_options": [
+        "A: The butter on the countertop.",
+        "B: The phone to check the recipe instructions.",
+        "C: The knife that needed washing.",
+        "D: The cabinet to get a bowl.",
+        "E: The refrigerator where the butter was stored."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "5576_7614.mp4",
+      "clip_path": "5576_7614.mp4",
+      "frames": [
+        "5576.jpg",
+        "5640.jpg",
+        "5761.jpg",
+        "6487.jpg",
+        "6619.jpg",
+        "7218.jpg",
+        "7289.jpg",
+        "7510.jpg",
+        "7614.jpg"
+      ],
+      "question": "What did I look at after adding the sliced garlic cloves to the bowl?",
+      "answer_options": [
+        "A: The recipe instruction on the phone.",
+        "B: The sesame seeds on the countertop.",
+        "C: The pepper container on the countertop.",
+        "D: The sink area.",
+        "E: The cutting board."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "971bf500-87fe-41a1-8ede-5b2eb1e87711": [
+    {
+      "clip_name": "1412_7974.mp4",
+      "clip_path": "1412_7974.mp4",
+      "frames": [
+        "1412.jpg",
+        "1539.jpg",
+        "1840.jpg",
+        "2139.jpg",
+        "2493.jpg",
+        "5036.jpg",
+        "5287.jpg",
+        "6726.jpg",
+        "7974.jpg"
+      ],
+      "question": "What did I look at after adding the tea bags to the cup?",
+      "answer_options": [
+        "A: The electric kettle",
+        "B: The milk carton in the fridge",
+        "C: The sugar container in the cabinet",
+        "D: The spoon on the counter",
+        "E: The water faucet"
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "f6cd28c0-570f-4048-a684-bb4f0b055adb": [
+    {
+      "clip_name": "1265_2174.mp4",
+      "clip_path": "1265_2174.mp4",
+      "frames": [
+        "1265.jpg",
+        "1385.jpg",
+        "1417.jpg",
+        "1583.jpg",
+        "1743.jpg",
+        "1862.jpg",
+        "2016.jpg",
+        "2097.jpg",
+        "2174.jpg"
+      ],
+      "question": "What did I look at after pouring milk into the cup?",
+      "answer_options": [
+        "A: The refrigerator",
+        "B: The faucet",
+        "C: The pot on the stove",
+        "D: The microwave",
+        "E: The kitchen counter"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "4313_8738.mp4",
+      "clip_path": "4313_8738.mp4",
+      "frames": [
+        "4313.jpg",
+        "6786.jpg",
+        "6914.jpg",
+        "7014.jpg",
+        "7315.jpg",
+        "7674.jpg",
+        "8257.jpg",
+        "8477.jpg",
+        "8738.jpg"
+      ],
+      "question": "What did I look at after adding the chopped ginger into the pot of chai tea?",
+      "answer_options": [
+        "A: The chopping board and spoon",
+        "B: The refrigerator",
+        "C: The running faucet",
+        "D: The cinnamon powder pack in the cabinet",
+        "E: The stove"
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "a3d933a1-26b2-4025-b136-3a9c2d40db4c": [
+    {
+      "clip_name": "124_2856.mp4",
+      "clip_path": "124_2856.mp4",
+      "frames": [
+        "124.jpg",
+        "473.jpg",
+        "731.jpg",
+        "835.jpg",
+        "1371.jpg",
+        "2036.jpg",
+        "2355.jpg",
+        "2667.jpg",
+        "2856.jpg"
+      ],
+      "question": "What did I look at before placing the pot of water on the cooker?",
+      "answer_options": [
+        "A: The running tap",
+        "B: The French press on the countertop",
+        "C: The lighter to turn on the cooker",
+        "D: The cabinet where I got the pot",
+        "E: The cinnamon stick"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "7526_11330.mp4",
+      "clip_path": "7526_11330.mp4",
+      "frames": [
+        "7526.jpg",
+        "8036.jpg",
+        "8406.jpg",
+        "8973.jpg",
+        "9818.jpg",
+        "10082.jpg",
+        "10775.jpg",
+        "11043.jpg",
+        "11330.jpg"
+      ],
+      "question": "What did I look at after stirring the water with cinnamon sticks using the spoon?",
+      "answer_options": [
+        "A: The milk pitcher on the countertop.",
+        "B: The boiling pot of water on the stove.",
+        "C: The kitchen towel on the countertop.",
+        "D: The sink area.",
+        "E: The spice rack."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "e57ffcd1-425a-484d-9ea2-0c073134ce31": [
+    {
+      "clip_name": "631_2216.mp4",
+      "clip_path": "631_2216.mp4",
+      "frames": [
+        "631.jpg",
+        "1065.jpg",
+        "1194.jpg",
+        "1265.jpg",
+        "1424.jpg",
+        "1561.jpg",
+        "1957.jpg",
+        "2216.jpg"
+      ],
+      "question": "What did I look at immediately after tightening the axle nut with my hand for the second time?",
+      "answer_options": [
+        "A: The brake calipers",
+        "B: The lever on the bicycle dropout",
+        "C: The wheel spokes",
+        "D: The handlebars",
+        "E: The pedals"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "a5e81f20-ea35-4f63-a908-11d89fc1294c": [
+    {
+      "clip_name": "421_2318.mp4",
+      "clip_path": "421_2318.mp4",
+      "frames": [
+        "421.jpg",
+        "810.jpg",
+        "976.jpg",
+        "1099.jpg",
+        "1657.jpg",
+        "1927.jpg",
+        "2077.jpg",
+        "2194.jpg",
+        "2318.jpg"
+      ],
+      "question": "What did I look at immediately after reading the recipe for the first time?",
+      "answer_options": [
+        "A: The toasted sesame oil on the counter top.",
+        "B: The measuring spoon on the counter top.",
+        "C: The bowl where ingredients are being mixed.",
+        "D: The lemon juice on the table.",
+        "E: The sink."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "5842_10373.mp4",
+      "clip_path": "5842_10373.mp4",
+      "frames": [
+        "5842.jpg",
+        "5982.jpg",
+        "6213.jpg",
+        "6416.jpg",
+        "6500.jpg",
+        "6689.jpg",
+        "8051.jpg",
+        "8179.jpg",
+        "10373.jpg"
+      ],
+      "question": "What did I look at immediately after adding sesame oil to a bowl with a measuring spoon?",
+      "answer_options": [
+        "A: The fresh ginger on the table.",
+        "B: The knife on the counter top.",
+        "C: The sink.",
+        "D: The chopping board.",
+        "E: The measuring spoons."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "b5793959-4dbe-4d2c-b036-47e4be38743a": [
+    {
+      "clip_name": "723_3860.mp4",
+      "clip_path": "723_3860.mp4",
+      "frames": [
+        "723.jpg",
+        "1229.jpg",
+        "1772.jpg",
+        "2297.jpg",
+        "2930.jpg",
+        "3251.jpg",
+        "3571.jpg",
+        "3668.jpg",
+        "3860.jpg"
+      ],
+      "question": "What did I look at after washing the bowl with water in the sink?",
+      "answer_options": [
+        "A: The napkin on the counter.",
+        "B: The flour and salt in the cabinet.",
+        "C: The egg crate in the fridge.",
+        "D: The mixing bowl in the cabinet.",
+        "E: The bin for throwing trash."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "10105_13840.mp4",
+      "clip_path": "10105_13840.mp4",
+      "frames": [
+        "10105.jpg",
+        "10801.jpg",
+        "11181.jpg",
+        "11621.jpg",
+        "11984.jpg",
+        "12387.jpg",
+        "12759.jpg",
+        "13376.jpg",
+        "13840.jpg"
+      ],
+      "question": "What did I look at immediately after adding water to the mixture in the bowl with the measuring spoon?",
+      "answer_options": [
+        "A: The spatula on the counter.",
+        "B: The sink.",
+        "C: The mixture in the bowl.",
+        "D: The stove.",
+        "E: The refrigerator."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "077eb879-f9e3-47a8-a335-2144c72a4098": [
+    {
+      "clip_name": "469_4611.mp4",
+      "clip_path": "469_4611.mp4",
+      "frames": [
+        "469.jpg",
+        "685.jpg",
+        "1209.jpg",
+        "1347.jpg",
+        "1694.jpg",
+        "2996.jpg",
+        "3364.jpg",
+        "3855.jpg",
+        "4611.jpg"
+      ],
+      "question": "What did I look at immediately after applying chain lube to the rollers while backpedaling?",
+      "answer_options": [
+        "A: The work table where tools are placed.",
+        "B: The cloth on the work table.",
+        "C: The bicycle's handlebars.",
+        "D: The rear derailleur.",
+        "E: The front wheel of the bicycle."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "7ec750d7-fc17-41dc-b627-be30b2682c7a": [
+    {
+      "clip_name": "129_2753.mp4",
+      "clip_path": "129_2753.mp4",
+      "frames": [
+        "129.jpg",
+        "209.jpg",
+        "444.jpg",
+        "469.jpg",
+        "727.jpg",
+        "818.jpg",
+        "1203.jpg",
+        "2574.jpg",
+        "2753.jpg"
+      ],
+      "question": "What did I look at before pouring water from the bottle into the pot on the stove?",
+      "answer_options": [
+        "A: The milk pack on the counter top.",
+        "B: The chopping board with utensils.",
+        "C: The cardamom container in the cabinet.",
+        "D: The bottle of water on the counter top.",
+        "E: The small spoon on the chopping board."
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "clip_name": "4468_5590.mp4",
+      "clip_path": "4468_5590.mp4",
+      "frames": [
+        "4468.jpg",
+        "4641.jpg",
+        "4686.jpg",
+        "4803.jpg",
+        "5051.jpg",
+        "5405.jpg",
+        "5470.jpg",
+        "5541.jpg",
+        "5590.jpg"
+      ],
+      "question": "What did I look at after adding cinnamon powder into the pot of chai tea?",
+      "answer_options": [
+        "A: The stove to regulate the heat.",
+        "B: The chopping board to get a small spoon.",
+        "C: The cabinet to return the cinnamon powder container.",
+        "D: The mug cup to place a fine-mesh sieve on it.",
+        "E: The sink to wash my hands."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "fce7bb0b-b284-4a7d-869a-3c9cae440679": [
+    {
+      "clip_name": "155_1533.mp4",
+      "clip_path": "155_1533.mp4",
+      "frames": [
+        "155.jpg",
+        "460.jpg",
+        "892.jpg",
+        "1092.jpg",
+        "1192.jpg",
+        "1300.jpg",
+        "1390.jpg",
+        "1423.jpg",
+        "1533.jpg"
+      ],
+      "question": "What did I look at immediately after getting the mason jar from the tray?",
+      "answer_options": [
+        "A: The recipe paper",
+        "B: The kitchen cabinet",
+        "C: The white square bowl",
+        "D: The soy sauce bottle",
+        "E: The honey container"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "3077_5939.mp4",
+      "clip_path": "3077_5939.mp4",
+      "frames": [
+        "3077.jpg",
+        "3330.jpg",
+        "3821.jpg",
+        "4162.jpg",
+        "4544.jpg",
+        "5283.jpg",
+        "5672.jpg",
+        "5709.jpg",
+        "5939.jpg"
+      ],
+      "question": "What did I look at immediately after adding soy sauce into the mason jar for the second time?",
+      "answer_options": [
+        "A: The measuring scoop on the counter.",
+        "B: The sesame oil bottle.",
+        "C: The lemon juice bottle.",
+        "D: The grater on the cutting board.",
+        "E: The garlic cloves."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "01d7a29d-f1a2-44d6-8871-178f26233d32": [
+    {
+      "clip_name": "1193_4298.mp4",
+      "clip_path": "1193_4298.mp4",
+      "frames": [
+        "1193.jpg",
+        "1369.jpg",
+        "1796.jpg",
+        "1964.jpg",
+        "2801.jpg",
+        "3194.jpg",
+        "3307.jpg",
+        "3724.jpg",
+        "4298.jpg"
+      ],
+      "question": "What did I look at immediately after attempting to release the wheel from the bicycle frame?",
+      "answer_options": [
+        "A: The Allen wrench on the table.",
+        "B: The screwdriver head in my hand.",
+        "C: The axle nut in the wheel.",
+        "D: The floor near the bicycle.",
+        "E: The other bicycle in the background."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "f7011ab9-4260-4fd3-a218-36263fabb1f0": [
+    {
+      "clip_name": "465_3032.mp4",
+      "clip_path": "465_3032.mp4",
+      "frames": [
+        "465.jpg",
+        "705.jpg",
+        "1285.jpg",
+        "2028.jpg",
+        "2100.jpg",
+        "2562.jpg",
+        "2808.jpg",
+        "2848.jpg",
+        "3032.jpg"
+      ],
+      "question": "What did I look at after cracking the eggs into the skillet?",
+      "answer_options": [
+        "A: The stove on the wall.",
+        "B: The butter in the skillet.",
+        "C: The counter top for more ingredients.",
+        "D: The sink to clean my hands.",
+        "E: The refrigerator for additional items."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "7b138731-a8f3-4938-be1b-22599df07d39": [
+    {
+      "clip_name": "284_6366.mp4",
+      "clip_path": "284_6366.mp4",
+      "frames": [
+        "284.jpg",
+        "5994.jpg",
+        "6311.jpg",
+        "6366.jpg"
+      ],
+      "question": "What did I look at after releasing the rim brake pads?",
+      "answer_options": [
+        "A: The wrench on the table.",
+        "B: The wheel that was just pulled out.",
+        "C: The bike frame where the wheel is attached.",
+        "D: The floor near the bike.",
+        "E: The door in the background."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "0c49cda5-7e55-46d8-8f1f-522ed1924a79": [
+    {
+      "clip_name": "596_1513.mp4",
+      "clip_path": "596_1513.mp4",
+      "frames": [
+        "596.jpg",
+        "732.jpg",
+        "899.jpg",
+        "1087.jpg",
+        "1136.jpg",
+        "1236.jpg",
+        "1328.jpg",
+        "1491.jpg",
+        "1513.jpg"
+      ],
+      "question": "What did I look at immediately after cracking the egg into the bowl?",
+      "answer_options": [
+        "A: The trash can where I threw the eggshell.",
+        "B: The jar of salt on the shelf.",
+        "C: The running tap in the sink.",
+        "D: The plastic bag for the egg crate.",
+        "E: The cutting board and knife."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "3723_7556.mp4",
+      "clip_path": "3723_7556.mp4",
+      "frames": [
+        "3723.jpg",
+        "4005.jpg",
+        "4229.jpg",
+        "4277.jpg",
+        "4583.jpg",
+        "4852.jpg",
+        "4964.jpg",
+        "7205.jpg",
+        "7556.jpg"
+      ],
+      "question": "What did I look at immediately after tilting and rotating the skillet to allow oil flow into empty space?",
+      "answer_options": [
+        "A: The plate on the countertop.",
+        "B: The egg mixture in the bowl.",
+        "C: The running tap.",
+        "D: The spatula on the counter.",
+        "E: The sink."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "442c74f8-4d52-4f78-bf23-f8741d9b3f45": [
+    {
+      "clip_name": "183_6314.mp4",
+      "clip_path": "183_6314.mp4",
+      "frames": [
+        "183.jpg",
+        "273.jpg",
+        "387.jpg",
+        "570.jpg",
+        "5479.jpg",
+        "5617.jpg",
+        "5863.jpg",
+        "5979.jpg",
+        "6314.jpg"
+      ],
+      "question": "What did I look at immediately after getting the tomato from the counter top?",
+      "answer_options": [
+        "A: The recipe on the paper.",
+        "B: The chopping board.",
+        "C: The knife in the drawer.",
+        "D: The bowl in the cabinet.",
+        "E: The egg crate."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "10181_11881.mp4",
+      "clip_path": "10181_11881.mp4",
+      "frames": [
+        "10181.jpg",
+        "10216.jpg",
+        "10381.jpg",
+        "10640.jpg",
+        "10747.jpg",
+        "11209.jpg",
+        "11332.jpg",
+        "11393.jpg",
+        "11881.jpg"
+      ],
+      "question": "What did I look at after adding oil to the frying pan?",
+      "answer_options": [
+        "A: The recipe on the counter top.",
+        "B: The sink where I put the spoon away.",
+        "C: The stove to check if it was turned on.",
+        "D: The drawer to get a spatula.",
+        "E: The countertop where I placed the oil."
+      ],
+      "correct_answer": "E"
+    }
+  ],
+  "e4d26f73-845c-4ec0-a0cf-2610c29680f8": [
+    {
+      "clip_name": "664_2627.mp4",
+      "clip_path": "664_2627.mp4",
+      "frames": [
+        "664.jpg",
+        "1349.jpg",
+        "1786.jpg",
+        "1887.jpg",
+        "2093.jpg",
+        "2183.jpg",
+        "2287.jpg",
+        "2397.jpg",
+        "2627.jpg"
+      ],
+      "question": "What did I look at immediately after arranging the COVID test pack materials on the table?",
+      "answer_options": [
+        "A: The instruction sheet",
+        "B: The test vial",
+        "C: The waste bag",
+        "D: The saliva collector",
+        "E: The tripod in the background"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "c95ba288-2cca-46f2-b606-f4e4d145d40e": [
+    {
+      "clip_name": "86_1541.mp4",
+      "clip_path": "86_1541.mp4",
+      "frames": [
+        "86.jpg",
+        "213.jpg",
+        "326.jpg",
+        "623.jpg",
+        "1183.jpg",
+        "1235.jpg",
+        "1322.jpg",
+        "1464.jpg",
+        "1541.jpg"
+      ],
+      "question": "What did I look at immediately after turning on the electric kettle to boil water?",
+      "answer_options": [
+        "A: The sachet of tea bag on the counter top.",
+        "B: The sink area.",
+        "C: The microwave above the stove.",
+        "D: The refrigerator door.",
+        "E: The spice rack near the stove."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "c339d326-2e69-40f9-88f3-caa5c80ff3be": [
+    {
+      "clip_name": "109_2267.mp4",
+      "clip_path": "109_2267.mp4",
+      "frames": [
+        "109.jpg",
+        "414.jpg",
+        "1082.jpg",
+        "2187.jpg",
+        "2267.jpg"
+      ],
+      "question": "What did I look at after using both hands to screw tightly the axle nuts?",
+      "answer_options": [
+        "A: The wrench on the table.",
+        "B: The bicycle wheel.",
+        "C: The person working in the background.",
+        "D: The tools scattered on the floor.",
+        "E: The door of the workshop."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "2558806a-cf6c-42dd-8323-ab80e7b7dc75": [
+    {
+      "clip_name": "338_1827.mp4",
+      "clip_path": "338_1827.mp4",
+      "frames": [
+        "338.jpg",
+        "546.jpg",
+        "652.jpg",
+        "1011.jpg",
+        "1140.jpg",
+        "1298.jpg",
+        "1540.jpg",
+        "1608.jpg",
+        "1827.jpg"
+      ],
+      "question": "What did I look at immediately after getting the bowl from the cabinet?",
+      "answer_options": [
+        "A: The black pepper container on the countertop.",
+        "B: The egg pack on the kitchen top.",
+        "C: The fork in the cabinet.",
+        "D: The refrigerator.",
+        "E: The bin."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "4598_7888.mp4",
+      "clip_path": "4598_7888.mp4",
+      "frames": [
+        "4598.jpg",
+        "5091.jpg",
+        "5325.jpg",
+        "5421.jpg",
+        "5698.jpg",
+        "5784.jpg",
+        "7408.jpg",
+        "7619.jpg",
+        "7888.jpg"
+      ],
+      "question": "What did I look at after I added the egg mixture into the skillet?",
+      "answer_options": [
+        "A: The stove's heat controls.",
+        "B: The butter in the refrigerator.",
+        "C: The knife in the sink.",
+        "D: The spatula on the counter.",
+        "E: The microwave."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "44896f15-3bb6-4358-a042-2c59140dc7a6": [
+    {
+      "clip_name": "114_1711.mp4",
+      "clip_path": "114_1711.mp4",
+      "frames": [
+        "114.jpg",
+        "314.jpg",
+        "1106.jpg",
+        "1159.jpg",
+        "1711.jpg"
+      ],
+      "question": "What did I look at after I soaked the brushes with the degreaser in the bowl on the workbench?",
+      "answer_options": [
+        "A: The bicycle chain",
+        "B: The tripod",
+        "C: The toolbox",
+        "D: The window",
+        "E: The floor"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "ce9bec98-3ec5-4189-8f9d-03e3ff3cddda": [
+    {
+      "clip_name": "335_4613.mp4",
+      "clip_path": "335_4613.mp4",
+      "frames": [
+        "335.jpg",
+        "903.jpg",
+        "2562.jpg",
+        "3021.jpg",
+        "3099.jpg",
+        "3465.jpg",
+        "3535.jpg",
+        "4524.jpg",
+        "4613.jpg"
+      ],
+      "question": "What did I look at immediately after disposing a tomato slice into the waste bag for the first time?",
+      "answer_options": [
+        "A: The cutting board with the remaining tomato slices.",
+        "B: The recipe paper on the table.",
+        "C: The sink where I washed the tomato.",
+        "D: The kitchen island where I initially got the tomato.",
+        "E: The trash can to ensure the slice was properly disposed of."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "9182_10687.mp4",
+      "clip_path": "9182_10687.mp4",
+      "frames": [
+        "9182.jpg",
+        "9378.jpg",
+        "9637.jpg",
+        "9721.jpg",
+        "9885.jpg",
+        "9972.jpg",
+        "10096.jpg",
+        "10216.jpg",
+        "10687.jpg"
+      ],
+      "question": "What did I look at after cracking the egg into the bowl?",
+      "answer_options": [
+        "A: The waste bag where I disposed of the eggshell.",
+        "B: The paper towel on the counter.",
+        "C: The spoon in the bowl.",
+        "D: The sink to rinse my hands.",
+        "E: The water bottle on the table."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "9da3d7c3-42aa-447a-9080-98c703d49c25": [
+    {
+      "clip_name": "318_4465.mp4",
+      "clip_path": "318_4465.mp4",
+      "frames": [
+        "318.jpg",
+        "455.jpg",
+        "572.jpg",
+        "1191.jpg",
+        "2047.jpg",
+        "2581.jpg",
+        "3188.jpg",
+        "3961.jpg",
+        "4465.jpg"
+      ],
+      "question": "What did I look at immediately after getting the jar of salt from the shelf?",
+      "answer_options": [
+        "A: The kitchen drawer to get a measuring cup.",
+        "B: The refrigerator to get a crate of eggs.",
+        "C: The rolling board on the counter.",
+        "D: The flour pack in the cabinet.",
+        "E: The phone on the counter."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "18638_30282.mp4",
+      "clip_path": "18638_30282.mp4",
+      "frames": [
+        "18638.jpg",
+        "18836.jpg",
+        "20008.jpg",
+        "24547.jpg",
+        "24716.jpg",
+        "30282.jpg"
+      ],
+      "question": "What did I look at immediately after sprinkling flour on the rolling board?",
+      "answer_options": [
+        "A: The kitchen towel",
+        "B: The dough on the rolling board",
+        "C: The running tap",
+        "D: The kitchen drawer",
+        "E: The pasta cutter"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "37081591-1f5f-454f-b2a4-bfdcec5ccca6": [
+    {
+      "clip_name": "83_2092.mp4",
+      "clip_path": "83_2092.mp4",
+      "frames": [
+        "83.jpg",
+        "353.jpg",
+        "431.jpg",
+        "1327.jpg",
+        "1412.jpg",
+        "1609.jpg",
+        "1648.jpg",
+        "1864.jpg",
+        "2092.jpg"
+      ],
+      "question": "What did I look at immediately after cracking the egg into the mug with a fork?",
+      "answer_options": [
+        "A: The salt shaker on the countertop.",
+        "B: The pepper grinder on the countertop.",
+        "C: The sink area.",
+        "D: The egg crate on the countertop.",
+        "E: The refrigerator."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "4300_6343.mp4",
+      "clip_path": "4300_6343.mp4",
+      "frames": [
+        "4300.jpg",
+        "4469.jpg",
+        "4536.jpg",
+        "4908.jpg",
+        "5393.jpg",
+        "5507.jpg",
+        "5820.jpg",
+        "6283.jpg",
+        "6343.jpg"
+      ],
+      "question": "What did I look at before I tilted the frying pan to allow oil to flow evenly?",
+      "answer_options": [
+        "A: The gas cooker controls.",
+        "B: The bowl on the countertop.",
+        "C: The kitchen cabinet where the oil was stored.",
+        "D: The egg mixture in the bowl.",
+        "E: The spatula in the drawer."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "5ec6e29f-9b84-49ff-ab42-22c562d5c4a3": [
+    {
+      "clip_name": "798_2467.mp4",
+      "clip_path": "798_2467.mp4",
+      "frames": [
+        "798.jpg",
+        "1317.jpg",
+        "1406.jpg",
+        "1722.jpg",
+        "2216.jpg",
+        "2307.jpg",
+        "2324.jpg",
+        "2346.jpg",
+        "2467.jpg"
+      ],
+      "question": "What did I look at after unwrapping the COVID-19 collection swab with scissors?",
+      "answer_options": [
+        "A: The testing tube on the table.",
+        "B: The couch in the background.",
+        "C: The scissors I just used.",
+        "D: The COVID-19 rapid antigen package.",
+        "E: The instruction manual."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "8b08ab18-7e42-462b-86c1-45f6a23a28ac": [
+    {
+      "clip_name": "539_5321.mp4",
+      "clip_path": "539_5321.mp4",
+      "frames": [
+        "539.jpg",
+        "703.jpg",
+        "822.jpg",
+        "980.jpg",
+        "4804.jpg",
+        "5321.jpg"
+      ],
+      "question": "What did I look at immediately after arranging the test materials on the table?",
+      "answer_options": [
+        "A: The instructions for the COVID-19 antigen test.",
+        "B: The lid of the throat swab.",
+        "C: The results area of the test kit.",
+        "D: The bed in the background.",
+        "E: The tripod setup."
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}

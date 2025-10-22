@@ -1,0 +1,4078 @@
+{
+  "OP01-R01-PastaSalad": [
+    {
+      "clip_name": "4017_4713.mp4",
+      "clip_path": "4017_4713.mp4",
+      "frames": [
+        "4017.jpg",
+        "4145.jpg",
+        "4203.jpg",
+        "4274.jpg",
+        "4348.jpg",
+        "4395.jpg",
+        "4533.jpg",
+        "4671.jpg",
+        "4713.jpg"
+      ],
+      "question": "Why did I cut the bell pepper while preparing the pasta salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby utensils and kept adjusting them.",
+        "B: I was checking if the bell pepper was fresh before cutting it.",
+        "C: I was following the recipe instructions closely as my gaze shifted to the recipe card.",
+        "D: I was trying to mimic someone else's cooking style as I glanced at them.",
+        "E: I was preparing the bell pepper for a different dish entirely."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "1229_2839.mp4",
+      "clip_path": "1229_2839.mp4",
+      "frames": [
+        "1229.jpg",
+        "1323.jpg",
+        "1437.jpg",
+        "1503.jpg",
+        "1795.jpg",
+        "2077.jpg",
+        "2249.jpg",
+        "2504.jpg",
+        "2839.jpg"
+      ],
+      "question": "Why did I repeatedly cut the tomato while preparing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focused on slicing the tomato evenly to ensure uniform pieces for a recipe.",
+        "B: I was distracted by the other items in the fridge and kept returning to the tomato cutting task.",
+        "C: I was checking if the knife was sharp enough by repeatedly cutting the tomato.",
+        "D: I was trying to create a specific pattern on the tomato for presentation purposes.",
+        "E: I was mimicking someone else's actions as they were demonstrating how to cut tomatoes."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "OP01-R02-TurkeySandwich": [
+    {
+      "clip_name": "4714_5748.mp4",
+      "clip_path": "4714_5748.mp4",
+      "frames": [
+        "4714.jpg",
+        "4766.jpg",
+        "4791.jpg",
+        "4812.jpg",
+        "4834.jpg",
+        "4865.jpg",
+        "5250.jpg",
+        "5671.jpg",
+        "5748.jpg"
+      ],
+      "question": "Why did I take the deli meat from the container while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the cheese and kept adjusting it on the counter.",
+        "B: I was checking if the deli meat was fresh before adding it to the sandwich.",
+        "C: I was trying to hide the deli meat from others who might want some.",
+        "D: I was ensuring that the deli meat slices were evenly distributed for the sandwich.",
+        "E: I was mimicking someone else's actions as they prepared a similar sandwich nearby."
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "clip_name": "6389_6731.mp4",
+      "clip_path": "6389_6731.mp4",
+      "frames": [
+        "6389.jpg",
+        "6416.jpg",
+        "6446.jpg",
+        "6471.jpg",
+        "6497.jpg",
+        "6526.jpg",
+        "6552.jpg",
+        "6638.jpg",
+        "6731.jpg"
+      ],
+      "question": "Why did I place the lettuce on the sandwich while assembling it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring that the lettuce was evenly distributed across the sandwich.",
+        "B: I was distracted by the cheese and kept adjusting its position.",
+        "C: I was checking if the lettuce was fresh before adding it to the sandwich.",
+        "D: I was trying to mimic someone else's method of making a sandwich.",
+        "E: I was preparing the lettuce for a different dish."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "OP01-R03-BaconAndEggs": [
+    {
+      "clip_name": "7126_7618.mp4",
+      "clip_path": "7126_7618.mp4",
+      "frames": [
+        "7126.jpg",
+        "7194.jpg",
+        "7236.jpg",
+        "7265.jpg",
+        "7302.jpg",
+        "7390.jpg",
+        "7496.jpg",
+        "7555.jpg",
+        "7618.jpg"
+      ],
+      "question": "Why did I pour juice into the cup while organizing my kitchen, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby sugar container and accidentally poured the juice.",
+        "B: I was checking if the juice container was empty before discarding it.",
+        "C: I intended to prepare a drink for myself after noticing the juice container.",
+        "D: I was mimicking someone else's actions as they were pouring a similar drink.",
+        "E: I was trying to clean the cabinet by using the juice as a cleaning agent."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "14187_15508.mp4",
+      "clip_path": "14187_15508.mp4",
+      "frames": [
+        "14187.jpg",
+        "14257.jpg",
+        "14303.jpg",
+        "14342.jpg",
+        "14802.jpg",
+        "15252.jpg",
+        "15311.jpg",
+        "15407.jpg",
+        "15508.jpg"
+      ],
+      "question": "Why did I transfer the eggs from the pan to the plate while cooking, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the stove's digital display and lost track of the cooking process.",
+        "B: My gaze shifted towards the plate as a signal that it was time to serve the eggs.",
+        "C: I noticed the eggs were overcooked and quickly moved them to avoid burning.",
+        "D: I was checking the consistency of the eggs by looking at the pan closely.",
+        "E: I was preparing to add more ingredients to the pan."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP01-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "2179_2785.mp4",
+      "clip_path": "2179_2785.mp4",
+      "frames": [
+        "2179.jpg",
+        "2211.jpg",
+        "2260.jpg",
+        "2312.jpg",
+        "2490.jpg",
+        "2675.jpg",
+        "2715.jpg",
+        "2750.jpg",
+        "2785.jpg"
+      ],
+      "question": "Why did I take the plate from the counter while preparing my meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the bread container and wanted to clear the counter space.",
+        "B: I needed the plate to serve the food I was about to prepare.",
+        "C: I was checking if the plate was clean before using it.",
+        "D: I was mimicking someone else's actions as they were also preparing a meal nearby.",
+        "E: I was trying to hide the plate from view to avoid distractions."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "2820_3190.mp4",
+      "clip_path": "2820_3190.mp4",
+      "frames": [
+        "2820.jpg",
+        "2859.jpg",
+        "2906.jpg",
+        "2977.jpg",
+        "3026.jpg",
+        "3053.jpg",
+        "3105.jpg",
+        "3155.jpg",
+        "3190.jpg"
+      ],
+      "question": "Why did I take the eating utensil while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby mug and kept reaching for it instead of the utensil.",
+        "B: I needed the utensil to stir the contents of the pot after adding condiments.",
+        "C: I was checking if the utensil was clean before using it.",
+        "D: I was mimicking someone else's actions as they were also using a utensil.",
+        "E: I was trying to hide the utensil from others who might need it."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP01-R05-Cheeseburger": [
+    {
+      "clip_name": "3561_4128.mp4",
+      "clip_path": "3561_4128.mp4",
+      "frames": [
+        "3561.jpg",
+        "3633.jpg",
+        "3719.jpg",
+        "3784.jpg",
+        "3815.jpg",
+        "3887.jpg",
+        "3964.jpg",
+        "4018.jpg",
+        "4128.jpg"
+      ],
+      "question": "Why did I take the tomato while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby cooking utensils and accidentally grabbed the tomato.",
+        "B: I was focusing on the grocery bag to ensure all ingredients were accounted for before using the tomato.",
+        "C: I was planning to cut the tomato next as part of the meal preparation process.",
+        "D: I was influenced by someone else's actions and decided to use the tomato without thinking.",
+        "E: I was checking if the tomato was ripe enough for the dish."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "643_1019.mp4",
+      "clip_path": "643_1019.mp4",
+      "frames": [
+        "643.jpg",
+        "696.jpg",
+        "761.jpg",
+        "813.jpg",
+        "847.jpg",
+        "876.jpg",
+        "910.jpg",
+        "965.jpg",
+        "1019.jpg"
+      ],
+      "question": "Why did I open the patty container and take a patty, considering the shifts in my attention during the task?",
+      "answer_options": [
+        "A: I was distracted by the patties' appearance and decided to inspect them closely.",
+        "B: I was preparing to cook the patties and needed one for immediate use.",
+        "C: I was checking if the patties were spoiled before storing them back in the fridge.",
+        "D: I was influenced by someone else's suggestion to try a different brand of patties.",
+        "E: I was merely curious about the packaging design and opened it without any specific purpose."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP01-R07-Pizza": [
+    {
+      "clip_name": "7363_8619.mp4",
+      "clip_path": "7363_8619.mp4",
+      "frames": [
+        "7363.jpg",
+        "7397.jpg",
+        "7441.jpg",
+        "7805.jpg",
+        "8160.jpg",
+        "8369.jpg",
+        "8567.jpg",
+        "8590.jpg",
+        "8619.jpg"
+      ],
+      "question": "Why did I transfer the mushrooms from the plate to the pan while cooking, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby salt container and accidentally spilled some salt into the pan.",
+        "B: My gaze shifted towards the pan as I anticipated adding the mushrooms to cook them with other ingredients.",
+        "C: I was checking if the mushrooms were properly chopped before transferring them, focusing on their size.",
+        "D: I noticed someone entering the kitchen and decided to speed up the process by quickly moving the mushrooms.",
+        "E: I was trying to clear the workspace by putting away the plate, without considering the cooking sequence."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "8651_10567.mp4",
+      "clip_path": "8651_10567.mp4",
+      "frames": [
+        "8651.jpg",
+        "8688.jpg",
+        "8719.jpg",
+        "8955.jpg",
+        "9198.jpg",
+        "9489.jpg",
+        "9836.jpg",
+        "10199.jpg",
+        "10567.jpg"
+      ],
+      "question": "Why did I inspect the phone while cooking mushrooms, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking a recipe to ensure I was adding the right ingredients.",
+        "B: I was distracted by an incoming message and lost focus on cooking.",
+        "C: I was verifying the temperature of the stove for optimal cooking.",
+        "D: I was looking up a new cooking technique unrelated to the current meal.",
+        "E: I was confirming the next step in the cooking process based on the recipe."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "OP02-R01-PastaSalad": [
+    {
+      "clip_name": "3522_4841.mp4",
+      "clip_path": "3522_4841.mp4",
+      "frames": [
+        "3522.jpg",
+        "3782.jpg",
+        "4220.jpg",
+        "4621.jpg",
+        "4649.jpg",
+        "4697.jpg",
+        "4763.jpg",
+        "4813.jpg",
+        "4841.jpg"
+      ],
+      "question": "Why did I take the cucumber container from the fridge drawer while preparing a meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the bright light inside the fridge and grabbed the nearest item.",
+        "B: I was checking if there were any fresh vegetables available for the recipe I was following.",
+        "C: I was looking for a high-salience item to use as a centerpiece for the table setting.",
+        "D: I was influenced by social cues suggesting that cucumbers are popular in salads.",
+        "E: I was trying to hide the cucumbers from others who might want them."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "904_3293.mp4",
+      "clip_path": "904_3293.mp4",
+      "frames": [
+        "904.jpg",
+        "1001.jpg",
+        "1319.jpg",
+        "1633.jpg",
+        "1722.jpg",
+        "1990.jpg",
+        "2458.jpg",
+        "2974.jpg",
+        "3293.jpg"
+      ],
+      "question": "Why did I cut the cucumber while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focused on slicing the cucumber evenly to ensure it would mix well with the other ingredients.",
+        "B: I was distracted by the nearby bottle of lemon juice and kept adjusting my grip on the knife.",
+        "C: I was checking if the tomato was ready to be added next, which influenced my cutting pattern.",
+        "D: I was trying to mimic someone else's technique for cutting cucumbers that I saw earlier.",
+        "E: I was drawn to the high-salience objects like the spice jars and lost focus on the task."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "OP02-R02-TurkeySandwich": [
+    {
+      "clip_name": "3706_4804.mp4",
+      "clip_path": "3706_4804.mp4",
+      "frames": [
+        "3706.jpg",
+        "3834.jpg",
+        "3946.jpg",
+        "4060.jpg",
+        "4310.jpg",
+        "4602.jpg",
+        "4697.jpg",
+        "4762.jpg",
+        "4804.jpg"
+      ],
+      "question": "Why did I place the lettuce on the bread while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring the lettuce was evenly spread to enhance the sandwich's flavor.",
+        "B: I was distracted by the condiment container and accidentally placed the lettuce.",
+        "C: I was checking if the lettuce was fresh by closely observing it before placing it.",
+        "D: I was mimicking someone else’s actions as they were making a similar sandwich nearby.",
+        "E: I was trying to balance the weight of the sandwich by adding the lettuce last."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "2806_3577.mp4",
+      "clip_path": "2806_3577.mp4",
+      "frames": [
+        "2806.jpg",
+        "2919.jpg",
+        "3077.jpg",
+        "3153.jpg",
+        "3185.jpg",
+        "3354.jpg",
+        "3513.jpg",
+        "3543.jpg",
+        "3577.jpg"
+      ],
+      "question": "Why did I pull apart the lettuce while preparing a meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the newspaper on the counter and kept reading it.",
+        "B: I was checking for any spoiled leaves before washing them.",
+        "C: I was trying to evenly distribute the lettuce for plating.",
+        "D: I was mimicking someone else's actions as they prepared food nearby.",
+        "E: I was ensuring the lettuce would fit into the fridge properly."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP02-R03-BaconAndEggs": [
+    {
+      "clip_name": "10423_11619.mp4",
+      "clip_path": "10423_11619.mp4",
+      "frames": [
+        "10423.jpg",
+        "10469.jpg",
+        "10503.jpg",
+        "10764.jpg",
+        "11042.jpg",
+        "11202.jpg",
+        "11355.jpg",
+        "11436.jpg",
+        "11619.jpg"
+      ],
+      "question": "Why did I spread the condiment on the bread while preparing my meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the bacon cooking and accidentally spilled the condiment.",
+        "B: I was checking if the condiment container was properly sealed before spreading it.",
+        "C: I was focusing on evenly distributing the condiment to enhance the flavor of the sandwich.",
+        "D: I was trying to mimic someone else's cooking technique without paying attention to my own actions.",
+        "E: I was ensuring that the bread was fresh by closely inspecting it before applying the condiment."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "9674_10334.mp4",
+      "clip_path": "9674_10334.mp4",
+      "frames": [
+        "9674.jpg",
+        "9764.jpg",
+        "9853.jpg",
+        "9897.jpg",
+        "9949.jpg",
+        "10009.jpg",
+        "10102.jpg",
+        "10221.jpg",
+        "10334.jpg"
+      ],
+      "question": "Why did I divide/pull apart the bread while preparing my meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the newspaper on the wall and accidentally tore the bread.",
+        "B: I was checking the freshness of the bread by tearing it apart.",
+        "C: I was dividing the bread to serve it on the plates I had just arranged.",
+        "D: I was trying to hide the bread from someone else who might take it.",
+        "E: I was preparing the bread for a specific recipe that required it to be torn."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "OP02-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "13_522.mp4",
+      "clip_path": "13_522.mp4",
+      "frames": [
+        "13.jpg",
+        "43.jpg",
+        "72.jpg",
+        "104.jpg",
+        "163.jpg",
+        "307.jpg",
+        "433.jpg",
+        "469.jpg",
+        "522.jpg"
+      ],
+      "question": "Why did I transfer condiment from the container to the plate while organizing my meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the eating utensil and accidentally spilled some condiment on the plate.",
+        "B: I was checking if the condiment container had enough left for another use before transferring it.",
+        "C: I was preparing the plate with a specific amount of condiment based on my gaze focus on the container's level.",
+        "D: I was influenced by someone nearby who suggested adding more flavor to the dish.",
+        "E: I was simply following a routine without paying much attention to the exact quantity."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "631_1524.mp4",
+      "clip_path": "631_1524.mp4",
+      "frames": [
+        "631.jpg",
+        "724.jpg",
+        "1014.jpg",
+        "1316.jpg",
+        "1361.jpg",
+        "1382.jpg",
+        "1424.jpg",
+        "1478.jpg",
+        "1524.jpg"
+      ],
+      "question": "Why did I place the plate in the microwave after pouring the condiment, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the knife and accidentally put it in the microwave.",
+        "B: I was ensuring that the condiment would be evenly distributed on the food.",
+        "C: I was preparing to heat the food for a better dining experience.",
+        "D: I was checking if the condiment bottle was empty before microwaving.",
+        "E: I was mimicking someone else's actions without realizing the purpose."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "OP02-R05-Cheeseburger": [
+    {
+      "clip_name": "4845_5811.mp4",
+      "clip_path": "4845_5811.mp4",
+      "frames": [
+        "4845.jpg",
+        "5170.jpg",
+        "5496.jpg",
+        "5565.jpg",
+        "5643.jpg",
+        "5688.jpg",
+        "5723.jpg",
+        "5766.jpg",
+        "5811.jpg"
+      ],
+      "question": "Why did I compress the patty with the cooking utensil while it was on the pan, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was trying to ensure even cooking by distributing the heat better.",
+        "B: I was distracted by the steam coming from another pot and lost focus on the patty.",
+        "C: I was checking if the patty was cooked through by pressing it down.",
+        "D: I was preparing to flip the patty but accidentally pressed it instead.",
+        "E: I was mimicking a cooking show technique I saw earlier."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "2222_3358.mp4",
+      "clip_path": "2222_3358.mp4",
+      "frames": [
+        "2222.jpg",
+        "2295.jpg",
+        "2422.jpg",
+        "2608.jpg",
+        "2707.jpg",
+        "2790.jpg",
+        "2860.jpg",
+        "3095.jpg",
+        "3358.jpg"
+      ],
+      "question": "Why did I cut the tomato while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focusing on the tomato to ensure it was properly sliced for even distribution.",
+        "B: I was distracted by the lettuce and kept adjusting its position.",
+        "C: I was checking if the tomato was ripe enough before cutting it.",
+        "D: I was trying to hide the tomato from others while slicing it.",
+        "E: I was preparing the tomato as a garnish for the patty."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "OP02-R06-GreekSalad": [
+    {
+      "clip_name": "48_558.mp4",
+      "clip_path": "48_558.mp4",
+      "frames": [
+        "48.jpg",
+        "106.jpg",
+        "143.jpg",
+        "193.jpg",
+        "224.jpg",
+        "335.jpg",
+        "446.jpg",
+        "501.jpg",
+        "558.jpg"
+      ],
+      "question": "Why did I take the tomato from the fridge drawer while preparing my meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the lettuce container and accidentally grabbed the tomato instead.",
+        "B: I was checking if the tomato was ripe enough for the salad based on its color.",
+        "C: I was trying to find a specific ingredient but ended up taking the tomato due to its proximity.",
+        "D: I was influenced by someone else's suggestion to add tomatoes to the dish.",
+        "E: I was ensuring the tomato was fresh by feeling its texture with my gaze focused on it."
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "clip_name": "7072_7440.mp4",
+      "clip_path": "7072_7440.mp4",
+      "frames": [
+        "7072.jpg",
+        "7143.jpg",
+        "7196.jpg",
+        "7238.jpg",
+        "7288.jpg",
+        "7330.jpg",
+        "7357.jpg",
+        "7388.jpg",
+        "7440.jpg"
+      ],
+      "question": "Why did I pour the condiment onto the salad while preparing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the items on the counter and accidentally poured too much.",
+        "B: I was checking the flavor balance by observing how the condiment mixed with the salad ingredients.",
+        "C: I was trying to hide the fact that I added extra dressing from others.",
+        "D: I was focused on ensuring the lettuce was properly covered, as indicated by my gaze on the salad bowl.",
+        "E: I was mimicking someone else's actions without realizing it."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "OP02-R07-Pizza": [
+    {
+      "clip_name": "8265_8941.mp4",
+      "clip_path": "8265_8941.mp4",
+      "frames": [
+        "8265.jpg",
+        "8341.jpg",
+        "8420.jpg",
+        "8538.jpg",
+        "8710.jpg",
+        "8810.jpg",
+        "8848.jpg",
+        "8897.jpg",
+        "8941.jpg"
+      ],
+      "question": "Why did I open the condiment container after cutting the bell peppers, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was preparing to add a sauce or seasoning to the dish, as indicated by my gaze shifting towards the recipe.",
+        "B: I was distracted by the nearby utensils and accidentally grabbed the condiment container instead of continuing with the vegetables.",
+        "C: I was checking if there were any more bell peppers left in the fridge before proceeding.",
+        "D: I was trying to mimic someone else's cooking style, which involves using specific condiments at certain steps.",
+        "E: I was ensuring that the condiment container was empty before discarding it."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "6868_8186.mp4",
+      "clip_path": "6868_8186.mp4",
+      "frames": [
+        "6868.jpg",
+        "7020.jpg",
+        "7225.jpg",
+        "7322.jpg",
+        "7413.jpg",
+        "7496.jpg",
+        "7796.jpg",
+        "8106.jpg",
+        "8186.jpg"
+      ],
+      "question": "Why did I move around the mushrooms while cooking, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking if the mushrooms were evenly distributed on the pan.",
+        "B: I was distracted by the bell peppers and kept adjusting them instead.",
+        "C: I was ensuring the mushrooms cooked properly by monitoring their browning.",
+        "D: I was trying to hide the mushrooms from someone else.",
+        "E: I was preparing the mushrooms for a different dish."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "OP03-R02-TurkeySandwich": [
+    {
+      "clip_name": "4789_5286.mp4",
+      "clip_path": "4789_5286.mp4",
+      "frames": [
+        "4789.jpg",
+        "4813.jpg",
+        "4845.jpg",
+        "4883.jpg",
+        "4915.jpg",
+        "5074.jpg",
+        "5233.jpg",
+        "5259.jpg",
+        "5286.jpg"
+      ],
+      "question": "Why did I open the condiment container while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby bottle of syrup and accidentally opened it instead.",
+        "B: I was checking if there was enough mustard left before spreading it on the bread.",
+        "C: I was trying to mimic someone else's actions as they prepared a similar sandwich.",
+        "D: I was focusing on the knife to ensure it was clean before using it again.",
+        "E: I was looking for a different condiment but grabbed the mustard bottle due to its proximity."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "4789_5286.mp4",
+      "clip_path": "4789_5286.mp4",
+      "frames": [
+        "4789.jpg",
+        "4813.jpg",
+        "4845.jpg",
+        "4883.jpg",
+        "4915.jpg",
+        "5074.jpg",
+        "5233.jpg",
+        "5259.jpg",
+        "5286.jpg"
+      ],
+      "question": "Why did I open the condiment container while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby bottle and accidentally opened it.",
+        "B: I was checking if the condiment was expired before using it.",
+        "C: I intended to add a specific condiment to enhance the flavor of the sandwich.",
+        "D: I was mimicking someone else's actions who was also making a sandwich.",
+        "E: I was trying to hide the condiment from others."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "OP03-R03-BaconAndEggs": [
+    {
+      "clip_name": "6311_8433.mp4",
+      "clip_path": "6311_8433.mp4",
+      "frames": [
+        "6311.jpg",
+        "6802.jpg",
+        "7207.jpg",
+        "7361.jpg",
+        "7564.jpg",
+        "7889.jpg",
+        "8253.jpg",
+        "8394.jpg",
+        "8433.jpg"
+      ],
+      "question": "Why did I move the bacon around in the pan while cooking, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring even cooking by distributing heat across the bacon.",
+        "B: I was distracted by the stove controls and kept adjusting them.",
+        "C: I was checking if the bacon was cooked on one side before flipping it.",
+        "D: I was trying to create a pattern with the bacon pieces for presentation.",
+        "E: I was preparing to add other ingredients to the pan."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "3287_3867.mp4",
+      "clip_path": "3287_3867.mp4",
+      "frames": [
+        "3287.jpg",
+        "3340.jpg",
+        "3396.jpg",
+        "3517.jpg",
+        "3629.jpg",
+        "3701.jpg",
+        "3783.jpg",
+        "3830.jpg",
+        "3867.jpg"
+      ],
+      "question": "Why did I transfer the eggs from the pan to the plate while organizing my cooking process, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focused on the recipe book to ensure I followed the next steps correctly.",
+        "B: I was checking if the eggs were cooked properly by observing their texture closely.",
+        "C: I was preparing the eggs for immediate consumption and needed them off the heat.",
+        "D: I was distracted by the juice container in the fridge and wanted to clear the stove area.",
+        "E: I was trying to create space on the stove for another dish."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP03-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "2468_3639.mp4",
+      "clip_path": "2468_3639.mp4",
+      "frames": [
+        "2468.jpg",
+        "2679.jpg",
+        "2857.jpg",
+        "3168.jpg",
+        "3453.jpg",
+        "3493.jpg",
+        "3533.jpg",
+        "3586.jpg",
+        "3639.jpg"
+      ],
+      "question": "Why did I transfer the condiment from the container to the cup while mixing, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby Crisco container and accidentally spilled some of it into the mixture.",
+        "B: I was ensuring that the correct amount of condiment was added for proper flavoring, as indicated by my focused gaze on the spoon and container.",
+        "C: I was trying to mimic someone else's actions without paying much attention to the actual task at hand.",
+        "D: I was checking if the condiment container was empty before transferring its contents.",
+        "E: I was simply following a recipe step blindly, without considering the impact of my gaze on the action."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "2468_3639.mp4",
+      "clip_path": "2468_3639.mp4",
+      "frames": [
+        "2468.jpg",
+        "2679.jpg",
+        "2857.jpg",
+        "3168.jpg",
+        "3453.jpg",
+        "3493.jpg",
+        "3533.jpg",
+        "3586.jpg",
+        "3639.jpg"
+      ],
+      "question": "Why did I mix the condiment with another condiment while preparing the mixture, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring the flavors were well combined by focusing on the mixing process.",
+        "B: I was distracted by the nearby Crisco container and accidentally mixed it in.",
+        "C: I was checking the consistency of the mixture to ensure it was smooth.",
+        "D: I was influenced by someone else's suggestion to mix the condiments.",
+        "E: I was trying to hide the original taste of the condiment."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "OP03-R05-Cheeseburger": [
+    {
+      "clip_name": "941_1353.mp4",
+      "clip_path": "941_1353.mp4",
+      "frames": [
+        "941.jpg",
+        "1008.jpg",
+        "1051.jpg",
+        "1088.jpg",
+        "1120.jpg",
+        "1174.jpg",
+        "1252.jpg",
+        "1316.jpg",
+        "1353.jpg"
+      ],
+      "question": "Why did I take the pan from the oven while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking if the beef patties were cooked properly.",
+        "B: I was distracted by the smell of the patties and wanted to see if they were ready.",
+        "C: I was trying to adjust the heat settings on the oven.",
+        "D: I was ensuring that the pan was clean before placing the patties.",
+        "E: I was preparing to put the patties into the pan for cooking."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "33_371.mp4",
+      "clip_path": "33_371.mp4",
+      "frames": [
+        "33.jpg",
+        "98.jpg",
+        "150.jpg",
+        "193.jpg",
+        "228.jpg",
+        "280.jpg",
+        "329.jpg",
+        "350.jpg",
+        "371.jpg"
+      ],
+      "question": "Why did I take the diet_coke_container from the fridge while organizing my meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the bright light of the fridge and grabbed the first item I saw.",
+        "B: I intended to pour the soda into a glass as part of preparing my drink for the meal.",
+        "C: I was checking if the diet_coke_container was expired before deciding whether to use it.",
+        "D: I wanted to make sure there was enough space in the fridge for other items.",
+        "E: I was influenced by someone else suggesting that I should have a soda with my meal."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP03-R06-GreekSalad": [
+    {
+      "clip_name": "3590_4128.mp4",
+      "clip_path": "3590_4128.mp4",
+      "frames": [
+        "3590.jpg",
+        "3614.jpg",
+        "3670.jpg",
+        "3720.jpg",
+        "3775.jpg",
+        "3839.jpg",
+        "3890.jpg",
+        "4004.jpg",
+        "4128.jpg"
+      ],
+      "question": "Why did I divide and pull apart the lettuce while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the tomato slices on the plate and kept adjusting them.",
+        "B: I was ensuring that the lettuce leaves were evenly distributed for better mixing.",
+        "C: I was checking if the lettuce was fresh by examining each leaf closely.",
+        "D: I was trying to create a visually appealing arrangement of lettuce on the plate.",
+        "E: I was mimicking someone else's actions as they prepared the salad."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "8064_9387.mp4",
+      "clip_path": "8064_9387.mp4",
+      "frames": [
+        "8064.jpg",
+        "8085.jpg",
+        "8218.jpg",
+        "8427.jpg",
+        "8593.jpg",
+        "8774.jpg",
+        "8959.jpg",
+        "9210.jpg",
+        "9387.jpg"
+      ],
+      "question": "Why did I divide and pull apart the onion while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby spices and kept adjusting my focus.",
+        "B: I was ensuring that each piece of onion would be evenly distributed in the salad.",
+        "C: I was checking for any bad spots on the onion before adding it to the dish.",
+        "D: I was mimicking someone else's cooking technique without understanding its purpose.",
+        "E: I was trying to create a visually appealing pattern with the onion slices."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP04-R01-PastaSalad": [
+    {
+      "clip_name": "26_394.mp4",
+      "clip_path": "26_394.mp4",
+      "frames": [
+        "26.jpg",
+        "67.jpg",
+        "100.jpg",
+        "145.jpg",
+        "180.jpg",
+        "198.jpg",
+        "257.jpg",
+        "333.jpg",
+        "394.jpg"
+      ],
+      "question": "Why did I pour water from the faucet into the pot while preparing the pasta salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the recipe card and accidentally poured too much water.",
+        "B: I was ensuring the pot had enough water to boil the pasta as indicated by my focused gaze on the pot.",
+        "C: I was checking if the sink was clean before using it for cooking.",
+        "D: I was trying to mimic someone else's actions without understanding the purpose.",
+        "E: I was attracted to the shiny surface of the faucet and decided to interact with it."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "13197_14142.mp4",
+      "clip_path": "13197_14142.mp4",
+      "frames": [
+        "13197.jpg",
+        "13345.jpg",
+        "13504.jpg",
+        "13653.jpg",
+        "13792.jpg",
+        "13811.jpg",
+        "13915.jpg",
+        "14069.jpg",
+        "14142.jpg"
+      ],
+      "question": "Why did I stir the mixture in the pot while cooking, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring the mixture didn't stick to the bottom of the pot by keeping an eye on it.",
+        "B: I was distracted by the steam and kept adjusting the stove's heat.",
+        "C: I was checking if the pasta was cooked properly by glancing at the water level.",
+        "D: I was trying to hide the ingredients from someone else by constantly moving the spoon.",
+        "E: I was preparing the mixture for a different dish by focusing on its consistency."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "OP04-R02-TurkeySandwich": [
+    {
+      "clip_name": "542_1124.mp4",
+      "clip_path": "542_1124.mp4",
+      "frames": [
+        "542.jpg",
+        "704.jpg",
+        "868.jpg",
+        "901.jpg",
+        "932.jpg",
+        "960.jpg",
+        "1004.jpg",
+        "1067.jpg",
+        "1124.jpg"
+      ],
+      "question": "Why did I take the lettuce container from the fridge while organizing my meal preparation, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the lettuce's vibrant green color and decided to use it as a garnish.",
+        "B: I noticed the tomato container was empty and needed more ingredients, so I looked for alternatives.",
+        "C: I was planning to add fresh lettuce to complement the sliced tomato on my plate.",
+        "D: I was influenced by someone suggesting that lettuce would pair well with the dish.",
+        "E: I was checking if the lettuce was still fresh before discarding it."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "1305_1821.mp4",
+      "clip_path": "1305_1821.mp4",
+      "frames": [
+        "1305.jpg",
+        "1481.jpg",
+        "1515.jpg",
+        "1562.jpg",
+        "1608.jpg",
+        "1660.jpg",
+        "1705.jpg",
+        "1763.jpg",
+        "1821.jpg"
+      ],
+      "question": "Why did I open the fridge while organizing my meal preparation, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking if there were any other ingredients needed for the meal.",
+        "B: I was distracted by the items on the countertop and kept adjusting them.",
+        "C: I was retrieving the lettuce container to continue preparing the salad.",
+        "D: I was trying to hide certain food items from others.",
+        "E: I was preparing to store leftovers after finishing the meal."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "OP04-R03-BaconAndEggs": [
+    {
+      "clip_name": "10897_12271.mp4",
+      "clip_path": "10897_12271.mp4",
+      "frames": [
+        "10897.jpg",
+        "11137.jpg",
+        "11375.jpg",
+        "11607.jpg",
+        "11644.jpg",
+        "11672.jpg",
+        "11802.jpg",
+        "11940.jpg",
+        "12271.jpg"
+      ],
+      "question": "Why did I transfer the bacon from the pan to the plate while cooking, considering the shifts in my attention?",
+      "answer_options": [
+        "A: I was distracted by the spices on the counter and accidentally moved the bacon.",
+        "B: I noticed the bacon was cooked just right and wanted to prevent it from burning further.",
+        "C: I was checking if the bacon had enough oil in the pan before transferring it.",
+        "D: I was mimicking someone else's cooking style without paying attention to the bacon.",
+        "E: I was preparing to add more ingredients to the pan, so I needed to clear space."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "1522_1796.mp4",
+      "clip_path": "1522_1796.mp4",
+      "frames": [
+        "1522.jpg",
+        "1566.jpg",
+        "1597.jpg",
+        "1625.jpg",
+        "1646.jpg",
+        "1670.jpg",
+        "1711.jpg",
+        "1757.jpg",
+        "1796.jpg"
+      ],
+      "question": "Why did I repeatedly close and put the milk container while organizing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring that the milk container was securely closed to prevent spills.",
+        "B: I was distracted by the nearby objects on the countertop and kept adjusting the container.",
+        "C: I was checking if the milk container was properly sealed each time before putting it away.",
+        "D: I was trying to hide the milk container from others by moving it around.",
+        "E: I was preparing the milk container for a specific recipe."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "OP04-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "4144_5734.mp4",
+      "clip_path": "4144_5734.mp4",
+      "frames": [
+        "4144.jpg",
+        "4239.jpg",
+        "4284.jpg",
+        "4327.jpg",
+        "4353.jpg",
+        "4487.jpg",
+        "4860.jpg",
+        "5396.jpg",
+        "5734.jpg"
+      ],
+      "question": "Why did I transfer the mixture from the bowl to the bread, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring that the condiment was evenly spread on the bread by focusing on the bowl.",
+        "B: I was distracted by the fridge and kept looking back to see if I needed more ingredients.",
+        "C: I was preparing the bread for a specific dish, as indicated by my gaze shifting between the mixture and the bread.",
+        "D: I was checking the consistency of the mixture by repeatedly glancing at the bowl.",
+        "E: I was trying to hide the mixture from others by quickly transferring it to the bread."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "7440_8294.mp4",
+      "clip_path": "7440_8294.mp4",
+      "frames": [
+        "7440.jpg",
+        "7520.jpg",
+        "7600.jpg",
+        "7658.jpg",
+        "7881.jpg",
+        "8099.jpg",
+        "8152.jpg",
+        "8229.jpg",
+        "8294.jpg"
+      ],
+      "question": "Why did I take the teabag and divide it while preparing my drink, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was trying to make a stronger tea by using both halves of the teabag.",
+        "B: I was distracted by the recipe on the table and accidentally tore the teabag.",
+        "C: I was checking if there were any specific instructions on the teabag packaging.",
+        "D: I was ensuring that the teabag was properly sealed before use.",
+        "E: I was mimicking someone else's behavior who had previously divided a teabag."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "OP04-R05-Cheeseburger": [
+    {
+      "clip_name": "1574_2134.mp4",
+      "clip_path": "1574_2134.mp4",
+      "frames": [
+        "1574.jpg",
+        "1685.jpg",
+        "1808.jpg",
+        "1889.jpg",
+        "1927.jpg",
+        "1968.jpg",
+        "2044.jpg",
+        "2114.jpg",
+        "2134.jpg"
+      ],
+      "question": "Why did I pour olive oil into the pan while preparing to cook, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby condiment container and accidentally poured the oil.",
+        "B: I was ensuring the pan was evenly coated with oil to prevent food from sticking, as indicated by my focused gaze on the pan's surface.",
+        "C: I was checking the label on the olive oil bottle to verify its purity before using it.",
+        "D: I was mimicking someone else’s cooking actions without paying close attention to my own movements.",
+        "E: I was trying to hide the oil bottle from others by quickly pouring it."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "54_453.mp4",
+      "clip_path": "54_453.mp4",
+      "frames": [
+        "54.jpg",
+        "129.jpg",
+        "170.jpg",
+        "211.jpg",
+        "252.jpg",
+        "289.jpg",
+        "348.jpg",
+        "412.jpg",
+        "453.jpg"
+      ],
+      "question": "Why did I take the bread container from the fridge while organizing my ingredients, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the items inside the fridge and kept adjusting them.",
+        "B: I was checking if the bread container had the right type of buns for the recipe.",
+        "C: I was preparing to store the bread container back in the fridge after use.",
+        "D: I was trying to hide the bread container from others.",
+        "E: I was influenced by someone else's suggestion to use a different type of bread."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP04-R06-GreekSalad": [
+    {
+      "clip_name": "5612_5858.mp4",
+      "clip_path": "5612_5858.mp4",
+      "frames": [
+        "5612.jpg",
+        "5645.jpg",
+        "5677.jpg",
+        "5709.jpg",
+        "5745.jpg",
+        "5777.jpg",
+        "5805.jpg",
+        "5834.jpg",
+        "5858.jpg"
+      ],
+      "question": "Why did I take the condiment container from the fridge while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the other items in the fridge and accidentally grabbed the wrong container.",
+        "B: I was checking if the condiment container had expired before using it.",
+        "C: I needed to add a specific dressing to enhance the flavor of the salad.",
+        "D: I was trying to find space for another item in the fridge.",
+        "E: I was mimicking someone else's actions without realizing it."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "3366_4597.mp4",
+      "clip_path": "3366_4597.mp4",
+      "frames": [
+        "3366.jpg",
+        "3494.jpg",
+        "3834.jpg",
+        "4218.jpg",
+        "4312.jpg",
+        "4344.jpg",
+        "4398.jpg",
+        "4498.jpg",
+        "4597.jpg"
+      ],
+      "question": "Why did I pour the condiment into the salad while preparing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby spices and accidentally added the wrong condiment.",
+        "B: I was checking if the condiment container was empty before discarding it.",
+        "C: I was enhancing the flavor of the salad based on my gaze focus on the condiment container.",
+        "D: I was mimicking someone else's cooking behavior without paying attention to the ingredients.",
+        "E: I was trying to hide the cucumber slices under the condiment."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "OP04-R07-Pizza": [
+    {
+      "clip_name": "3807_5155.mp4",
+      "clip_path": "3807_5155.mp4",
+      "frames": [
+        "3807.jpg",
+        "4057.jpg",
+        "4331.jpg",
+        "4676.jpg",
+        "4999.jpg",
+        "5029.jpg",
+        "5068.jpg",
+        "5104.jpg",
+        "5155.jpg"
+      ],
+      "question": "Why did I transfer the mushrooms from the plate to the pan while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby pizza ingredients and accidentally moved the mushrooms.",
+        "B: I was ensuring that the mushrooms were evenly distributed in the pan for cooking.",
+        "C: I was checking if the mushrooms were fresh before adding them to the pan.",
+        "D: I was trying to mimic someone else's cooking technique without understanding the purpose.",
+        "E: I was clearing space on the counter by moving the mushrooms out of the way."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "19_538.mp4",
+      "clip_path": "19_538.mp4",
+      "frames": [
+        "19.jpg",
+        "137.jpg",
+        "253.jpg",
+        "292.jpg",
+        "327.jpg",
+        "366.jpg",
+        "421.jpg",
+        "469.jpg",
+        "538.jpg"
+      ],
+      "question": "Why did I open the cheese container while preparing the pizza, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby plates and kept adjusting them.",
+        "B: I was checking if the cheese was suitable for the pizza based on its appearance.",
+        "C: I was trying to hide the cheese from others who might take it.",
+        "D: I was influenced by someone else suggesting a different type of cheese.",
+        "E: I was ensuring the cheese container was empty before discarding it."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP05-R03-BaconAndEggs": [
+    {
+      "clip_name": "918_1477.mp4",
+      "clip_path": "918_1477.mp4",
+      "frames": [
+        "918.jpg",
+        "1010.jpg",
+        "1054.jpg",
+        "1097.jpg",
+        "1199.jpg",
+        "1312.jpg",
+        "1374.jpg",
+        "1424.jpg",
+        "1477.jpg"
+      ],
+      "question": "Why did I crack the egg into the bowl while preparing the mixture, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the milk container and accidentally cracked the egg.",
+        "B: I was focusing on the bowl to ensure the egg yolk didn't break prematurely.",
+        "C: I was checking if the egg was fresh by observing its contents after cracking.",
+        "D: I was trying to mimic someone else's cooking technique without paying attention.",
+        "E: I was ensuring the egg would mix well with the milk by carefully placing it in the bowl."
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "clip_name": "9449_11436.mp4",
+      "clip_path": "9449_11436.mp4",
+      "frames": [
+        "9449.jpg",
+        "9720.jpg",
+        "9952.jpg",
+        "10001.jpg",
+        "10351.jpg",
+        "10674.jpg",
+        "11004.jpg",
+        "11371.jpg",
+        "11436.jpg"
+      ],
+      "question": "Why did I spread the condiment on the bread while preparing my sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the seasoning container and accidentally spilled some on the bread.",
+        "B: I was checking the knife's sharpness to ensure it would cut through the bread easily.",
+        "C: I was focusing on evenly distributing the condiment to enhance the flavor of the sandwich.",
+        "D: I was trying to mimic someone else’s actions as they prepared their own sandwich nearby.",
+        "E: I was drawn to the bright label on the condiment container and couldn’t resist using it."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "OP05-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "6483_7634.mp4",
+      "clip_path": "6483_7634.mp4",
+      "frames": [
+        "6483.jpg",
+        "6639.jpg",
+        "6800.jpg",
+        "6840.jpg",
+        "6892.jpg",
+        "6935.jpg",
+        "7267.jpg",
+        "7602.jpg",
+        "7634.jpg"
+      ],
+      "question": "Why did I take the teabag while preparing my drink, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby trash container and accidentally grabbed the teabag.",
+        "B: I was focusing on the cup to ensure it was ready for the tea.",
+        "C: I was checking if the teabag was the correct one before steeping it.",
+        "D: I was influenced by someone else's actions and decided to mimic them.",
+        "E: I was trying to hide the teabag from others."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "319_1445.mp4",
+      "clip_path": "319_1445.mp4",
+      "frames": [
+        "319.jpg",
+        "405.jpg",
+        "497.jpg",
+        "523.jpg",
+        "601.jpg",
+        "993.jpg",
+        "1344.jpg",
+        "1392.jpg",
+        "1445.jpg"
+      ],
+      "question": "Why did I place the bowl in the microwave after mixing the condiments, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring that the condiments were evenly distributed before heating.",
+        "B: I was distracted by the nearby spice containers and accidentally placed the bowl in the microwave.",
+        "C: I was preparing to heat the mixture for a specific recipe step, as indicated by my focused gaze on the microwave controls.",
+        "D: I was trying to hide the bowl from others by placing it in the microwave.",
+        "E: I was checking if the bowl was clean before putting it in the microwave."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "OP05-R07-Pizza": [
+    {
+      "clip_name": "1095_2131.mp4",
+      "clip_path": "1095_2131.mp4",
+      "frames": [
+        "1095.jpg",
+        "1125.jpg",
+        "1160.jpg",
+        "1429.jpg",
+        "1696.jpg",
+        "1724.jpg",
+        "1783.jpg",
+        "1971.jpg",
+        "2131.jpg"
+      ],
+      "question": "Why did I place the bell pepper on the pizza while preparing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focused on ensuring the bell pepper slices were evenly distributed across the pizza.",
+        "B: I was distracted by the nearby sausage and accidentally placed the bell pepper instead.",
+        "C: I was checking if the bell pepper had been cut into the right size before placing it.",
+        "D: I was trying to mimic someone else's cooking style by adding the bell pepper.",
+        "E: I was simply following a recipe that required bell peppers as a topping."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "40_507.mp4",
+      "clip_path": "40_507.mp4",
+      "frames": [
+        "40.jpg",
+        "97.jpg",
+        "146.jpg",
+        "213.jpg",
+        "305.jpg",
+        "383.jpg",
+        "420.jpg",
+        "464.jpg",
+        "507.jpg"
+      ],
+      "question": "Why did I take the tortilla from the fridge while organizing my ingredients, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the milk carton and accidentally grabbed the tortilla instead.",
+        "B: I needed the tortilla to prepare a dish that required flatbread as an ingredient.",
+        "C: I was checking if the tortilla was still fresh by looking at its packaging.",
+        "D: I was influenced by someone else's suggestion to use the tortilla for a recipe.",
+        "E: I was trying to clear space in the fridge by removing items randomly."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP06-R02-TurkeySandwich": [
+    {
+      "clip_name": "3667_4228.mp4",
+      "clip_path": "3667_4228.mp4",
+      "frames": [
+        "3667.jpg",
+        "3759.jpg",
+        "3853.jpg",
+        "3887.jpg",
+        "3937.jpg",
+        "3985.jpg",
+        "4015.jpg",
+        "4045.jpg",
+        "4228.jpg"
+      ],
+      "question": "Why did I wash the eating utensil after washing the tomato, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring that the utensil was clean before using it to cut the lettuce.",
+        "B: I was distracted by the newspaper on the wall and forgot what I was doing.",
+        "C: I was checking if the tomato was properly washed by comparing it with the utensil.",
+        "D: I was preparing the utensil for someone else to use.",
+        "E: I was trying to hide the utensil from view."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "32_534.mp4",
+      "clip_path": "32_534.mp4",
+      "frames": [
+        "32.jpg",
+        "80.jpg",
+        "115.jpg",
+        "154.jpg",
+        "231.jpg",
+        "367.jpg",
+        "465.jpg",
+        "498.jpg",
+        "534.jpg"
+      ],
+      "question": "Why did I take the deli meat container from the fridge while organizing my meal preparation, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the cheese container and decided to grab it first.",
+        "B: I was checking if the deli meat was expired before using it.",
+        "C: I was preparing to make a sandwich and needed the deli meat as an ingredient.",
+        "D: I was influenced by someone else's suggestion to use deli meat.",
+        "E: I was looking for a specific type of bread and grabbed the deli meat by mistake."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "OP06-R03-BaconAndEggs": [
+    {
+      "clip_name": "7741_8573.mp4",
+      "clip_path": "7741_8573.mp4",
+      "frames": [
+        "7741.jpg",
+        "7782.jpg",
+        "8023.jpg",
+        "8262.jpg",
+        "8353.jpg",
+        "8443.jpg",
+        "8494.jpg",
+        "8539.jpg",
+        "8573.jpg"
+      ],
+      "question": "Why did I repeatedly take and put the bacon container while organizing my kitchen, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the proximity of the bacon container to other items on the counter.",
+        "B: I was ensuring that the bacon was properly stored before closing the fridge.",
+        "C: I was checking if the bacon container was empty before discarding it.",
+        "D: I was mimicking someone else's actions without realizing it.",
+        "E: I was trying to remember where I had initially placed the bacon."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "8608_9366.mp4",
+      "clip_path": "8608_9366.mp4",
+      "frames": [
+        "8608.jpg",
+        "8690.jpg",
+        "8772.jpg",
+        "8820.jpg",
+        "8926.jpg",
+        "9007.jpg",
+        "9034.jpg",
+        "9200.jpg",
+        "9366.jpg"
+      ],
+      "question": "Why did I take the cooking utensil while moving around the bacon, considering the shifts in my attention?",
+      "answer_options": [
+        "A: I was distracted by the newspaper on the counter and accidentally grabbed the utensil.",
+        "B: I was preparing to stir or flip the bacon using the utensil, as my gaze shifted towards it.",
+        "C: I was checking if the stove was turned off before handling the utensil.",
+        "D: I was trying to mimic someone else's actions who was also cooking nearby.",
+        "E: I was reaching for the utensil to clean it immediately after washing my hands."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP06-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "5779_6543.mp4",
+      "clip_path": "5779_6543.mp4",
+      "frames": [
+        "5779.jpg",
+        "5928.jpg",
+        "6103.jpg",
+        "6222.jpg",
+        "6277.jpg",
+        "6320.jpg",
+        "6366.jpg",
+        "6433.jpg",
+        "6543.jpg"
+      ],
+      "question": "Why did I spread the mixture on the bread while preparing my meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focusing on evenly distributing the mixture to enhance its flavor.",
+        "B: I was distracted by the nearby spices and kept adjusting their positions.",
+        "C: I was checking if the bread was fresh enough to hold the mixture.",
+        "D: I was trying to mimic someone else's cooking style by observing them.",
+        "E: I was ensuring that the mixture would stick well before adding more ingredients."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "4160_4614.mp4",
+      "clip_path": "4160_4614.mp4",
+      "frames": [
+        "4160.jpg",
+        "4228.jpg",
+        "4314.jpg",
+        "4384.jpg",
+        "4457.jpg",
+        "4510.jpg",
+        "4550.jpg",
+        "4589.jpg",
+        "4614.jpg"
+      ],
+      "question": "Why did I take the condiment container after putting the plate in the microwave, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was preparing to add a specific condiment to the food on the plate before heating it.",
+        "B: I was distracted by the condiment container's label and decided to read it.",
+        "C: I was checking if the condiment container was empty before discarding it.",
+        "D: I was trying to hide the condiment container from others who might use it.",
+        "E: I was planning to use the condiment as part of a recipe that required precise timing."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "OP06-R05-Cheeseburger": [
+    {
+      "clip_name": "9761_10279.mp4",
+      "clip_path": "9761_10279.mp4",
+      "frames": [
+        "9761.jpg",
+        "9791.jpg",
+        "9903.jpg",
+        "10012.jpg",
+        "10054.jpg",
+        "10105.jpg",
+        "10138.jpg",
+        "10177.jpg",
+        "10279.jpg"
+      ],
+      "question": "Why did I squeeze the condiment onto the sandwich while preparing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the items on the counter and accidentally squeezed the condiment.",
+        "B: I was focusing on the sandwich to ensure the condiment was evenly distributed.",
+        "C: I was checking if the fridge had other ingredients before squeezing the condiment.",
+        "D: I was trying to mimic someone else's behavior while making the sandwich.",
+        "E: I was drawn to the high-salience bottle and decided to use it impulsively."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "1282_1826.mp4",
+      "clip_path": "1282_1826.mp4",
+      "frames": [
+        "1282.jpg",
+        "1331.jpg",
+        "1386.jpg",
+        "1487.jpg",
+        "1597.jpg",
+        "1647.jpg",
+        "1696.jpg",
+        "1746.jpg",
+        "1826.jpg"
+      ],
+      "question": "Why did I divide and pull apart the lettuce while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the tomato on the counter and kept looking at it.",
+        "B: I was ensuring the lettuce was fresh by closely examining each leaf as I pulled them apart.",
+        "C: I was trying to evenly distribute the lettuce on the plate for presentation.",
+        "D: I was mimicking someone else's actions as they were also preparing food nearby.",
+        "E: I was checking if there were any insects or dirt on the lettuce leaves."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "OP06-R06-GreekSalad": [
+    {
+      "clip_name": "4318_5594.mp4",
+      "clip_path": "4318_5594.mp4",
+      "frames": [
+        "4318.jpg",
+        "4581.jpg",
+        "4839.jpg",
+        "4900.jpg",
+        "4960.jpg",
+        "5198.jpg",
+        "5451.jpg",
+        "5507.jpg",
+        "5594.jpg"
+      ],
+      "question": "Why did I take the cheese container from the fridge while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the condiments on the counter and needed to refocus.",
+        "B: I was checking if there were any other ingredients left in the fridge for the salad.",
+        "C: I intended to add cheese as a topping to enhance the flavor of the salad.",
+        "D: I was looking for a place to store the leftover onion slices.",
+        "E: I was influenced by someone else suggesting adding cheese to the meal."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "2380_4145.mp4",
+      "clip_path": "2380_4145.mp4",
+      "frames": [
+        "2380.jpg",
+        "2409.jpg",
+        "2547.jpg",
+        "2690.jpg",
+        "3096.jpg",
+        "3501.jpg",
+        "3739.jpg",
+        "3974.jpg",
+        "4145.jpg"
+      ],
+      "question": "Why did I cut the tomato while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focused on slicing the cucumber precisely to ensure uniform pieces.",
+        "B: I was checking the freshness of the tomato by observing its texture closely.",
+        "C: I was distracted by the salt container and kept adjusting it.",
+        "D: I was trying to mimic someone else's cooking style by cutting the tomato a certain way.",
+        "E: I was ensuring the tomato slices would fit well with the other ingredients on the plate."
+      ],
+      "correct_answer": "E"
+    }
+  ],
+  "OP06-R07-Pizza": [
+    {
+      "clip_name": "4536_5871.mp4",
+      "clip_path": "4536_5871.mp4",
+      "frames": [
+        "4536.jpg",
+        "4792.jpg",
+        "5057.jpg",
+        "5299.jpg",
+        "5554.jpg",
+        "5638.jpg",
+        "5713.jpg",
+        "5762.jpg",
+        "5871.jpg"
+      ],
+      "question": "Why did I open the sausage container after taking it from the fridge, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking if the sausages were spoiled by looking closely at them.",
+        "B: I was distracted by the other items in the fridge and forgot what I needed.",
+        "C: I was preparing to add the sausages to the pan with mushrooms, as indicated by my gaze shifting towards the cooking area.",
+        "D: I was trying to find a recipe for using the sausages, focusing on the kitchen counter.",
+        "E: I was ensuring the sausages were properly stored before putting them back in the fridge."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "903_2451.mp4",
+      "clip_path": "903_2451.mp4",
+      "frames": [
+        "903.jpg",
+        "1439.jpg",
+        "1988.jpg",
+        "2038.jpg",
+        "2094.jpg",
+        "2192.jpg",
+        "2307.jpg",
+        "2399.jpg",
+        "2451.jpg"
+      ],
+      "question": "Why did I pour oil into the pan while preparing to cook, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby bottle and accidentally poured too much oil.",
+        "B: I was ensuring the pan was properly coated with oil for even cooking, as indicated by my focused gaze on the pan.",
+        "C: I was checking if the oil container was empty before pouring it into the pan.",
+        "D: I was trying to mimic someone else's cooking technique without paying attention to the amount of oil.",
+        "E: I was focusing on the stove settings instead of the oil being poured."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P01-R01-PastaSalad": [
+    {
+      "clip_name": "16090_18162.mp4",
+      "clip_path": "16090_18162.mp4",
+      "frames": [
+        "16090.jpg",
+        "16659.jpg",
+        "17101.jpg",
+        "17314.jpg",
+        "17592.jpg",
+        "17868.jpg",
+        "18048.jpg",
+        "18104.jpg",
+        "18162.jpg"
+      ],
+      "question": "Why did I shift my gaze from the cucumbers to the cooking utensil while preparing the meal, given the observed changes in attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby spices and decided to add them to the dish.",
+        "B: I noticed the pasta needed stirring and shifted my focus to ensure it cooked evenly.",
+        "C: I wanted to check if the cucumbers were cut properly before moving on.",
+        "D: I was looking for a social cue from someone else in the room to continue with the task.",
+        "E: I accidentally glanced at the cooking utensil due to its proximity to the cucumbers."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "23281_23999.mp4",
+      "clip_path": "23281_23999.mp4",
+      "frames": [
+        "23281.jpg",
+        "23454.jpg",
+        "23519.jpg",
+        "23582.jpg",
+        "23650.jpg",
+        "23753.jpg",
+        "23843.jpg",
+        "23927.jpg",
+        "23999.jpg"
+      ],
+      "question": "Why did I open the fridge while transferring the carrot, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking if there were any other vegetables to add to the dish.",
+        "B: I was distracted by the sound of the fridge and decided to inspect it.",
+        "C: I was looking for a suitable container to store the remaining carrots.",
+        "D: I was trying to remember what else I needed from the fridge for the meal.",
+        "E: I was ensuring that the fridge was empty before placing the carrots inside."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P01-R02-TurkeySandwich": [
+    {
+      "clip_name": "5940_6551.mp4",
+      "clip_path": "5940_6551.mp4",
+      "frames": [
+        "5940.jpg",
+        "6034.jpg",
+        "6108.jpg",
+        "6211.jpg",
+        "6287.jpg",
+        "6348.jpg",
+        "6412.jpg",
+        "6473.jpg",
+        "6551.jpg"
+      ],
+      "question": "Why did I repeatedly put lettuce on the plate while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring that each piece of lettuce was evenly distributed across the plate.",
+        "B: I was distracted by the nearby cheese package and kept adjusting my focus.",
+        "C: I was checking if the lettuce pieces were fresh enough for the salad.",
+        "D: I was trying to create a visually appealing arrangement by carefully placing each leaf.",
+        "E: I was mimicking someone else's actions as they prepared their own salad."
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "clip_name": "5940_6551.mp4",
+      "clip_path": "5940_6551.mp4",
+      "frames": [
+        "5940.jpg",
+        "6034.jpg",
+        "6108.jpg",
+        "6211.jpg",
+        "6287.jpg",
+        "6348.jpg",
+        "6412.jpg",
+        "6473.jpg",
+        "6551.jpg"
+      ],
+      "question": "Why did I repeatedly put lettuce on the plate while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring that each piece of lettuce was evenly distributed across the plate.",
+        "B: I was distracted by the cheese package and kept adjusting it instead.",
+        "C: I was checking for any wilted or damaged lettuce leaves before placing them.",
+        "D: I was trying to create a visually appealing pattern with the lettuce.",
+        "E: I was mimicking someone else's actions as they prepared the salad."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P02-R01-PastaSalad": [
+    {
+      "clip_name": "17772_18949.mp4",
+      "clip_path": "17772_18949.mp4",
+      "frames": [
+        "17772.jpg",
+        "18145.jpg",
+        "18531.jpg",
+        "18590.jpg",
+        "18626.jpg",
+        "18702.jpg",
+        "18807.jpg",
+        "18889.jpg",
+        "18949.jpg"
+      ],
+      "question": "Why did I pour seasoning from the container into the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby bottle of oil and accidentally poured the wrong ingredient.",
+        "B: I was checking the label on the seasoning container to ensure it matched the recipe requirements.",
+        "C: I was trying to enhance the flavor of the salad based on where my gaze was focused on the seasoning container.",
+        "D: I was mimicking someone else's cooking actions without paying attention to the ingredients.",
+        "E: I was simply following a routine step without considering the impact on the dish."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "26019_26513.mp4",
+      "clip_path": "26019_26513.mp4",
+      "frames": [
+        "26019.jpg",
+        "26119.jpg",
+        "26192.jpg",
+        "26269.jpg",
+        "26298.jpg",
+        "26361.jpg",
+        "26433.jpg",
+        "26473.jpg",
+        "26513.jpg"
+      ],
+      "question": "Why did I pour seasoning into the salad while mixing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby bottles and accidentally added too much seasoning.",
+        "B: I was ensuring that the seasoning was evenly distributed as I focused on the bowl's contents.",
+        "C: I was checking if the salad needed more dressing before adding the seasoning.",
+        "D: I was trying to mimic someone else’s cooking style by adding extra seasoning.",
+        "E: I was preparing the salad for immediate consumption without further adjustments."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P02-R03-BaconAndEggs": [
+    {
+      "clip_name": "859_1246.mp4",
+      "clip_path": "859_1246.mp4",
+      "frames": [
+        "859.jpg",
+        "901.jpg",
+        "936.jpg",
+        "973.jpg",
+        "1019.jpg",
+        "1056.jpg",
+        "1125.jpg",
+        "1194.jpg",
+        "1246.jpg"
+      ],
+      "question": "Why did I inspect and read the pasta container while organizing groceries, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking the expiration date to ensure it was still fresh.",
+        "B: I was distracted by the colorful packaging and kept adjusting its position.",
+        "C: I was verifying the recipe instructions for a dish I planned to make.",
+        "D: I was trying to find a specific brand recommended by a friend.",
+        "E: I was ensuring there were no spills or damage on the container."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "17821_18623.mp4",
+      "clip_path": "17821_18623.mp4",
+      "frames": [
+        "17821.jpg",
+        "17965.jpg",
+        "18014.jpg",
+        "18032.jpg",
+        "18114.jpg",
+        "18328.jpg",
+        "18524.jpg",
+        "18594.jpg",
+        "18623.jpg"
+      ],
+      "question": "Why did I take the paper towel while preparing the bacon, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was cleaning up spills on the countertop to keep the workspace tidy.",
+        "B: I was using it to absorb excess oil from the bacon after cooking.",
+        "C: I was wiping the pan to ensure it was clean before placing the bacon.",
+        "D: I was mimicking someone else's actions as they were also using a paper towel.",
+        "E: I was distracted by the nearby trash container and accidentally grabbed the paper towel."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P02-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "14930_15805.mp4",
+      "clip_path": "14930_15805.mp4",
+      "frames": [
+        "14930.jpg",
+        "15047.jpg",
+        "15201.jpg",
+        "15358.jpg",
+        "15457.jpg",
+        "15512.jpg",
+        "15550.jpg",
+        "15636.jpg",
+        "15805.jpg"
+      ],
+      "question": "Why did I pour milk into the bowl while preparing breakfast, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the recipe on the cereal box and accidentally poured too much milk.",
+        "B: I was checking the milk container's expiration date to ensure it was fresh.",
+        "C: I was following a specific step in the recipe that required precise measurements of milk.",
+        "D: I was trying to hide the fact that I was using someone else's milk.",
+        "E: I was ensuring the milk was evenly distributed in the bowl for optimal taste."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "135_771.mp4",
+      "clip_path": "135_771.mp4",
+      "frames": [
+        "135.jpg",
+        "309.jpg",
+        "392.jpg",
+        "468.jpg",
+        "522.jpg",
+        "611.jpg",
+        "704.jpg",
+        "741.jpg",
+        "771.jpg"
+      ],
+      "question": "Why did I take the bowl from the dishwasher while preparing breakfast, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the utensils and grabbed the first item that came to hand.",
+        "B: I needed a container for mixing ingredients as indicated by the recipe instructions I was following.",
+        "C: I was checking if the bowl was clean enough for use.",
+        "D: I was influenced by someone else's suggestion to use a bowl.",
+        "E: I was trying to hide the bowl from others."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P02-R05-Cheeseburger": [
+    {
+      "clip_name": "19589_20355.mp4",
+      "clip_path": "19589_20355.mp4",
+      "frames": [
+        "19589.jpg",
+        "19670.jpg",
+        "19761.jpg",
+        "19822.jpg",
+        "19917.jpg",
+        "20006.jpg",
+        "20081.jpg",
+        "20221.jpg",
+        "20355.jpg"
+      ],
+      "question": "Why did I inspect the sandwich while moving around the cooking utensil, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring the sandwich was properly assembled before serving it.",
+        "B: I was distracted by the lettuce and wanted to check if it was fresh.",
+        "C: I was verifying the recipe instructions to confirm the next steps.",
+        "D: I was checking for any remaining ingredients on the counter.",
+        "E: I was preparing to clean the cooking utensil immediately after."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "4867_5469.mp4",
+      "clip_path": "4867_5469.mp4",
+      "frames": [
+        "4867.jpg",
+        "4957.jpg",
+        "5065.jpg",
+        "5139.jpg",
+        "5204.jpg",
+        "5256.jpg",
+        "5334.jpg",
+        "5416.jpg",
+        "5469.jpg"
+      ],
+      "question": "Why did I inspect the recipe while preparing the patties, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking if the patties were cooked properly by looking at the color.",
+        "B: I was ensuring that I followed the correct cooking instructions to avoid mistakes.",
+        "C: I was distracted by the nearby trash container and needed to refocus.",
+        "D: I was trying to remember the next ingredient needed for the recipe.",
+        "E: I was verifying the temperature settings on the stove."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P02-R06-GreekSalad": [
+    {
+      "clip_name": "4572_5033.mp4",
+      "clip_path": "4572_5033.mp4",
+      "frames": [
+        "4572.jpg",
+        "4652.jpg",
+        "4732.jpg",
+        "4799.jpg",
+        "4834.jpg",
+        "4883.jpg",
+        "4935.jpg",
+        "4970.jpg",
+        "5033.jpg"
+      ],
+      "question": "Why did I take the tomato container from the fridge while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the cheese container and accidentally grabbed the tomatoes instead.",
+        "B: I needed to add fresh tomatoes to enhance the flavor of the salad, as indicated by my focused gaze on the tomato container.",
+        "C: I was checking if there were any other vegetables in the fridge drawer before deciding on the tomatoes.",
+        "D: I was influenced by a friend's suggestion to use tomatoes, even though it wasn't part of my original plan.",
+        "E: I was looking for a bottle of dressing and mistakenly picked up the tomato container."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "20_370.mp4",
+      "clip_path": "20_370.mp4",
+      "frames": [
+        "20.jpg",
+        "67.jpg",
+        "114.jpg",
+        "146.jpg",
+        "171.jpg",
+        "203.jpg",
+        "252.jpg",
+        "312.jpg",
+        "370.jpg"
+      ],
+      "question": "Why did I open the tomato container while preparing the Greek salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the tomatoes' color and wanted to admire them.",
+        "B: I was checking if the tomatoes were ripe enough for the salad.",
+        "C: I was ensuring the tomatoes were clean before adding them to the salad.",
+        "D: I was influenced by a friend's suggestion to use specific tomatoes.",
+        "E: I was anticipating the next step in the recipe and needed the tomatoes."
+      ],
+      "correct_answer": "E"
+    }
+  ],
+  "P03-R01-PastaSalad": [
+    {
+      "clip_name": "970_1588.mp4",
+      "clip_path": "970_1588.mp4",
+      "frames": [
+        "970.jpg",
+        "1079.jpg",
+        "1177.jpg",
+        "1294.jpg",
+        "1379.jpg",
+        "1449.jpg",
+        "1500.jpg",
+        "1548.jpg",
+        "1588.jpg"
+      ],
+      "question": "Why did I open the cabinet while transferring items from the grocery bag, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the clutter on the counter and needed to clear it.",
+        "B: I was looking for a specific item that should be stored in the cabinet.",
+        "C: I was checking if there was enough space in the cabinet for the new groceries.",
+        "D: I was influenced by someone else's suggestion to organize the kitchen.",
+        "E: I was trying to hide the groceries from view."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P04-R01-PastaSalad": [
+    {
+      "clip_name": "30541_32654.mp4",
+      "clip_path": "30541_32654.mp4",
+      "frames": [
+        "30541.jpg",
+        "30839.jpg",
+        "31097.jpg",
+        "31203.jpg",
+        "31459.jpg",
+        "31670.jpg",
+        "31938.jpg",
+        "32378.jpg",
+        "32654.jpg"
+      ],
+      "question": "Why did I wash the cutting board after cleaning the cup, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the sponge and kept adjusting it while washing the cutting board.",
+        "B: I noticed a stain on the cutting board that needed immediate attention as my gaze shifted to it.",
+        "C: I was preparing the cutting board for a new task, anticipating its use soon.",
+        "D: I was mimicking someone else's actions who was also washing dishes nearby.",
+        "E: I was ensuring all surfaces were clean before moving on to the next item."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "27833_28594.mp4",
+      "clip_path": "27833_28594.mp4",
+      "frames": [
+        "27833.jpg",
+        "27893.jpg",
+        "27985.jpg",
+        "28075.jpg",
+        "28188.jpg",
+        "28284.jpg",
+        "28370.jpg",
+        "28460.jpg",
+        "28594.jpg"
+      ],
+      "question": "Why did I pour the condiment into the salad while preparing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby bottle and accidentally poured the wrong ingredient.",
+        "B: I was checking if the condiment container was empty before discarding it.",
+        "C: I was focusing on enhancing the flavor of the salad based on my gaze towards the condiment container.",
+        "D: I was mimicking someone else's actions as they were also seasoning the salad.",
+        "E: I was trying to hide the condiment container from others."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P04-R05-Cheeseburger": [
+    {
+      "clip_name": "6182_6783.mp4",
+      "clip_path": "6182_6783.mp4",
+      "frames": [
+        "6182.jpg",
+        "6344.jpg",
+        "6395.jpg",
+        "6470.jpg",
+        "6530.jpg",
+        "6568.jpg",
+        "6610.jpg",
+        "6662.jpg",
+        "6783.jpg"
+      ],
+      "question": "Why did I transfer the patty from the pan to the plate while cooking, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the trash container and decided to clean up first.",
+        "B: I noticed the patty was cooked and needed to be served immediately.",
+        "C: I was checking the drawer for additional ingredients to add to the dish.",
+        "D: I was influenced by someone else's suggestion to serve it on a plate.",
+        "E: I was ensuring the patty didn't burn by moving it away from the heat."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "860_1420.mp4",
+      "clip_path": "860_1420.mp4",
+      "frames": [
+        "860.jpg",
+        "925.jpg",
+        "985.jpg",
+        "1046.jpg",
+        "1084.jpg",
+        "1121.jpg",
+        "1238.jpg",
+        "1356.jpg",
+        "1420.jpg"
+      ],
+      "question": "Why did I take the cheese from the fridge while organizing ingredients for cooking, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the cheese's packaging and decided to inspect it closely.",
+        "B: I was following a recipe that required cheese as an ingredient, and my gaze shifted towards it when needed.",
+        "C: I was checking if the cheese had expired before deciding to use it.",
+        "D: I was influenced by the proximity of the cheese to other items and grabbed it impulsively.",
+        "E: I was preparing to store the cheese elsewhere in the kitchen."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P04-R06-GreekSalad": [
+    {
+      "clip_name": "12431_14318.mp4",
+      "clip_path": "12431_14318.mp4",
+      "frames": [
+        "12431.jpg",
+        "12799.jpg",
+        "13231.jpg",
+        "13432.jpg",
+        "13639.jpg",
+        "13874.jpg",
+        "14073.jpg",
+        "14256.jpg",
+        "14318.jpg"
+      ],
+      "question": "Why did I cut the onion while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focused on ensuring the onions were finely chopped to mix well with the other ingredients.",
+        "B: I was distracted by the nearby bottle of mayonnaise and kept adjusting it.",
+        "C: I was checking if the knife was sharp enough before cutting the lettuce.",
+        "D: I was trying to mimic someone else's cooking style by closely observing their actions.",
+        "E: I was preparing the onions for a separate dish that required larger pieces."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "19367_19795.mp4",
+      "clip_path": "19367_19795.mp4",
+      "frames": [
+        "19367.jpg",
+        "19463.jpg",
+        "19515.jpg",
+        "19572.jpg",
+        "19618.jpg",
+        "19657.jpg",
+        "19685.jpg",
+        "19715.jpg",
+        "19795.jpg"
+      ],
+      "question": "Why did I take the condiment container from the fridge while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the bright light inside the fridge and grabbed the first thing I saw.",
+        "B: I needed to add a specific ingredient to the dish as indicated by the recipe I was following.",
+        "C: I was checking if there were any other food items that could be used for the meal.",
+        "D: I was influenced by someone else's suggestion to use a particular condiment.",
+        "E: I was simply curious about what was inside the fridge."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P05-R01-PastaSalad": [
+    {
+      "clip_name": "13081_14773.mp4",
+      "clip_path": "13081_14773.mp4",
+      "frames": [
+        "13081.jpg",
+        "13192.jpg",
+        "13339.jpg",
+        "13816.jpg",
+        "14304.jpg",
+        "14421.jpg",
+        "14544.jpg",
+        "14674.jpg",
+        "14773.jpg"
+      ],
+      "question": "Why did I cut the carrot while preparing the pasta salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was following the recipe instructions closely, ensuring each ingredient was prepared correctly.",
+        "B: I was distracted by the bell pepper and accidentally started cutting the carrot instead.",
+        "C: I was checking the grocery bag to see if there were any other ingredients needed before continuing.",
+        "D: I was trying to mimic someone else's cooking style, focusing on their techniques rather than the task at hand.",
+        "E: I was anticipating the next step in the recipe, using my gaze to guide my actions efficiently."
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "clip_name": "16172_17371.mp4",
+      "clip_path": "16172_17371.mp4",
+      "frames": [
+        "16172.jpg",
+        "16242.jpg",
+        "16353.jpg",
+        "16556.jpg",
+        "16694.jpg",
+        "16759.jpg",
+        "17052.jpg",
+        "17330.jpg",
+        "17371.jpg"
+      ],
+      "question": "Why did I pour the pasta into the strainer while washing it, considering the shifts in my attention?",
+      "answer_options": [
+        "A: I was distracted by the recipe book and wanted to follow the instructions closely.",
+        "B: I was focusing on ensuring that all the water drained out of the pot before transferring the pasta.",
+        "C: I was checking if the pasta was properly cooked by feeling its texture with my hand.",
+        "D: I was trying to avoid spilling the pasta by carefully pouring it from the pot.",
+        "E: I was preparing the pasta for immediate consumption without further processing."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P05-R02-TurkeySandwich": [
+    {
+      "clip_name": "2974_4386.mp4",
+      "clip_path": "2974_4386.mp4",
+      "frames": [
+        "2974.jpg",
+        "3296.jpg",
+        "3796.jpg",
+        "4075.jpg",
+        "4170.jpg",
+        "4210.jpg",
+        "4262.jpg",
+        "4326.jpg",
+        "4386.jpg"
+      ],
+      "question": "Why did I cut the tomato while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was following the recipe instructions closely, as indicated by my gaze shifting to the recipe card.",
+        "B: I was distracted by the lettuce and kept adjusting it instead of focusing on the tomato.",
+        "C: I was trying to ensure the tomatoes were evenly sliced for better presentation.",
+        "D: I was checking if the knife was sharp enough before cutting the tomato.",
+        "E: I was mimicking someone else's actions without paying attention to the task."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "11854_12274.mp4",
+      "clip_path": "11854_12274.mp4",
+      "frames": [
+        "11854.jpg",
+        "11955.jpg",
+        "12026.jpg",
+        "12060.jpg",
+        "12112.jpg",
+        "12167.jpg",
+        "12205.jpg",
+        "12239.jpg",
+        "12274.jpg"
+      ],
+      "question": "Why did I pour the condiment into the salad while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby bottle of oil and accidentally poured it instead.",
+        "B: I was focusing on the recipe card to ensure I added the right amount of condiment.",
+        "C: I was checking if the seasoning container was empty before adding more flavor.",
+        "D: I was trying to mimic someone else's cooking style by adding extra condiments.",
+        "E: I was ensuring the condiment mixed well with the salad by observing its flow."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P06-R01-PastaSalad": [
+    {
+      "clip_name": "4507_4778.mp4",
+      "clip_path": "4507_4778.mp4",
+      "frames": [
+        "4507.jpg",
+        "4546.jpg",
+        "4579.jpg",
+        "4610.jpg",
+        "4645.jpg",
+        "4678.jpg",
+        "4709.jpg",
+        "4743.jpg",
+        "4778.jpg"
+      ],
+      "question": "Why did I repeatedly cut the tomato while organizing it on the cutting board, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focusing on ensuring the tomato pieces were uniform in size.",
+        "B: I was distracted by the green bell pepper and kept glancing at it.",
+        "C: I was checking if any specific part of the tomato needed more chopping.",
+        "D: I was trying to create a visually appealing pattern with the tomato slices.",
+        "E: I was preparing the tomato for a different dish that required smaller pieces."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "7815_8151.mp4",
+      "clip_path": "7815_8151.mp4",
+      "frames": [
+        "7815.jpg",
+        "7856.jpg",
+        "7892.jpg",
+        "7938.jpg",
+        "7984.jpg",
+        "8019.jpg",
+        "8063.jpg",
+        "8111.jpg",
+        "8151.jpg"
+      ],
+      "question": "Why did I cut the carrot into smaller pieces while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focusing on ensuring uniform size for even cooking.",
+        "B: I was distracted by the salt container and kept adjusting it.",
+        "C: I was checking if any specific piece of carrot needed further cutting.",
+        "D: I was trying to hide certain pieces from view.",
+        "E: I was preparing the carrots for a decorative presentation."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P06-R02-TurkeySandwich": [
+    {
+      "clip_name": "5661_6010.mp4",
+      "clip_path": "5661_6010.mp4",
+      "frames": [
+        "5661.jpg",
+        "5685.jpg",
+        "5745.jpg",
+        "5803.jpg",
+        "5868.jpg",
+        "5933.jpg",
+        "5951.jpg",
+        "5977.jpg",
+        "6010.jpg"
+      ],
+      "question": "Why did I take the condiment container from the counter while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the bread and kept adjusting it on the plate.",
+        "B: I was checking if the condiment container had the right ingredients for the sandwich.",
+        "C: I was trying to hide the condiment container from others who might need it.",
+        "D: I was ensuring the condiment container was properly sealed before using it.",
+        "E: I was preparing to put the condiment container back in the fridge after use."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "2407_2912.mp4",
+      "clip_path": "2407_2912.mp4",
+      "frames": [
+        "2407.jpg",
+        "2479.jpg",
+        "2538.jpg",
+        "2577.jpg",
+        "2605.jpg",
+        "2707.jpg",
+        "2830.jpg",
+        "2879.jpg",
+        "2912.jpg"
+      ],
+      "question": "Why did I inspect the recipe while preparing the ingredients, considering the shifts in my attention?",
+      "answer_options": [
+        "A: I was checking if I had all the necessary ingredients before proceeding.",
+        "B: I was trying to remember the next step in the cooking process.",
+        "C: I was verifying the correct way to cut the tomato based on the instructions.",
+        "D: I was looking for a different recipe to follow instead.",
+        "E: I was ensuring that the lettuce was fresh according to the recipe."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P07-R01-PastaSalad": [
+    {
+      "clip_name": "980_1297.mp4",
+      "clip_path": "980_1297.mp4",
+      "frames": [
+        "980.jpg",
+        "1015.jpg",
+        "1053.jpg",
+        "1099.jpg",
+        "1141.jpg",
+        "1178.jpg",
+        "1215.jpg",
+        "1250.jpg",
+        "1297.jpg"
+      ],
+      "question": "Why did I take the bowl from the dishwasher rack while organizing the dishes, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the shiny surface of the bowl and wanted to inspect it closely.",
+        "B: I noticed a specific dish needed to be rearranged for better space utilization.",
+        "C: I was checking if the bowl was clean before placing it back in the cabinet.",
+        "D: I was influenced by someone else's suggestion to reorganize the bowls.",
+        "E: I was preparing the bowl for immediate use after taking it out."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "18217_19183.mp4",
+      "clip_path": "18217_19183.mp4",
+      "frames": [
+        "18217.jpg",
+        "18443.jpg",
+        "18598.jpg",
+        "18794.jpg",
+        "18928.jpg",
+        "18972.jpg",
+        "19044.jpg",
+        "19125.jpg",
+        "19183.jpg"
+      ],
+      "question": "Why did I take the carrot from the cutting board while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby pasta and decided to inspect it instead.",
+        "B: I noticed a piece of carrot on the floor and wanted to clean up.",
+        "C: I intended to add the chopped carrots to the pan for cooking, as indicated by my gaze shifting towards the stove.",
+        "D: I was checking if the other carrot needed more chopping before adding it.",
+        "E: I was mimicking someone else's actions in the kitchen."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P08-R01-PastaSalad": [
+    {
+      "clip_name": "4482_5123.mp4",
+      "clip_path": "4482_5123.mp4",
+      "frames": [
+        "4482.jpg",
+        "4570.jpg",
+        "4695.jpg",
+        "4807.jpg",
+        "4872.jpg",
+        "4916.jpg",
+        "4970.jpg",
+        "5035.jpg",
+        "5123.jpg"
+      ],
+      "question": "Why did I repeatedly cut the onion while my attention shifted between the cutting board and the plastic bag?",
+      "answer_options": [
+        "A: I was ensuring that the onion pieces were uniform in size, as indicated by my focused gaze on the cutting board.",
+        "B: I was distracted by the contents of the plastic bag, thinking it might contain additional ingredients needed for the recipe.",
+        "C: I was trying to remember a specific cooking technique, using the plastic bag as a visual cue.",
+        "D: I was checking if the plastic bag contained more onions to continue cutting.",
+        "E: I was preparing the onion for immediate use in a dish, with my gaze guiding me to ensure proper preparation."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "27123_29617.mp4",
+      "clip_path": "27123_29617.mp4",
+      "frames": [
+        "27123.jpg",
+        "27257.jpg",
+        "27321.jpg",
+        "27372.jpg",
+        "27672.jpg",
+        "28000.jpg",
+        "28160.jpg",
+        "28401.jpg",
+        "29617.jpg"
+      ],
+      "question": "Why did I wash the strainer while cleaning the kitchen, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the sponge and kept squeezing it repeatedly.",
+        "B: I noticed food residue on the strainer and focused on removing it thoroughly.",
+        "C: I was preparing to use the strainer for another task immediately after washing.",
+        "D: I was mimicking someone else's actions as they cleaned nearby.",
+        "E: I was simply following a routine without paying much attention to the strainer."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P09-R01-PastaSalad": [
+    {
+      "clip_name": "13058_13711.mp4",
+      "clip_path": "13058_13711.mp4",
+      "frames": [
+        "13058.jpg",
+        "13099.jpg",
+        "13234.jpg",
+        "13364.jpg",
+        "13392.jpg",
+        "13422.jpg",
+        "13467.jpg",
+        "13584.jpg",
+        "13711.jpg"
+      ],
+      "question": "Why did I transfer the pasta from the strainer to the bowl while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring that all the pasta was properly drained before adding it to the salad.",
+        "B: I was distracted by the vegetables on the table and kept looking at them instead of focusing on the pasta.",
+        "C: I was checking if any specific piece of pasta was missing from the strainer.",
+        "D: I was trying to hide certain pieces of pasta from the others.",
+        "E: I was preparing the pasta for a separate dish."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "19345_19803.mp4",
+      "clip_path": "19345_19803.mp4",
+      "frames": [
+        "19345.jpg",
+        "19367.jpg",
+        "19388.jpg",
+        "19417.jpg",
+        "19450.jpg",
+        "19589.jpg",
+        "19723.jpg",
+        "19740.jpg",
+        "19803.jpg"
+      ],
+      "question": "Why did I clean the pot with a paper towel after putting it on the counter, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring the pot was dry before storing it, as my gaze shifted to the paper towel area.",
+        "B: I was distracted by the sink and wanted to make sure no water dripped from the pot.",
+        "C: I was preparing the pot for immediate use in cooking, focusing on its cleanliness.",
+        "D: I was mimicking someone else's actions who had previously cleaned a pot this way.",
+        "E: I was checking if the pot was hot and needed cooling, so I used the paper towel."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "P09-R02-TurkeySandwich": [
+    {
+      "clip_name": "2420_3200.mp4",
+      "clip_path": "2420_3200.mp4",
+      "frames": [
+        "2420.jpg",
+        "2481.jpg",
+        "2521.jpg",
+        "2620.jpg",
+        "2766.jpg",
+        "2884.jpg",
+        "2982.jpg",
+        "3102.jpg",
+        "3200.jpg"
+      ],
+      "question": "Why did I repeatedly cut the tomato while preparing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focused on ensuring each piece was uniform for even cooking.",
+        "B: I was distracted by the nearby spices and kept adjusting my grip.",
+        "C: I was checking if the tomato was ripe enough to eat.",
+        "D: I was trying to create a specific pattern for presentation.",
+        "E: I was mimicking someone else's cutting technique."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "367_1336.mp4",
+      "clip_path": "367_1336.mp4",
+      "frames": [
+        "367.jpg",
+        "779.jpg",
+        "867.jpg",
+        "966.jpg",
+        "1058.jpg",
+        "1122.jpg",
+        "1187.jpg",
+        "1268.jpg",
+        "1336.jpg"
+      ],
+      "question": "Why did I move around the olive container while preparing the turkey sandwich, considering the shifts in my attention?",
+      "answer_options": [
+        "A: I was trying to find a better spot for the olive container within the fridge.",
+        "B: I was checking if the olive container was needed for the recipe.",
+        "C: I was clearing space to easily access the bread container.",
+        "D: I was distracted by the olive container's label and read it.",
+        "E: I was organizing the fridge to make room for leftovers."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P10-R01-PastaSalad": [
+    {
+      "clip_name": "17043_19398.mp4",
+      "clip_path": "17043_19398.mp4",
+      "frames": [
+        "17043.jpg",
+        "17288.jpg",
+        "17660.jpg",
+        "18397.jpg",
+        "18893.jpg",
+        "18961.jpg",
+        "19011.jpg",
+        "19083.jpg",
+        "19398.jpg"
+      ],
+      "question": "Why did I transfer the onion from the cutting board to the bowl while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was following the recipe instructions closely and needed to keep track of each ingredient.",
+        "B: I was distracted by the lettuce nearby and accidentally moved the onion instead.",
+        "C: My gaze shifted towards the bowl as a predictive signal that it was time to combine ingredients for the next step.",
+        "D: I was trying to clear the cutting board to make space for chopping other vegetables.",
+        "E: I was mimicking someone else's actions without realizing it."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "21603_22926.mp4",
+      "clip_path": "21603_22926.mp4",
+      "frames": [
+        "21603.jpg",
+        "21973.jpg",
+        "22315.jpg",
+        "22349.jpg",
+        "22387.jpg",
+        "22597.jpg",
+        "22805.jpg",
+        "22837.jpg",
+        "22926.jpg"
+      ],
+      "question": "Why did I pour seasoning into the salad while mixing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby bottle and accidentally grabbed it.",
+        "B: I noticed a specific seasoning container while moving around and decided to add it for flavor.",
+        "C: I was focused on the utensil drawer and chose a random seasoning without checking its contents.",
+        "D: I saw someone else using a similar seasoning and mimicked their action.",
+        "E: I was preparing the salad for immediate consumption."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P10-R02-TurkeySandwich": [
+    {
+      "clip_name": "2749_3737.mp4",
+      "clip_path": "2749_3737.mp4",
+      "frames": [
+        "2749.jpg",
+        "2829.jpg",
+        "2907.jpg",
+        "2950.jpg",
+        "3020.jpg",
+        "3204.jpg",
+        "3386.jpg",
+        "3483.jpg",
+        "3737.jpg"
+      ],
+      "question": "Why did I take the cheese container from the fridge while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the other items in the fridge and accidentally grabbed the cheese container.",
+        "B: I was checking if the cheese was expired before using it.",
+        "C: The recipe instructed me to use cheese as an ingredient, and my gaze shifted towards the cheese container when I read the instructions.",
+        "D: I was trying to hide the cheese from someone else who might want it.",
+        "E: I was simply curious about what kind of cheese was available."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "1041_2276.mp4",
+      "clip_path": "1041_2276.mp4",
+      "frames": [
+        "1041.jpg",
+        "1184.jpg",
+        "1332.jpg",
+        "1689.jpg",
+        "2027.jpg",
+        "2054.jpg",
+        "2111.jpg",
+        "2202.jpg",
+        "2276.jpg"
+      ],
+      "question": "Why did I open the fridge while preparing my meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking if there were any additional ingredients needed for the recipe.",
+        "B: I was distracted by the sound of the fridge and wanted to see what caused it.",
+        "C: I was looking for a specific ingredient that I had forgotten to take out earlier.",
+        "D: I was trying to cool down the cutting board after cutting the tomato.",
+        "E: I was ensuring that the lettuce was fresh before using it."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P10-R05-Cheeseburger": [
+    {
+      "clip_name": "946_1373.mp4",
+      "clip_path": "946_1373.mp4",
+      "frames": [
+        "946.jpg",
+        "1067.jpg",
+        "1125.jpg",
+        "1159.jpg",
+        "1212.jpg",
+        "1254.jpg",
+        "1283.jpg",
+        "1325.jpg",
+        "1373.jpg"
+      ],
+      "question": "Why did I take the pan from the drawer while organizing my kitchen, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was preparing to cook something immediately after taking the bread container.",
+        "B: I was distracted by the grocery bag and kept adjusting it as I moved around.",
+        "C: I was checking if the pan was clean before using it for a specific task.",
+        "D: I was trying to hide the pan from others who might need it.",
+        "E: I was ensuring the pan was ready for future use by placing it back properly."
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "clip_name": "9023_9556.mp4",
+      "clip_path": "9023_9556.mp4",
+      "frames": [
+        "9023.jpg",
+        "9132.jpg",
+        "9164.jpg",
+        "9207.jpg",
+        "9254.jpg",
+        "9287.jpg",
+        "9353.jpg",
+        "9450.jpg",
+        "9556.jpg"
+      ],
+      "question": "Why did I transfer the sandwich and plate to the storage container, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was trying to save the remaining ingredients for later use, as my gaze shifted towards the storage container.",
+        "B: I was distracted by the vegetables on the counter and wanted to keep them fresh.",
+        "C: I was preparing the sandwich for immediate consumption, focusing on the bread and spread.",
+        "D: I was ensuring that the sandwich was properly sealed to maintain its freshness, noticing the lid placement.",
+        "E: I was organizing the kitchen space by putting away all items, paying attention to the overall scene."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "P10-R06-GreekSalad": [
+    {
+      "clip_name": "950_1900.mp4",
+      "clip_path": "950_1900.mp4",
+      "frames": [
+        "950.jpg",
+        "1014.jpg",
+        "1139.jpg",
+        "1260.jpg",
+        "1374.jpg",
+        "1533.jpg",
+        "1668.jpg",
+        "1798.jpg",
+        "1900.jpg"
+      ],
+      "question": "Why did I repeatedly cut the lettuce while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focused on ensuring the lettuce pieces were small enough for the salad.",
+        "B: I was distracted by the nearby soda cans and kept adjusting my grip.",
+        "C: I was checking if the cutting board was clean after each cut.",
+        "D: I was trying to mimic someone else's chopping technique.",
+        "E: I was preparing the lettuce for a different dish entirely."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "950_1900.mp4",
+      "clip_path": "950_1900.mp4",
+      "frames": [
+        "950.jpg",
+        "1014.jpg",
+        "1139.jpg",
+        "1260.jpg",
+        "1374.jpg",
+        "1533.jpg",
+        "1668.jpg",
+        "1798.jpg",
+        "1900.jpg"
+      ],
+      "question": "Why did I repeatedly cut the lettuce while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focused on ensuring the lettuce pieces were small enough for the salad.",
+        "B: I was distracted by the nearby soda cans and kept adjusting my grip.",
+        "C: I was checking if the cutting board was clean after each cut.",
+        "D: I was trying to mimic someone else's chopping technique.",
+        "E: I was preparing the lettuce for a different recipe."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "P11-R01-PastaSalad": [
+    {
+      "clip_name": "12848_14893.mp4",
+      "clip_path": "12848_14893.mp4",
+      "frames": [
+        "12848.jpg",
+        "13037.jpg",
+        "13083.jpg",
+        "13147.jpg",
+        "13620.jpg",
+        "14177.jpg",
+        "14342.jpg",
+        "14511.jpg",
+        "14893.jpg"
+      ],
+      "question": "Why did I cut the carrot while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focused on ensuring the carrot slices were uniform for even cooking.",
+        "B: I was distracted by the tomatoes and accidentally sliced the carrot unevenly.",
+        "C: I was checking the texture of the carrot to decide if it needed more chopping.",
+        "D: I was trying to mimic someone else's cutting technique without paying full attention.",
+        "E: I was drawn to the bright color of the carrots, causing me to rush through the slicing."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "40229_41286.mp4",
+      "clip_path": "40229_41286.mp4",
+      "frames": [
+        "40229.jpg",
+        "40398.jpg",
+        "40532.jpg",
+        "40639.jpg",
+        "40756.jpg",
+        "40842.jpg",
+        "40953.jpg",
+        "41128.jpg",
+        "41286.jpg"
+      ],
+      "question": "Why did I pour water from the cup into the sink while washing dishes, considering the shifts in my attention?",
+      "answer_options": [
+        "A: I was distracted by the sponge and accidentally spilled the water.",
+        "B: I was ensuring that the cup was empty before washing it thoroughly.",
+        "C: I was checking if the water temperature was right for washing.",
+        "D: I was trying to rinse off excess soap from the cup.",
+        "E: I was preparing to fill the cup with clean water."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P11-R02-TurkeySandwich": [
+    {
+      "clip_name": "1094_2028.mp4",
+      "clip_path": "1094_2028.mp4",
+      "frames": [
+        "1094.jpg",
+        "1159.jpg",
+        "1283.jpg",
+        "1488.jpg",
+        "1757.jpg",
+        "1925.jpg",
+        "1956.jpg",
+        "1988.jpg",
+        "2028.jpg"
+      ],
+      "question": "Why did I cut the tomato while organizing my cooking process, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focusing on the knife to ensure precise cuts.",
+        "B: I was distracted by the sink and kept looking at it while cutting.",
+        "C: I was preparing the tomato for a recipe that required chopped pieces.",
+        "D: I was trying to mimic someone else's cooking style by watching them.",
+        "E: I was checking if the tomato was ripe by repeatedly slicing it."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "487_1046.mp4",
+      "clip_path": "487_1046.mp4",
+      "frames": [
+        "487.jpg",
+        "540.jpg",
+        "579.jpg",
+        "639.jpg",
+        "760.jpg",
+        "897.jpg",
+        "963.jpg",
+        "1002.jpg",
+        "1046.jpg"
+      ],
+      "question": "Why did I clean the cutting board with a paper towel while preparing the tomato, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring the cutting board was free of any previous residue before slicing the tomato.",
+        "B: I was distracted by the trash container and decided to throw away the paper towel immediately after cleaning.",
+        "C: I was trying to mimic someone else's behavior who had cleaned the board similarly earlier.",
+        "D: I noticed some dirt on the cutting board and wanted to make sure it was spotless for hygiene.",
+        "E: I was simply following a routine without paying much attention to the actual need for cleaning."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "P12-R01-PastaSalad": [
+    {
+      "clip_name": "8322_8780.mp4",
+      "clip_path": "8322_8780.mp4",
+      "frames": [
+        "8322.jpg",
+        "8416.jpg",
+        "8463.jpg",
+        "8518.jpg",
+        "8577.jpg",
+        "8612.jpg",
+        "8644.jpg",
+        "8690.jpg",
+        "8780.jpg"
+      ],
+      "question": "Why did I turn on the faucet while washing pasta, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the strainer and forgot to turn off the faucet.",
+        "B: I was focusing on ensuring the pasta was thoroughly rinsed under running water.",
+        "C: I was checking if the sink was clean before starting the task.",
+        "D: I was trying to mimic someone else's actions without understanding the purpose.",
+        "E: I was preparing to wash other items that were nearby."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "7372_8244.mp4",
+      "clip_path": "7372_8244.mp4",
+      "frames": [
+        "7372.jpg",
+        "7488.jpg",
+        "7691.jpg",
+        "7837.jpg",
+        "7920.jpg",
+        "8012.jpg",
+        "8080.jpg",
+        "8171.jpg",
+        "8244.jpg"
+      ],
+      "question": "Why did I open the fridge while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was looking for a specific ingredient to add to the salad, as indicated by my gaze shifting towards the fridge contents.",
+        "B: I was distracted by the sound of the fridge and decided to check if it was working properly.",
+        "C: I was trying to cool down the cutting board after cutting the bell pepper.",
+        "D: I was checking the temperature of the fridge to ensure it was functioning correctly.",
+        "E: I was retrieving a grocery bag that was mistakenly placed inside the fridge."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "P12-R02-TurkeySandwich": [
+    {
+      "clip_name": "2813_3808.mp4",
+      "clip_path": "2813_3808.mp4",
+      "frames": [
+        "2813.jpg",
+        "2862.jpg",
+        "2902.jpg",
+        "2944.jpg",
+        "3042.jpg",
+        "3301.jpg",
+        "3529.jpg",
+        "3671.jpg",
+        "3808.jpg"
+      ],
+      "question": "Why did I divide and pull apart the lettuce while preparing the salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby spice containers and kept adjusting them.",
+        "B: I was ensuring that the lettuce pieces were small enough to mix well with other ingredients.",
+        "C: I was checking if the lettuce was fresh by feeling its texture.",
+        "D: I was trying to mimic someone else's cooking style as they divided the lettuce similarly.",
+        "E: I was focusing on the cutting board to avoid any spills."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "1163_1672.mp4",
+      "clip_path": "1163_1672.mp4",
+      "frames": [
+        "1163.jpg",
+        "1208.jpg",
+        "1273.jpg",
+        "1347.jpg",
+        "1412.jpg",
+        "1482.jpg",
+        "1535.jpg",
+        "1608.jpg",
+        "1672.jpg"
+      ],
+      "question": "Why did I take the condiment container from the fridge while organizing my ingredients, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the light inside the fridge and accidentally grabbed a random item.",
+        "B: I was checking if the condiment container was needed for the meal preparation based on its placement within my gaze path.",
+        "C: I was trying to hide the condiment container from others who might use it.",
+        "D: I was influenced by the proximity of the condiment container to other items and assumed it was necessary.",
+        "E: I was preparing to clean the fridge and moved the container out of the way."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P14-R01-PastaSalad": [
+    {
+      "clip_name": "39146_39670.mp4",
+      "clip_path": "39146_39670.mp4",
+      "frames": [
+        "39146.jpg",
+        "39302.jpg",
+        "39358.jpg",
+        "39413.jpg",
+        "39466.jpg",
+        "39522.jpg",
+        "39566.jpg",
+        "39615.jpg",
+        "39670.jpg"
+      ],
+      "question": "Why did I wash the eating utensil multiple times while cleaning the sink, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the sponge and kept adjusting it.",
+        "B: I was ensuring that all parts of the utensil were thoroughly cleaned.",
+        "C: I was checking if any specific part of the utensil needed more scrubbing.",
+        "D: I was trying to hide certain actions from others watching me.",
+        "E: I was preparing the utensil for a different task."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "15748_16809.mp4",
+      "clip_path": "15748_16809.mp4",
+      "frames": [
+        "15748.jpg",
+        "15927.jpg",
+        "16023.jpg",
+        "16176.jpg",
+        "16365.jpg",
+        "16579.jpg",
+        "16709.jpg",
+        "16750.jpg",
+        "16809.jpg"
+      ],
+      "question": "Why did I repeatedly wash the pasta in the strainer while pouring water, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring that all the starch was removed from the pasta by focusing on the water flow.",
+        "B: I was distracted by the faucet and kept adjusting it to control the water pressure.",
+        "C: I was checking for any remaining dirt or debris in the pasta by closely observing the strainer.",
+        "D: I was trying to cool down the pasta quickly by rinsing it with cold water.",
+        "E: I was preparing the pasta for a specific recipe that required multiple washes."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P14-R02-TurkeySandwich": [
+    {
+      "clip_name": "6229_7451.mp4",
+      "clip_path": "6229_7451.mp4",
+      "frames": [
+        "6229.jpg",
+        "6406.jpg",
+        "6640.jpg",
+        "6842.jpg",
+        "6973.jpg",
+        "7102.jpg",
+        "7246.jpg",
+        "7339.jpg",
+        "7451.jpg"
+      ],
+      "question": "Why did I repeatedly place the deli meat on the bread while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring an even distribution of deli meat by carefully observing each piece as I placed it.",
+        "B: I was distracted by the lettuce and kept adjusting the deli meat to make space for it.",
+        "C: I was checking if the deli meat container was empty before closing it.",
+        "D: I was trying to mimic someone else's sandwich-making technique.",
+        "E: I was focused on the nearby bread slices and accidentally kept placing the deli meat there."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "9727_10828.mp4",
+      "clip_path": "9727_10828.mp4",
+      "frames": [
+        "9727.jpg",
+        "9878.jpg",
+        "10034.jpg",
+        "10164.jpg",
+        "10436.jpg",
+        "10623.jpg",
+        "10677.jpg",
+        "10752.jpg",
+        "10828.jpg"
+      ],
+      "question": "Why did I open the plastic bag while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the contents of the fridge and needed to check if there were any other ingredients inside.",
+        "B: I was trying to retrieve additional condiments from the plastic bag to enhance the flavor of the sandwich.",
+        "C: I was ensuring that the bread was fresh by checking its quality before continuing with the preparation.",
+        "D: I was looking for a specific ingredient stored in the plastic bag that was necessary for completing the sandwich.",
+        "E: I was planning to store the leftover bread in the plastic bag after making the sandwich."
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "P15-R01-PastaSalad": [
+    {
+      "clip_name": "19245_20405.mp4",
+      "clip_path": "19245_20405.mp4",
+      "frames": [
+        "19245.jpg",
+        "19358.jpg",
+        "19503.jpg",
+        "19621.jpg",
+        "19850.jpg",
+        "20111.jpg",
+        "20210.jpg",
+        "20276.jpg",
+        "20405.jpg"
+      ],
+      "question": "Why did I pour oil from the container into the salad while mixing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby spice containers and accidentally grabbed the oil instead.",
+        "B: I was focusing on ensuring the salad was evenly coated with oil as part of the dressing process.",
+        "C: I was checking if the salad needed more salt before adding the oil.",
+        "D: I was trying to mimic someone else's cooking style without paying attention to my own actions.",
+        "E: I was preparing to store the salad for later use."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "4220_4972.mp4",
+      "clip_path": "4220_4972.mp4",
+      "frames": [
+        "4220.jpg",
+        "4325.jpg",
+        "4466.jpg",
+        "4553.jpg",
+        "4600.jpg",
+        "4686.jpg",
+        "4780.jpg",
+        "4851.jpg",
+        "4972.jpg"
+      ],
+      "question": "Why did I take the cucumber after inspecting the recipe, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was preparing to chop the cucumber next as indicated by the recipe instructions.",
+        "B: I was distracted by the cucumber's proximity to the tomato container and grabbed it out of habit.",
+        "C: I was checking if the cucumber was fresh enough for the salad before using it.",
+        "D: I was influenced by a friend who suggested adding extra vegetables to the dish.",
+        "E: I was trying to hide the cucumber from others who might want to use it."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "P16-R03-BaconAndEggs": [
+    {
+      "clip_name": "25905_27663.mp4",
+      "clip_path": "25905_27663.mp4",
+      "frames": [
+        "25905.jpg",
+        "26012.jpg",
+        "26158.jpg",
+        "26365.jpg",
+        "26844.jpg",
+        "27265.jpg",
+        "27376.jpg",
+        "27513.jpg",
+        "27663.jpg"
+      ],
+      "question": "Why did I take the sponge after washing the eating utensil, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was preparing to clean another utensil that needed more thorough scrubbing.",
+        "B: I was distracted by the nearby condiment containers and wanted to move them aside.",
+        "C: I noticed some residue on the utensil and decided to use the sponge for a deeper clean.",
+        "D: I was mimicking someone else's cleaning habits without realizing it.",
+        "E: I was simply following a routine without any specific reason."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "2457_3103.mp4",
+      "clip_path": "2457_3103.mp4",
+      "frames": [
+        "2457.jpg",
+        "2552.jpg",
+        "2656.jpg",
+        "2740.jpg",
+        "2790.jpg",
+        "2861.jpg",
+        "2927.jpg",
+        "2988.jpg",
+        "3103.jpg"
+      ],
+      "question": "Why did I take the grocery bag from the fridge while organizing its contents, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby juice container and decided to move it first.",
+        "B: I noticed something unusual inside the grocery bag that needed immediate attention.",
+        "C: I was preparing to replace the egg container with items from the grocery bag.",
+        "D: I was influenced by someone else's suggestion to check the grocery bag.",
+        "E: I suddenly remembered a recipe that required ingredients from the grocery bag."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P17-R03-BaconAndEggs": [
+    {
+      "clip_name": "5651_6171.mp4",
+      "clip_path": "5651_6171.mp4",
+      "frames": [
+        "5651.jpg",
+        "5720.jpg",
+        "5856.jpg",
+        "5972.jpg",
+        "6001.jpg",
+        "6030.jpg",
+        "6061.jpg",
+        "6102.jpg",
+        "6171.jpg"
+      ],
+      "question": "Why did I pour juice into the cup while organizing my kitchen tasks, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the proximity of the juice container and decided to pour it impulsively.",
+        "B: I was following a recipe that required me to prepare a drink as part of the meal.",
+        "C: I noticed the fridge was open and instinctively grabbed the juice container without thinking.",
+        "D: I was ensuring that the cup was filled with juice before moving on to the next task.",
+        "E: I was mimicking someone else's actions who had previously poured a drink."
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "clip_name": "1805_2313.mp4",
+      "clip_path": "1805_2313.mp4",
+      "frames": [
+        "1805.jpg",
+        "1890.jpg",
+        "1966.jpg",
+        "2047.jpg",
+        "2105.jpg",
+        "2149.jpg",
+        "2201.jpg",
+        "2237.jpg",
+        "2313.jpg"
+      ],
+      "question": "Why did I crack the egg while preparing the dish, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was following a specific step in the recipe that required eggs.",
+        "B: I was distracted by the juice container and accidentally cracked the egg.",
+        "C: I was checking the freshness of the eggs before using them.",
+        "D: I was trying to mimic someone else's cooking style by cracking the egg.",
+        "E: I was ensuring the eggshells were properly discarded."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "P17-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "6651_7346.mp4",
+      "clip_path": "6651_7346.mp4",
+      "frames": [
+        "6651.jpg",
+        "6681.jpg",
+        "6733.jpg",
+        "6803.jpg",
+        "6874.jpg",
+        "7087.jpg",
+        "7282.jpg",
+        "7313.jpg",
+        "7346.jpg"
+      ],
+      "question": "Why did I inspect and read the recipe multiple times while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was trying to remember the exact sequence of steps for making the sandwich.",
+        "B: I was checking if I had all the necessary ingredients before proceeding.",
+        "C: I was ensuring that I followed the instructions correctly to avoid mistakes.",
+        "D: I was looking for alternative recipes to make a different dish.",
+        "E: I was distracted by the clutter on the countertop and needed to refocus."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "12958_13664.mp4",
+      "clip_path": "12958_13664.mp4",
+      "frames": [
+        "12958.jpg",
+        "12997.jpg",
+        "13036.jpg",
+        "13106.jpg",
+        "13168.jpg",
+        "13187.jpg",
+        "13383.jpg",
+        "13612.jpg",
+        "13664.jpg"
+      ],
+      "question": "Why did I wash the bowl after putting the condiment container in the fridge, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the sink and decided to clean it out.",
+        "B: My gaze shifted towards the sponge, indicating I intended to clean multiple items.",
+        "C: I noticed the bowl had remnants of food while organizing the fridge and wanted to clean it.",
+        "D: I was preparing the bowl for a new meal immediately after storing the condiment.",
+        "E: I was mimicking someone else's cleaning habits without realizing it."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P18-R03-BaconAndEggs": [
+    {
+      "clip_name": "549_1020.mp4",
+      "clip_path": "549_1020.mp4",
+      "frames": [
+        "549.jpg",
+        "620.jpg",
+        "711.jpg",
+        "817.jpg",
+        "879.jpg",
+        "918.jpg",
+        "953.jpg",
+        "986.jpg",
+        "1020.jpg"
+      ],
+      "question": "Why did I take the egg from the counter while preparing the mixture, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the milk carton and decided to move the egg out of the way.",
+        "B: I needed to crack the egg into the bowl as part of the recipe instructions.",
+        "C: I was checking if the egg was fresh by examining it closely.",
+        "D: I wanted to keep the egg near the milk container for convenience.",
+        "E: I was mimicking someone else's actions who was also handling an egg."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "15852_16530.mp4",
+      "clip_path": "15852_16530.mp4",
+      "frames": [
+        "15852.jpg",
+        "15911.jpg",
+        "15953.jpg",
+        "16019.jpg",
+        "16066.jpg",
+        "16244.jpg",
+        "16431.jpg",
+        "16481.jpg",
+        "16530.jpg"
+      ],
+      "question": "Why did I spread the condiment on the bread while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the recipe instructions and accidentally spread too much condiment.",
+        "B: I was focusing on ensuring an even distribution of the condiment to enhance the flavor.",
+        "C: I was checking if the bread was fresh by spreading the condiment unevenly.",
+        "D: I was trying to hide the condiment bottle from others by quickly spreading it.",
+        "E: I was mimicking someone else's actions without paying attention to the task."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P18-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "9736_10311.mp4",
+      "clip_path": "9736_10311.mp4",
+      "frames": [
+        "9736.jpg",
+        "9821.jpg",
+        "9924.jpg",
+        "10021.jpg",
+        "10067.jpg",
+        "10108.jpg",
+        "10160.jpg",
+        "10223.jpg",
+        "10311.jpg"
+      ],
+      "question": "Why did I pour milk from the milk container into the bowl while preparing breakfast, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was following a recipe that required milk to be added after pouring cereal.",
+        "B: I was distracted by the items on the counter and accidentally poured the milk.",
+        "C: I was ensuring the milk was fresh by checking its expiration date before pouring it.",
+        "D: I was trying to mix the milk with the cereal to make a complete meal.",
+        "E: I was influenced by someone else's suggestion to add milk at this step."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "2422_3173.mp4",
+      "clip_path": "2422_3173.mp4",
+      "frames": [
+        "2422.jpg",
+        "2482.jpg",
+        "2539.jpg",
+        "2592.jpg",
+        "2711.jpg",
+        "2831.jpg",
+        "2934.jpg",
+        "3079.jpg",
+        "3173.jpg"
+      ],
+      "question": "Why did I open the fridge while preparing the bread, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking if there were any other ingredients needed for the recipe.",
+        "B: I was distracted by the milk carton and decided to take it out.",
+        "C: I was ensuring that the bread container was properly stored after taking the bread.",
+        "D: I was looking for a cold spot in the fridge to place the bread container.",
+        "E: I was trying to remember if I had already taken the bread from the fridge."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P19-R03-BaconAndEggs": [
+    {
+      "clip_name": "890_2127.mp4",
+      "clip_path": "890_2127.mp4",
+      "frames": [
+        "890.jpg",
+        "972.jpg",
+        "1061.jpg",
+        "1276.jpg",
+        "1561.jpg",
+        "1702.jpg",
+        "1854.jpg",
+        "2018.jpg",
+        "2127.jpg"
+      ],
+      "question": "Why did I take the bacon container while preparing breakfast, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the juice container and grabbed the wrong item.",
+        "B: I was following a specific recipe step that required bacon as an ingredient.",
+        "C: I was checking if there were any eggs left before deciding on bacon.",
+        "D: I was influenced by someone else suggesting bacon for breakfast.",
+        "E: I was trying to hide the bacon from others."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "7615_8407.mp4",
+      "clip_path": "7615_8407.mp4",
+      "frames": [
+        "7615.jpg",
+        "7687.jpg",
+        "7784.jpg",
+        "7906.jpg",
+        "8020.jpg",
+        "8107.jpg",
+        "8172.jpg",
+        "8286.jpg",
+        "8407.jpg"
+      ],
+      "question": "Why did I take a cup while preparing the meal, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby utensils and accidentally grabbed the cup instead of another ingredient.",
+        "B: I needed to measure an ingredient for the recipe, as indicated by my focused gaze on the recipe card.",
+        "C: I wanted to pour some water into the pan to adjust the cooking process.",
+        "D: I was influenced by someone else's actions and decided to mimic them by taking the cup.",
+        "E: I suddenly felt thirsty and decided to get a drink."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P19-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "2882_3548.mp4",
+      "clip_path": "2882_3548.mp4",
+      "frames": [
+        "2882.jpg",
+        "2938.jpg",
+        "2998.jpg",
+        "3071.jpg",
+        "3152.jpg",
+        "3215.jpg",
+        "3276.jpg",
+        "3374.jpg",
+        "3548.jpg"
+      ],
+      "question": "Why did I repeatedly inspect and read the recipe while preparing my breakfast, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was trying to memorize the entire recipe for future reference.",
+        "B: I was checking each step carefully to ensure I followed the instructions correctly.",
+        "C: I was distracted by the items on the counter and kept losing my place in the recipe.",
+        "D: I was looking for a different recipe that might be more appealing.",
+        "E: I was waiting for someone else to join me and was stalling."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "180_1306.mp4",
+      "clip_path": "180_1306.mp4",
+      "frames": [
+        "180.jpg",
+        "395.jpg",
+        "467.jpg",
+        "626.jpg",
+        "777.jpg",
+        "941.jpg",
+        "1107.jpg",
+        "1172.jpg",
+        "1306.jpg"
+      ],
+      "question": "Why did I repeatedly inspect the recipe while performing tasks like pouring water and operating the stove, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was trying to memorize the entire recipe before starting any task.",
+        "B: I was ensuring that each step was followed correctly by cross-referencing with the instructions.",
+        "C: I was distracted by other objects on the counter and needed to refocus on the recipe.",
+        "D: I was checking if the recipe had changed or been updated during the process.",
+        "E: I was looking for alternative recipes to use instead of the one taped on the cabinet."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P20-R03-BaconAndEggs": [
+    {
+      "clip_name": "11618_12626.mp4",
+      "clip_path": "11618_12626.mp4",
+      "frames": [
+        "11618.jpg",
+        "11836.jpg",
+        "12030.jpg",
+        "12119.jpg",
+        "12199.jpg",
+        "12354.jpg",
+        "12490.jpg",
+        "12552.jpg",
+        "12626.jpg"
+      ],
+      "question": "Why did I repeatedly inspect the bacon container while preparing breakfast, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking if there were enough slices of bacon for the recipe.",
+        "B: I was distracted by the label on the bacon container and kept reading it.",
+        "C: I was trying to decide whether to use bacon or sausage for the meal.",
+        "D: I was ensuring that the bacon was fresh and suitable for cooking.",
+        "E: I was looking for a specific brand of bacon as instructed by someone else."
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "clip_name": "22201_23356.mp4",
+      "clip_path": "22201_23356.mp4",
+      "frames": [
+        "22201.jpg",
+        "22270.jpg",
+        "22550.jpg",
+        "22852.jpg",
+        "22932.jpg",
+        "23022.jpg",
+        "23134.jpg",
+        "23255.jpg",
+        "23356.jpg"
+      ],
+      "question": "Why did I repeatedly clean the pan with paper towels while preparing to cook, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was ensuring the pan was free of any residue or oil from previous use.",
+        "B: I was distracted by the clutter on the countertop and kept shifting my focus.",
+        "C: I was trying to dry the pan after washing it, even though it wasn't wet.",
+        "D: I was mimicking someone else's cooking habits without a specific reason.",
+        "E: I was checking for cleanliness by feeling the texture of the pan's surface."
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "P20-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "7068_8182.mp4",
+      "clip_path": "7068_8182.mp4",
+      "frames": [
+        "7068.jpg",
+        "7168.jpg",
+        "7512.jpg",
+        "7862.jpg",
+        "7921.jpg",
+        "7995.jpg",
+        "8057.jpg",
+        "8107.jpg",
+        "8182.jpg"
+      ],
+      "question": "Why did I take the condiment containers from the fridge while preparing the continental breakfast, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the bright labels on the condiment containers and grabbed them impulsively.",
+        "B: I was checking if the recipe required any specific type of jam or jelly, as my gaze shifted to the instructions before taking them.",
+        "C: I was trying to hide the fact that I was actually looking for a snack instead of following the recipe.",
+        "D: I was influenced by someone else's suggestion to use those particular condiments, even though it wasn't part of the plan.",
+        "E: I was simply grabbing whatever was closest to me without paying much attention to the recipe."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "908_1543.mp4",
+      "clip_path": "908_1543.mp4",
+      "frames": [
+        "908.jpg",
+        "961.jpg",
+        "1020.jpg",
+        "1097.jpg",
+        "1182.jpg",
+        "1254.jpg",
+        "1318.jpg",
+        "1435.jpg",
+        "1543.jpg"
+      ],
+      "question": "Why did I open the condiment container while preparing the dish, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby utensils and accidentally opened it.",
+        "B: I was checking the recipe to confirm if any specific ingredient was needed from the container.",
+        "C: I was trying to hide the contents of the container from others.",
+        "D: I was influenced by someone else's actions and mimicked their behavior.",
+        "E: I was preparing to add a specific ingredient mentioned in the recipe."
+      ],
+      "correct_answer": "E"
+    }
+  ],
+  "P21-R03-BaconAndEggs": [
+    {
+      "clip_name": "7063_7776.mp4",
+      "clip_path": "7063_7776.mp4",
+      "frames": [
+        "7063.jpg",
+        "7138.jpg",
+        "7205.jpg",
+        "7314.jpg",
+        "7438.jpg",
+        "7557.jpg",
+        "7648.jpg",
+        "7710.jpg",
+        "7776.jpg"
+      ],
+      "question": "Why did I open the fridge while preparing breakfast, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the bright light inside the fridge and needed to adjust my vision.",
+        "B: I was looking for a specific ingredient mentioned in the recipe that I had just read.",
+        "C: I wanted to check if there were any other food items available besides bacon.",
+        "D: I was influenced by someone else's suggestion to get something from the fridge.",
+        "E: I was trying to hide the bacon container after using it."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "1106_2131.mp4",
+      "clip_path": "1106_2131.mp4",
+      "frames": [
+        "1106.jpg",
+        "1332.jpg",
+        "1472.jpg",
+        "1583.jpg",
+        "1690.jpg",
+        "1774.jpg",
+        "1923.jpg",
+        "2071.jpg",
+        "2131.jpg"
+      ],
+      "question": "Why did I crack the eggs into the bowl while preparing the recipe, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focusing on the carton of milk to ensure it was fresh.",
+        "B: I was checking the recipe instructions to confirm the number of eggs needed.",
+        "C: I was distracted by the faucet and kept adjusting the water flow.",
+        "D: I was trying to clean the countertop with a paper towel.",
+        "E: I was ensuring the eggs were properly cracked by observing the eggshells closely."
+      ],
+      "correct_answer": "E"
+    }
+  ],
+  "P21-R04-ContinentalBreakfast": [
+    {
+      "clip_name": "10422_11080.mp4",
+      "clip_path": "10422_11080.mp4",
+      "frames": [
+        "10422.jpg",
+        "10528.jpg",
+        "10623.jpg",
+        "10722.jpg",
+        "10823.jpg",
+        "10915.jpg",
+        "10980.jpg",
+        "11030.jpg",
+        "11080.jpg"
+      ],
+      "question": "Why did I transfer the mixture from the pot to the cup while organizing my tea-making process, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focusing on the cup to ensure it was properly filled with the mixture.",
+        "B: I was distracted by the steam rising from the pot and kept adjusting the flow.",
+        "C: I was checking if the mixture had the right consistency before transferring it.",
+        "D: I was trying to hide the contents of the pot from someone else.",
+        "E: I was preparing the mixture for a different recipe."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "10422_11080.mp4",
+      "clip_path": "10422_11080.mp4",
+      "frames": [
+        "10422.jpg",
+        "10528.jpg",
+        "10623.jpg",
+        "10722.jpg",
+        "10823.jpg",
+        "10915.jpg",
+        "10980.jpg",
+        "11030.jpg",
+        "11080.jpg"
+      ],
+      "question": "Why did I transfer the mixture from the pot to the cup while organizing my tea-making process, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was focusing on the cup to ensure it was properly filled with the mixture.",
+        "B: I was distracted by the steam rising from the pot and kept adjusting the flow.",
+        "C: I was checking if the mixture had the right consistency before transferring it.",
+        "D: I was trying to hide the contents of the pot from someone else.",
+        "E: I was preparing the mixture for a different recipe."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P21-R05-Cheeseburger": [
+    {
+      "clip_name": "847_1649.mp4",
+      "clip_path": "847_1649.mp4",
+      "frames": [
+        "847.jpg",
+        "903.jpg",
+        "972.jpg",
+        "1043.jpg",
+        "1094.jpg",
+        "1148.jpg",
+        "1241.jpg",
+        "1327.jpg",
+        "1649.jpg"
+      ],
+      "question": "Why did I pour oil into the pan while preparing to cook, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the recipe instructions and accidentally poured too much oil.",
+        "B: I was focusing on the oil container to ensure it was properly sealed after pouring.",
+        "C: I was checking the pan's heat level by observing how the oil reacted upon contact.",
+        "D: I was trying to hide the oil bottle from others by quickly pouring and closing it.",
+        "E: I was ensuring the pan was evenly coated with oil for better cooking performance."
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "clip_name": "12505_13539.mp4",
+      "clip_path": "12505_13539.mp4",
+      "frames": [
+        "12505.jpg",
+        "12545.jpg",
+        "12597.jpg",
+        "12648.jpg",
+        "12852.jpg",
+        "13071.jpg",
+        "13281.jpg",
+        "13485.jpg",
+        "13539.jpg"
+      ],
+      "question": "Why did I turn on the faucet while cleaning the cooking utensil, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the sponge and needed to rinse it off before continuing.",
+        "B: I was checking if the water pressure was sufficient for washing the utensil.",
+        "C: I was preparing to rinse the cooking utensil after scrubbing it with the sponge.",
+        "D: I was trying to adjust the temperature of the water for comfort.",
+        "E: I was ensuring that no soap residue remained on the sink area."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P21-R06-GreekSalad": [
+    {
+      "clip_name": "3492_4165.mp4",
+      "clip_path": "3492_4165.mp4",
+      "frames": [
+        "3492.jpg",
+        "3592.jpg",
+        "3682.jpg",
+        "3739.jpg",
+        "3814.jpg",
+        "3890.jpg",
+        "3997.jpg",
+        "4109.jpg",
+        "4165.jpg"
+      ],
+      "question": "Why did I take the knife from the drawer while preparing vegetables, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the cluttered drawer and grabbed the first utensil I saw.",
+        "B: I was focusing on selecting the right tool to efficiently cut the cucumber and onion.",
+        "C: I was checking if the knife was sharp enough for slicing meat.",
+        "D: I was influenced by someone nearby who suggested using a specific knife.",
+        "E: I was drawn to the shiny surface of the knife, which caught my eye."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "3492_4165.mp4",
+      "clip_path": "3492_4165.mp4",
+      "frames": [
+        "3492.jpg",
+        "3592.jpg",
+        "3682.jpg",
+        "3739.jpg",
+        "3814.jpg",
+        "3890.jpg",
+        "3997.jpg",
+        "4109.jpg",
+        "4165.jpg"
+      ],
+      "question": "Why did I take the knife from the drawer while preparing vegetables, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the cluttered drawer and grabbed the first utensil I saw.",
+        "B: I was focusing on selecting the right tool to efficiently cut the cucumber and onion.",
+        "C: I was checking if the knife was sharp enough for slicing meat.",
+        "D: I was influenced by someone nearby who suggested using a specific knife.",
+        "E: I was trying to find a spoon to mix ingredients."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P22-R03-BaconAndEggs": [
+    {
+      "clip_name": "4602_5206.mp4",
+      "clip_path": "4602_5206.mp4",
+      "frames": [
+        "4602.jpg",
+        "4679.jpg",
+        "4734.jpg",
+        "4787.jpg",
+        "4872.jpg",
+        "4948.jpg",
+        "5004.jpg",
+        "5102.jpg",
+        "5206.jpg"
+      ],
+      "question": "Why did I take the eggs from the container and place them in the pan, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the juice container and accidentally placed the eggs in the pan.",
+        "B: I was preparing to cook the eggs directly in the pan as part of a recipe.",
+        "C: I was checking the quality of the eggs by placing them in the pan.",
+        "D: I was trying to organize the fridge by moving items around.",
+        "E: I was mimicking someone else's actions without understanding the purpose."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "48181_49104.mp4",
+      "clip_path": "48181_49104.mp4",
+      "frames": [
+        "48181.jpg",
+        "48264.jpg",
+        "48334.jpg",
+        "48413.jpg",
+        "48483.jpg",
+        "48691.jpg",
+        "48936.jpg",
+        "49037.jpg",
+        "49104.jpg"
+      ],
+      "question": "Why did I move around the cup while organizing my kitchen tasks, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the sink and kept adjusting the cup to avoid spilling.",
+        "B: I was preparing the cup for a specific recipe step that required precise measurements.",
+        "C: I was checking if the cup was clean before using it for another task.",
+        "D: I was trying to hide the cup from others who might need it.",
+        "E: I was ensuring the cup was in a convenient position for easy access later."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P23-R03-BaconAndEggs": [
+    {
+      "clip_name": "40497_41289.mp4",
+      "clip_path": "40497_41289.mp4",
+      "frames": [
+        "40497.jpg",
+        "40571.jpg",
+        "40650.jpg",
+        "40700.jpg",
+        "40810.jpg",
+        "40954.jpg",
+        "41113.jpg",
+        "41244.jpg",
+        "41289.jpg"
+      ],
+      "question": "Why did I clean the pan with a paper towel while organizing the kitchen, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby spices and kept adjusting them.",
+        "B: I was preparing the pan for immediate use in cooking.",
+        "C: I noticed some residue in the pan and wanted to ensure it was thoroughly cleaned.",
+        "D: I was mimicking someone else's cleaning habits without realizing it.",
+        "E: I was simply wiping off dust from the countertop."
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "clip_name": "38834_39383.mp4",
+      "clip_path": "38834_39383.mp4",
+      "frames": [
+        "38834.jpg",
+        "38891.jpg",
+        "38945.jpg",
+        "38996.jpg",
+        "39114.jpg",
+        "39225.jpg",
+        "39282.jpg",
+        "39343.jpg",
+        "39383.jpg"
+      ],
+      "question": "Why did I take the washing liquid container while cleaning the pan, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the sponge and thought it needed more soap.",
+        "B: I noticed the pan wasn't clean enough and decided to add more detergent.",
+        "C: I was checking if the washing liquid was empty before proceeding.",
+        "D: I saw someone else using the washing liquid and mimicked their action.",
+        "E: I accidentally grabbed the wrong container thinking it was a different product."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P24-R03-BaconAndEggs": [
+    {
+      "clip_name": "9518_10426.mp4",
+      "clip_path": "9518_10426.mp4",
+      "frames": [
+        "9518.jpg",
+        "9779.jpg",
+        "9961.jpg",
+        "10020.jpg",
+        "10101.jpg",
+        "10183.jpg",
+        "10244.jpg",
+        "10337.jpg",
+        "10426.jpg"
+      ],
+      "question": "Why did I take the paper towel from the cabinet while cleaning the floor, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the trash and needed to dispose of it immediately.",
+        "B: I noticed a spill on the floor and wanted to clean it up efficiently.",
+        "C: I was preparing to wipe down the countertop instead of the floor.",
+        "D: I saw someone else drop something and rushed to help.",
+        "E: I was checking if there were any other cleaning supplies nearby."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "32552_33431.mp4",
+      "clip_path": "32552_33431.mp4",
+      "frames": [
+        "32552.jpg",
+        "32634.jpg",
+        "32733.jpg",
+        "32943.jpg",
+        "33136.jpg",
+        "33197.jpg",
+        "33297.jpg",
+        "33379.jpg",
+        "33431.jpg"
+      ],
+      "question": "Why did I pour water from the pan into the sink while washing it, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the faucet and kept adjusting the water flow.",
+        "B: I was ensuring that all the food residue was washed away by observing the water flow closely.",
+        "C: I was checking if the pan was clean by focusing on the bottom of the pan.",
+        "D: I was trying to fill the pan with more water for rinsing.",
+        "E: I was preparing the pan for cooking by making sure it was dry."
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "P25-R06-GreekSalad": [
+    {
+      "clip_name": "2773_3334.mp4",
+      "clip_path": "2773_3334.mp4",
+      "frames": [
+        "2773.jpg",
+        "2849.jpg",
+        "2941.jpg",
+        "2999.jpg",
+        "3038.jpg",
+        "3093.jpg",
+        "3173.jpg",
+        "3256.jpg",
+        "3334.jpg"
+      ],
+      "question": "Why did I take the seasoning container from the cabinet while organizing groceries, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the nearby grocery bag and kept adjusting it.",
+        "B: I was checking the label on the seasoning container to ensure it was the right one for a recipe.",
+        "C: I was trying to hide the seasoning container from others.",
+        "D: I was preparing to put the seasoning container back in a different part of the cabinet.",
+        "E: I was influenced by someone else's suggestion to use that specific seasoning."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "40_695.mp4",
+      "clip_path": "40_695.mp4",
+      "frames": [
+        "40.jpg",
+        "210.jpg",
+        "353.jpg",
+        "400.jpg",
+        "457.jpg",
+        "520.jpg",
+        "577.jpg",
+        "633.jpg",
+        "695.jpg"
+      ],
+      "question": "Why did I inspect the cheese container while preparing the Greek salad, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was checking the expiration date to ensure the cheese was fresh.",
+        "B: I was distracted by the label design and kept reading it out of curiosity.",
+        "C: I was verifying the type of cheese needed for the recipe.",
+        "D: I was trying to find a specific brand recommended by someone else.",
+        "E: I was ensuring the cheese container was properly sealed."
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "P26-R05-Cheeseburger": [
+    {
+      "clip_name": "5171_5738.mp4",
+      "clip_path": "5171_5738.mp4",
+      "frames": [
+        "5171.jpg",
+        "5273.jpg",
+        "5331.jpg",
+        "5359.jpg",
+        "5424.jpg",
+        "5522.jpg",
+        "5590.jpg",
+        "5639.jpg",
+        "5738.jpg"
+      ],
+      "question": "Why did I put the patty on the bread while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the grocery bag and kept looking for more ingredients.",
+        "B: I was ensuring the patty was centered on the bread to make a balanced sandwich.",
+        "C: I was checking if the tomato container was properly closed before adding the patty.",
+        "D: I was trying to mimic someone else's sandwich-making technique.",
+        "E: I was focusing on the bread container to ensure it was securely closed."
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "clip_name": "17753_18331.mp4",
+      "clip_path": "17753_18331.mp4",
+      "frames": [
+        "17753.jpg",
+        "17857.jpg",
+        "17972.jpg",
+        "18020.jpg",
+        "18055.jpg",
+        "18118.jpg",
+        "18191.jpg",
+        "18247.jpg",
+        "18331.jpg"
+      ],
+      "question": "Why did I place the tomato on the bread while preparing the sandwich, given the observed changes in my attention?",
+      "answer_options": [
+        "A: I was distracted by the stove and accidentally placed the tomato on the bread.",
+        "B: I was focusing on aligning the tomato slices properly to ensure even distribution.",
+        "C: I was checking if the bread was toasted enough before adding the tomato.",
+        "D: I was trying to mimic someone else's sandwich preparation style.",
+        "E: I was ensuring the tomato would not fall off by placing it carefully."
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}
