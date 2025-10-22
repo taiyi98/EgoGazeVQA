@@ -5,7 +5,6 @@
 [![Paper](https://img.shields.io/badge/arXiv-2509.07447-b31b1b.svg)](https://arxiv.org/abs/2509.07447)
 [![Project Page](https://img.shields.io/badge/Project-Page-green)](https://taiyi98.github.io/projects/EgoGazeVQA)
 [![Dataset](https://img.shields.io/badge/🤗-Dataset-yellow)](https://huggingface.co/datasets/taiyi98/EgoGazeVQA)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > **Taiying Peng<sup>1</sup>, Jiacheng Hua<sup>2</sup>, Miao Liu<sup>2†</sup>, Feng Lu<sup>1†</sup>**  
 > <sup>1</sup>State Key Laboratory of VR Technology and Systems, School of CSE, Beihang University  
@@ -23,20 +22,20 @@ This repository provides the official code for **EgoGazeVQA**, a benchmark for e
 - Evaluate MLLMs with three gaze-guided prompting strategies (textual, visual marks, salience maps)
 - Calculate and analyze model performance on intent understanding tasks
 
----
+
 
 ## Timeline
 
 - **[2025-10]** Code and dataset publicly released
 - **[2025-09]** Paper accepted at NeurIPS 2025 D&B Track
 
----
+
 
 ## TODO
 
 - [ ] Add fine-tuning scripts for LoRA adaptation
 
----
+
 
 ## Repository Structure
 
@@ -60,7 +59,7 @@ EgoGazeVQA/
 │   └── caculate.py
 ```
 
----
+
 
 ## Installation
 
@@ -74,7 +73,7 @@ conda activate egogazevqa
 pip install -r requirements.txt
 ```
 
----
+
 
 ## Dataset
 
@@ -84,7 +83,7 @@ Download from [🤗 Hugging Face](https://huggingface.co/datasets/taiyi98/EgoGaz
 huggingface-cli download taiyi98/EgoGazeVQA --repo-type dataset --local-dir ./data
 ```
 
----
+
 
 ## Usage
 
@@ -120,7 +119,6 @@ cd test_tool
 python caculate.py --result_file <RESULT_CSV_PATH>
 ```
 
----
 
 ## Citation
 
