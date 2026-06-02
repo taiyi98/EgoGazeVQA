@@ -123,14 +123,12 @@ python caculate.py --result_file <RESULT_CSV_PATH>
 ## Citation
 
 ```bibtex
-@misc{peng2025eyemllmbenchmarkingegocentric,
-    title={In the Eye of MLLM: Benchmarking Egocentric Video Intent Understanding with Gaze-Guided Prompting}, 
-    author={Taiying Peng and Jiacheng Hua and Miao Liu and Feng Lu},
-    year={2025},
-    eprint={2509.07447},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV},
-    url={https://arxiv.org/abs/2509.07447}
+@article{peng2026eye,
+  title={In the eye of mllm: Benchmarking egocentric video intent understanding with gaze-guided prompting},
+  author={Peng, Taiying and Hua, Jiacheng and Liu, Miao and Lu, Feng},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  year={2026}
 }
 ```
 
