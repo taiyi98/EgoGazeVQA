@@ -10,10 +10,11 @@
 > **NeurIPS D&B 2025**
 
 ---
-
+The preliminary EgoGazeVQA dataset is currently available. The expanded EgoGazeVQA+ annotations, verified samples, and official data splits are being prepared for release. **"EgoGazeVQA+: Benchmarking Egocentric Video Intent Understanding with Agentic Verification and Gaze-Guided Attention Intervention"**.
 ## Overview
 
 This repository provides the official code for **EgoGazeVQA**, a benchmark for evaluating multimodal large language models (MLLMs) on egocentric video understanding tasks with gaze guidance. 
+
 
 **Code Purpose:**
 - Generate gaze-guided QA pairs from egocentric videos (spatial, temporal, causal intent questions)
